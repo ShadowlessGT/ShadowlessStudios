@@ -1,8 +1,8 @@
 {
   "message": "Willkommen in meiner App!",
   "speed": 0.025,
-  "searchSizes": [512, 1024, 2048, 4096, 8192, 16384, 32768],
-  "showingSizes": [1, 2, 3, 4, 5, 6, 7],
+  "searchSizes": [1024, 2048, 4096, 8192, 16384, 32768,65536],
+  "showingSizes": [1, 2, 3, 4, 5, 6,7],
   "downloadingType":[1,2,3,4,5,6],
   "waitingSeconds":0.5
 }
