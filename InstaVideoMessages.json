@@ -1,3 +1,5 @@
+{
+  "message": "
 <en-US>
 InstaVideo Downloader is a fast and easy-to-use app that allows you to download Instagram videos with just one tap. With its user-friendly interface, you can quickly save your favorite videos to watch offline, share with friends, or repost on your own Instagram feed.
 
@@ -107,4 +109,41 @@ AI正在为您搜索，以便您能以100％的成功下载视频。下载后，
 此外，当分享Instagram链接时，该应用程序可以直接从应用程序共享选项中选择。您无需在此处复制和粘贴链接。
 
 唯一的广告是底部横幅，仅此而已。试试看，您会喜欢的:)
-</zh-CN>
+</zh-CN>",
+  "id": 1,
+  "date": "01.08.2023",
+  "titel": 
+"<en-US>
+InstaVideo Downloader is a fast and easy-to-use app
+</en-US>
+<ar>
+إن إنستا فيديو داونلودر هو تطبيق سريع وسهل الاستخدام يتيح لك تحميل مقاطع فيديو 
+</ar>
+<de-DE>
+InstaVideo Downloader ist eine schnelle
+</de-DE>
+<es-ES>
+InstaVideo Downloader es una aplicación 
+</es-ES>
+<fr-FR>
+InstaVideo Downloader est une application 
+</fr-FR>
+<it-IT>
+InstaVideo Downloader è un'app 
+</it-IT>
+<ja-JP>
+InstaVideo Downloaderは、Instagramの動画をたった1回のタ
+</ja-JP>
+<pt-PT>
+O InstaVideo Downloader é um aplicativo
+</pt-PT>
+<ru-RU>
+InstaVideo Downloader - быстрое и простое
+</ru-RU>
+<tr-TR>
+InstaVideo Downloader, tek bir dokunuşla
+</tr-TR>
+<zh-CN>
+InstaVideo Downloader是一个快速且易于使用的应用程序
+</zh-CN>",
+}
