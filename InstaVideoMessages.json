@@ -4,6 +4,7 @@
   "date": "01.08.2023",
    "imageId": "0",
     "titles": {
+          "ar": "InstaVideo Downloader arabic",
     "en-US": "InstaVideo Downloader is a fast and easy-to-use app",
     "de-DE": "InstaVideo Downloader ist eine schnelle",
     "es-ES": "InstaVideo Downloader es una aplicación",
@@ -16,6 +17,7 @@
     "zh-CN": "InstaVideo Downloader是一个快速且易于使用的应用程序"
   },
   "messages": {
+     "ar": "InstaVideo Downloader arabic",
     "en-US": "Welcome to my app!",
     "de-DE": "Willkommen in meiner App!",
     "es-ES": "¡Bienvenido a mi aplicación!",
@@ -33,6 +35,7 @@
   "date": "01.08.2023",
    "imageId": "0",
     "titles": {
+       "ar": "InstaVideo Downloader arabic",
     "en-US": "InstaVideo Downloader is a fast and easy-to-use app",
     "de-DE": "InstaVideo Downloader ist eine schnelle",
     "es-ES": "InstaVideo Downloader es una aplicación",
@@ -45,6 +48,7 @@
     "zh-CN": "InstaVideo Downloader是一个快速且易于使用的应用程序"
   },
   "messages": {
+     "ar": "InstaVideo Downloader arabic",
     "en-US": "Welcome to my app!",
     "de-DE": "Willkommen in meiner App!",
     "es-ES": "¡Bienvenido a mi aplicación!",
