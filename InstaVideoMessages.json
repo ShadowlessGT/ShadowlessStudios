@@ -32,33 +32,36 @@
 },
 {
   "id": 1,
-  "date": "01.08.2023",
+  "date": "02.08.2023",
    "imageId": "0",
-    "titles": {
-       "ar": "InstaVideo Downloader arabic",
-    "en-US": "InstaVideo Downloader is a fast and easy-to-use app",
-    "de-DE": "InstaVideo Downloader ist eine schnelle",
-    "es-ES": "InstaVideo Downloader es una aplicación",
-    "fr-FR": "InstaVideo Downloader est une application",
-    "it-IT": "InstaVideo Downloader è un'app",
-    "ja-JP": "InstaVideo Downloaderは、Instagramの動画をたった1回のタ",
-    "pt-PT": "O InstaVideo Downloader é um aplicativo",
-    "ru-RU": "InstaVideo Downloader - быстрое и простое",
-    "tr-TR": "InstaVideo Downloader, tek bir dokunuşla",
-    "zh-CN": "InstaVideo Downloader是一个快速且易于使用的应用程序"
-  },
-  "messages": {
-     "ar": "InstaVideo Downloader arabic",
-    "en-US": "Welcome to my app!",
-    "de-DE": "Willkommen in meiner App!",
-    "es-ES": "¡Bienvenido a mi aplicación!",
-    "fr-FR": "Bienvenue dans mon application!",
-    "it-IT": "Benvenuto nella mia app!",
-    "ja-JP": "私のアプリへようこそ！",
-    "pt-PT": "Bem-vindo ao meu aplicativo!",
-    "ru-RU": "Добро пожаловать в мое приложение!",
-    "tr-TR": "Uygulamama hoş geldiniz!",
-    "zh-CN": "欢迎来到我的应用程序！"
-  }
+    "titles": 
+  {
+    "ar": "محمل فيسبوك الجديد - فيديو بدون صوت",
+    "en-US": "New Facebook Downloader - Video Without Sound",
+    "de-DE": "Neuer Facebook Downloader - Video ohne Ton",
+    "es-ES": "Nuevo Descargador de Facebook - Video sin Sonido",
+    "fr-FR": "Nouveau Téléchargeur Facebook - Vidéo sans Son",
+    "it-IT": "Nuovo Downloader Facebook - Video Senza Audio",
+    "ja-JP": "新しいFacebookダウンローダー - 音声なしの動画",
+    "pt-PT": "Novo Baixador do Facebook - Vídeo Sem Som",
+    "ru-RU": "Новый загрузчик Facebook - Видео без звука",
+    "tr-TR": "Yeni Facebook İndirici - Ses Olmadan Video",
+    "zh-CN": "全新Facebook下载器 - 视频无声"
+}
+,
+"messages": 
+  {
+    "ar": "أطلقت مؤخرًا محمل Facebook ولكن التنزيلات حاليًا للفيديو فقط بدون صوت ولكن لقد وجدت الحل ويجب إصلاحه.",
+    "en-US": "Recently launched Facebook Downloader, but downloads for now only video without sound. However, I found the solution and need to fix it.",
+    "de-DE": "Kürzlich wurde der Facebook Downloader veröffentlicht, aber derzeit werden nur Videos ohne Ton heruntergeladen. Ich habe jedoch die Lösung gefunden und muss es beheben.",
+    "es-ES": "Recientemente lanzado Facebook Downloader, pero las descargas por ahora solo son videos sin sonido. Sin embargo, encontré la solución y debo arreglarlo.",
+    "fr-FR": "Facebook Downloader a été lancé récemment, mais les téléchargements sont pour le moment uniquement des vidéos sans son. Cependant, j'ai trouvé la solution et je dois le corriger.",
+    "it-IT": "Facebook Downloader è stato lanciato di recente, ma al momento le scaricamenti sono solo video senza audio. Tuttavia, ho trovato la soluzione e devo sistemarlo.",
+    "ja-JP": "最近Facebook Downloaderをリリースしましたが、現時点では音声なしの動画のみをダウンロードします。しかし、解決策を見つけ、修正する必要があります。",
+    "pt-PT": "Facebook Downloader foi lançado recentemente, mas os downloads por enquanto são apenas de vídeos sem som. No entanto, encontrei a solução e preciso corrigi-lo.",
+    "ru-RU": "Недавно был запущен Facebook Downloader, но пока что загружаются только видео без звука. Однако я нашел решение и должен его исправить.",
+    "tr-TR": "Yeni başlatılan Facebook Downloader, ancak şu anda sadece ses olmadan video indiriyor. Ancak, çözümü buldum ve düzeltmeliyim.",
+    "zh-CN": "最近推出的Facebook下载器，但目前只下载没有声音的视频。但是，我找到了解决方法，需要修复。"
+}
 }
 ]
