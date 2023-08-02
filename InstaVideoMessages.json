@@ -4,31 +4,31 @@
   "date": "01.08.2023",
    "imageId": "0",
     "titles": {
-          "ar": "InstaVideo Downloader arabic",
-    "en-US": "InstaVideo Downloader is a fast and easy-to-use app",
-    "de-DE": "InstaVideo Downloader ist eine schnelle",
-    "es-ES": "InstaVideo Downloader es una aplicación",
-    "fr-FR": "InstaVideo Downloader est une application",
-    "it-IT": "InstaVideo Downloader è un'app",
-    "ja-JP": "InstaVideo Downloaderは、Instagramの動画をたった1回のタ",
-    "pt-PT": "O InstaVideo Downloader é um aplicativo",
-    "ru-RU": "InstaVideo Downloader - быстрое и простое",
-    "tr-TR": "InstaVideo Downloader, tek bir dokunuşla",
-    "zh-CN": "InstaVideo Downloader是一个快速且易于使用的应用程序"
-  },
-  "messages": {
-     "ar": "InstaVideo Downloader arabic",
-    "en-US": "Welcome to my app!",
-    "de-DE": "Willkommen in meiner App!",
-    "es-ES": "¡Bienvenido a mi aplicación!",
-    "fr-FR": "Bienvenue dans mon application!",
-    "it-IT": "Benvenuto nella mia app!",
-    "ja-JP": "私のアプリへようこそ！",
-    "pt-PT": "Bem-vindo ao meu aplicativo!",
-    "ru-RU": "Добро пожаловать в мое приложение!",
-    "tr-TR": "Uygulamama hoş geldiniz!",
-    "zh-CN": "欢迎来到我的应用程序！"
-  }
+    "ar": "مرحبًا بك في InstaVideo Downloader AI",
+    "en-US": "Hello, to InstaVideo Downloader AI",
+    "de-DE": "Hallo, zu InstaVideo Downloader AI",
+    "es-ES": "¡Hola, a InstaVideo Downloader AI!",
+    "fr-FR": "Bonjour, à InstaVideo Downloader AI",
+    "it-IT": "Ciao, a InstaVideo Downloader AI",
+    "ja-JP": "こんにちは、InstaVideo Downloader AI へ",
+    "pt-PT": "Olá, para o InstaVideo Downloader AI",
+    "ru-RU": "Привет, к InstaVideo Downloader AI",
+    "tr-TR": "Merhaba, InstaVideo Downloader AI'ye",
+    "zh-CN": "你好，欢迎来到 InstaVideo Downloader AI"
+},
+"messages": {
+    "ar": "AI يقوم بالبحث عن مقاطع فيديو إنستغرام على الرابط المعطى ويجد بنسبة 100% ، لذلك يمكنك تنزيلها. قم بتنزيل مقاطع الفيديو من إنستغرام بسهولة باستخدام التطبيق. شارك وشاهد مقاطع الفيديو بواسطة مشغل الفيديو المدمج وتابع جميع التنزيلات في قائمة.",
+    "en-US": "AI is Searching Instagram Videos on given Link and finds 100%, so you can download. Easily download Instagram videos using the app. Share and watch videos with the built-in video player and keep track of all downloads in a list.",
+    "de-DE": "KI sucht nach Instagram-Videos auf dem angegebenen Link und findet zu 100%, sodass Sie sie herunterladen können. Laden Sie Instagram-Videos einfach über die App herunter. Teilen und betrachten Sie Videos mit dem integrierten Videoplayer und behalten Sie alle Downloads in einer Liste im Auge.",
+    "es-ES": "AI está buscando videos de Instagram en el enlace proporcionado y encuentra el 100%, por lo que puedes descargarlos. Descarga fácilmente videos de Instagram con la aplicación. Comparte y mira videos con el reproductor de video incorporado y lleva un registro de todas las descargas en una lista.",
+    "fr-FR": "L'IA recherche des vidéos Instagram sur le lien donné et trouve 100%, vous pouvez donc les télécharger. Téléchargez facilement des vidéos Instagram à l'aide de l'application. Partagez et regardez des vidéos avec le lecteur vidéo intégré et suivez toutes les téléchargements dans une liste.",
+    "it-IT": "L'IA sta cercando video di Instagram sul link fornito e trova il 100%, quindi puoi scaricarli. Scarica facilmente video di Instagram tramite l'app. Condividi e guarda video con il lettore video integrato e tieni traccia di tutti i download in un elenco.",
+    "ja-JP": "AIは指定されたリンクでInstagramの動画を検索し、100％見つかるのでダウンロードできます。このアプリを使って簡単にInstagramの動画をダウンロードしてください。ビルトインのビデオプレーヤーで動画を共有して視聴し、すべてのダウンロードをリストで追跡できます。",
+    "pt-PT": "IA está procurando vídeos do Instagram no link fornecido e encontra 100%, para que você possa baixá-los. Baixe facilmente vídeos do Instagram usando o aplicativo. Compartilhe e assista a vídeos com o reprodutor de vídeo integrado e acompanhe todos os downloads em uma lista.",
+    "ru-RU": "ИИ ищет видео Instagram по заданной ссылке и находит на 100%, поэтому вы можете их скачать. Легко скачивайте видео Instagram с помощью приложения. Делитесь и смотрите видео с помощью встроенного видеоплеера и отслеживайте все загрузки в списке.",
+    "tr-TR": "YIA, verilen bağlantıda Instagram Videoları arıyor ve %100 buluyor, böylece indirebilirsiniz. Uygulama ile Instagram videolarını kolayca indirin. İçinde yerleşik video oynatıcıyla videoları paylaşın ve izleyin ve tüm indirmeleri bir listede takip edin.",
+    "zh-CN": "AI正在搜索给定链接上的Instagram视频，并找到了100％，因此您可以下载。使用该应用轻松下载Instagram视频。通过内置视频播放器共享和观看视频，并在列表中跟踪所有下载。"
+}
 },
 {
   "id": 1,
