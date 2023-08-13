@@ -64,4 +64,37 @@
     "zh-CN": "最近推出的Facebook下载器，但目前只下载没有声音的视频。但是，我找到了解决方法，需要修复。"
 }
 }
+  ,
+{
+  "id": 2,
+  "date": "13.08.2023",
+   "imageId": "0",
+    "titles": {
+        "ar": "تحديث مهم",
+        "en-US": "Important Update",
+        "de-DE": "Wichtiger Update",
+        "es-ES": "Actualización importante",
+        "fr-FR": "Mise à jour importante",
+        "it-IT": "Aggiornamento importante",
+        "ja-JP": "重要なアップデート",
+        "pt-PT": "Atualização importante",
+        "ru-RU": "Важное обновление",
+        "tr-TR": "Önemli Güncelleme",
+        "zh-CN": "重要更新"
+    }
+,
+"messages": {
+        "ar": "تحديث مهم يتجاوز العقبات عند البحث عن فيديوهات إنستغرام، يقوم بتشفير الفيديو وتحميله.",
+        "en-US": "An important update that overcomes an obstacle when searching for Instagram videos, encrypts the video, and downloads it.",
+        "de-DE": "Ein wichtiger Update, der ein Hindernis beim Suchen von Instagram-Videos überwindet, das Video verschlüsselt und es herunterlädt.",
+        "es-ES": "Una actualización importante que supera un obstáculo al buscar videos de Instagram, cifra el video y lo descarga.",
+        "fr-FR": "Une mise à jour importante qui surmonte un obstacle lors de la recherche de vidéos Instagram, crypte la vidéo et la télécharge.",
+        "it-IT": "Un aggiornamento importante che supera un ostacolo nella ricerca di video di Instagram, crittografa il video e lo scarica.",
+        "ja-JP": "Instagramのビデオを検索する際の障害を克服し、ビデオを暗号化してダウンロードする重要なアップデート。",
+        "pt-PT": "Uma atualização importante que supera um obstáculo ao pesquisar vídeos do Instagram, criptografa o vídeo e o baixa.",
+        "ru-RU": "Важное обновление, которое позволяет преодолеть препятствия при поиске видео в Instagram, шифрует видео и загружает его.",
+        "tr-TR": "Instagram videolarını ararken bir engeli aşan, videonun şifrelenmesini sağlayan ve onu indiren önemli bir güncelleme.",
+        "zh-CN": "一个重要的更新，可以克服在搜索Instagram视频时的障碍，加密视频并下载它。"
+    }
+}
 ]
