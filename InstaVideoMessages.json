@@ -97,4 +97,37 @@
         "zh-CN": "一个重要的更新，可以克服在搜索Instagram视频时的障碍，加密视频并下载它。\n\n从更新版本100开始可用"
     }
 }
+  ,
+  {
+  "id": 4,
+  "date": "15.08.2023",
+   "imageId": "0",
+    "titles": {
+        "ar": "تحديث جديد",
+        "en-US": "New Update",
+        "de-DE": "Neues Update",
+        "es-ES": "Nueva actualización",
+        "fr-FR": "Nouvelle mise à jour",
+        "it-IT": "Nuovo aggiornamento",
+        "ja-JP": "新しいアップデート",
+        "pt-PT": "Nova atualização",
+        "ru-RU": "Новое обновление",
+        "tr-TR": "Yeni Güncelleme",
+        "zh-CN": "新的更新"
+    }
+,
+"messages": {
+        "ar": "مرحبًا، الآن يمكنك تحديد قيمة لوقت الانتظار للتأكد من أن الرابط المطلوب قد تم تحميله بالكامل، وبذلك يمكن لتطبيقنا العثور على الفيديو المطلوب للتحميل.",
+        "en-US": "Hello people, now you are able to set a value for waiting time to make sure the requested URL is fully loaded and so our app can find the wanted video to download.",
+        "de-DE": "Hallo Leute, jetzt könnt ihr einen Wert für die Wartezeit festlegen, um sicherzustellen, dass die angeforderte URL vollständig geladen ist und unsere App das gewünschte Video zum Herunterladen finden kann.",
+        "es-ES": "Hola gente, ahora pueden establecer un valor de tiempo de espera para asegurarse de que la URL solicitada esté completamente cargada y así nuestra aplicación pueda encontrar el video que desean descargar.",
+        "fr-FR": "Bonjour à tous, vous pouvez maintenant définir une valeur pour le temps d'attente afin de vous assurer que l'URL demandée est entièrement chargée et ainsi notre application peut trouver la vidéo souhaitée à télécharger.",
+        "it-IT": "Ciao a tutti, ora potete impostare un valore per il tempo di attesa per assicurarvi che l'URL richiesto sia completamente caricato e così la nostra app può trovare il video desiderato da scaricare.",
+        "ja-JP": "皆さん、こんにちは。現在、要求されたURLが完全に読み込まれるのを確認するための待機時間の値を設定できるようになりました。これにより、アプリはダウンロードしたいビデオを見つけることができます。",
+        "pt-PT": "Olá pessoal, agora vocês podem definir um valor para o tempo de espera para garantir que a URL solicitada seja totalmente carregada e assim nosso aplicativo pode encontrar o vídeo desejado para download.",
+        "ru-RU": "Привет всем, теперь вы можете установить значение времени ожидания, чтобы убедиться, что запрошенный URL полностью загружен, и наше приложение может найти нужное видео для скачивания.",
+        "tr-TR": "Merhaba millet, artık istenen URL'nin tamamen yüklendiğinden emin olmak için bekleme süresi için bir değer ayarlayabilirsiniz ve böylece uygulamamız indirilmek istenen videoyu bulabilir.",
+        "zh-CN": "大家好，现在您可以为等待时间设置一个值，以确保请求的URL完全加载，这样我们的应用程序就可以找到您想要下载的视频了。"
+    }
+}  
 ]
