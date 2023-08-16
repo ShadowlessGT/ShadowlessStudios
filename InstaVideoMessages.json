@@ -173,28 +173,12 @@
     "en-US": "Testing SomeStuff",
     "de-DE": "Durchführung einiger Tests",
 
-}
+  }
 ,
 "messages": 
   {
     "en-US": "This is just a Test ignore it, we are Working for you to make the app better :) ",
+  }
 }
-}
-  ,
-{
-  "id": -1453,
-  "date": "08.08.1453",
-   "imageId": "0",
-    "titles": 
-  {
-    "en-US": "Testing SomeStuff part 2",
-    "de-DE": "Durchführung einiger Tests part 1",
 
-}
-,
-"messages": 
-  {
-    "en-US": "This is just a Test ignore it, we are Working for you to make the app better :) ",
-}
-}
 ]
