@@ -163,22 +163,6 @@
         "zh-CN": "Facebook视频下载器现在能够再次下载带有声音的视频。我们已经克服了Facebook设定的障碍，因为音频部分是单独提供的，所以没有下载视频。此外，Facebook并没有提供音频文件，而是提供了一个视频文件，这使得其难以被找到。现在，该应用程序可以找到并将其保存为带有音频的mp4格式视频。为此，在找到视频和音频材料后，会启动一个合并过程。因此，在通过弹出窗口找到并选择视频后，会有一个简短的等待时间。请耐心等待，应用程序正在后台工作。",
     }
 }
-  ,
-{
-  "id": -571,
-  "date": "02.08.571",
-   "imageId": "0",
-    "titles": 
-  {
-    "en-US": "Testing SomeStuff",
-    "de-DE": "Durchführung einiger Tests",
-
-  }
-,
-"messages": 
-  {
-    "en-US": "This is just a Test ignore it, we are Working for you to make the app better :) ",
-  }
-}
+  
 
 ]
