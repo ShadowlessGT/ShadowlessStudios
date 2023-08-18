@@ -2158,7 +2158,40 @@
             "tr-TR": "Ne Var Ne Yok?!",
             "zh-CN": "什么是新的？！"
           }
-        }
+        },
+        {
+    "Key": "Info",
+    "Translations": {
+        "ar": "معلومات",
+        "en-US": "Info",
+        "de-DE": "Info",
+        "es-ES": "Info",
+        "fr-FR": "Infos",
+        "it-IT": "Info",
+        "ja-JP": "情報",
+        "pt-PT": "Info",
+        "ru-RU": "Инфо",
+        "tr-TR": "Bilgi",
+        "zh-CN": "信息"
+    }
+},
+{
+    "Key": "Updates",
+    "Translations": {
+        "ar": "تحديثات",
+        "en-US": "Updates",
+        "de-DE": "Aktualisierungen",
+        "es-ES": "Actualizaciones",
+        "fr-FR": "Mises à jour",
+        "it-IT": "Aggiornamenti",
+        "ja-JP": "アップデート",
+        "pt-PT": "Atualizações",
+        "ru-RU": "Обновления",
+        "tr-TR": "Güncellemeler",
+        "zh-CN": "更新"
+    }
+}
+
       ]
     },
     {
