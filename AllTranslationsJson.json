@@ -3399,6 +3399,23 @@
           }
         },
         {
+    "Key": "enterLink",
+    "Translations": {
+        "ar": "أدخل هنا رابط {0}",
+        "en-US": "Enter here {0}-Link",
+        "de-DE": "Geben Sie hier den {0}-Link ein",
+        "es-ES": "Introduce aquí el enlace de {0}",
+        "fr-FR": "Entrez ici le lien {0}",
+        "it-IT": "Inserisci qui il link di {0}",
+        "ja-JP": "こちらに{0}のリンクを入力してください",
+        "pt-PT": "Insira aqui o link {0}",
+        "ru-RU": "Введите здесь ссылку {0}",
+        "tr-TR": "{0} bağlantısını buraya girin",
+        "zh-CN": "在此输入{0}链接"
+    }
+}
+,
+        {
           "Key": "SeperationDescription",
           "Translations": {
             "ar": "يتم فصل مقاطع الفيديو وإدراجها اعتمادًا على مسار التنزيل. في المستقبل سيكون هناك المزيد من التحديد هنا ، والبحث عن الفصل والفرز حسب التاريخ.",
