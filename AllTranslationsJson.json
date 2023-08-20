@@ -1,6 +1,5 @@
-{ "id": "1",
-  "version": "1",
-  "lastUpdate": "18.08.2023",
+{ "version": "2",
+  "lastUpdate": "20.08.2023",
   "categories": [
     {
       "id": 1,
@@ -3189,10 +3188,27 @@
     },
     {
       "id": 17,
-      "version": 1,
-      "date": "18.08.2023",
+      "version": 2,
+      "date": "20.08.2023",
       "categoryKey": "InstaVideo",
       "entries": [
+                {
+          "Key": "SolutionForBlockedVideos",
+          "Translations": {
+        "ar": "الحل الوحيد للمحتوى الخاص أو المحظور هو تسجيل الدخول إلى إنستغرام من قسم الإعدادات. بعد ذلك، ستتمكن التطبيق من العثور والتحميل، وإلا فإن ذلك سيكون مستحيلًا.",
+        "en-US": "The only solution against private or blocked content is to login to Instagram in the settings section. Then the app will be able to find and download, otherwise it's impossible.",
+        "de-DE": "Die einzige Lösung gegen privaten oder blockierten Inhalt ist, sich in den Einstellungen bei Instagram anzumelden. Dann kann die App finden und herunterladen, sonst ist es unmöglich.",
+        "es-ES": "La única solución contra el contenido privado o bloqueado es iniciar sesión en Instagram en la sección de configuración. Luego, la aplicación podrá encontrar y descargar, de lo contrario es imposible.",
+        "fr-FR": "La seule solution contre le contenu privé ou bloqué est de se connecter à Instagram dans la section des paramètres. Ensuite, l'application pourra trouver et télécharger, sinon c'est impossible.",
+        "it-IT": "L'unica soluzione contro contenuti privati o bloccati è accedere a Instagram nella sezione delle impostazioni. Poi l'app sarà in grado di trovare e scaricare, altrimenti è impossibile.",
+        "ja-JP": "プライベートまたはブロックされたコンテンツに対する唯一の解決策は、設定セクションでInstagramにログインすることです。その後、アプリは検索してダウンロードすることができます。それ以外の場合、それは不可能です。",
+        "pt-PT": "A única solução contra conteúdo privado ou bloqueado é fazer login no Instagram na seção de configurações. Então, o aplicativo será capaz de encontrar e baixar, caso contrário, é impossível.",
+        "ru-RU": "Единственное решение против приватного или заблокированного контента - войти в Instagram в разделе настроек. Тогда приложение сможет найти и загрузить, в противном случае это невозможно.",
+        "tr-TR": "Özel veya engellenmiş içeriklere karşı tek çözüm, ayarlar bölümünde Instagram'a giriş yapmaktır. Ardından uygulama bulabilecek ve indirebilecektir, aksi takdirde bu mümkün değildir.",
+        "zh-CN": "对于私有或被阻止的内容，唯一的解决方案是在设置部分登录Instagram。然后，应用程序将能够找到并下载，否则这是不可能的。"
+    }
+        },
+        
         {
           "Key": "AISearching",
           "Translations": {
