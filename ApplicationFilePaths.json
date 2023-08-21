@@ -1,7 +1,7 @@
 {
   "filePaths": [
-    {
-      "ApplicationFilePaths": "Buttons"
-    }
+    "ApplicationFilePaths.json",
+    "AllTranslationsJson.json",
+    "InstaVideoMessages.json"
   ]
 }
