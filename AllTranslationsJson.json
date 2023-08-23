@@ -3370,19 +3370,19 @@
           }
         },
         {
-          "Key": "InsterInstagramLink",
+          "Key": "InsertLink",
           "Translations": {
-            "ar": "رابط Instagram",
-            "en-US": "Instagram link",
-            "de-DE": "Instagram Link",
-            "es-ES": "Enlace De Instagram",
-            "fr-FR": "Lien Instagram",
-            "it-IT": "Link Instagram",
-            "ja-JP": "Instagramリンク",
-            "pt-PT": "Link Do Instagram",
-            "ru-RU": "Ссылка На Instagram",
-            "tr-TR": "Instagram Bağlantısı",
-            "zh-CN": "Instagram链接"
+            "ar": "رابط {0}",
+            "en-US": "{0} link",
+            "de-DE": "{0} Link",
+            "es-ES": "Enlace De {0}",
+            "fr-FR": "Lien {0}",
+            "it-IT": "Link {0}",
+            "ja-JP": "{0} リンク",
+            "pt-PT": "Link Do {0}",
+            "ru-RU": "Ссылка На {0}",
+            "tr-TR": "{0} Bağlantısı",
+            "zh-CN": "{0} 链接"
           }
         },
         {
