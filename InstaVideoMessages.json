@@ -1,219 +1,33 @@
 [
   {
     "id": 1,
-    "date": "01.08.2023",
-    "imageId": 0,
-    "titles": {
-      "ar": "مرحبًا بك في InstaVideo Downloader AI",
-      "en-US": "Hello, to InstaVideo Downloader AI",
-      "de-DE": "Hallo, zu InstaVideo Downloader AI",
-      "es-ES": "¡Hola, a InstaVideo Downloader AI!",
-      "fr-FR": "Bonjour, à InstaVideo Downloader AI",
-      "it-IT": "Ciao, a InstaVideo Downloader AI",
-      "ja-JP": "こんにちは、InstaVideo Downloader AI へ",
-      "pt-PT": "Olá, para o InstaVideo Downloader AI",
-      "ru-RU": "Привет, к InstaVideo Downloader AI",
-      "tr-TR": "Merhaba, InstaVideo Downloader AI'ye",
-      "zh-CN": "你好，欢迎来到 InstaVideo Downloader AI"
-    },
-    "messages": {
-      "ar": "AI يقوم بالبحث عن مقاطع فيديو إنستغرام على الرابط المعطى ويجد بنسبة 100% ، لذلك يمكنك تنزيلها. قم بتنزيل مقاطع الفيديو من إنستغرام بسهولة باستخدام التطبيق. شارك وشاهد مقاطع الفيديو بواسطة مشغل الفيديو المدمج وتابع جميع التنزيلات في قائمة.",
-      "en-US": "AI is Searching Instagram Videos on given Link and finds 100%, so you can download. Easily download Instagram videos using the app. Share and watch videos with the built-in video player and keep track of all downloads in a list.",
-      "de-DE": "KI sucht nach Instagram-Videos auf dem angegebenen Link und findet zu 100%, sodass Sie sie herunterladen können. Laden Sie Instagram-Videos einfach über die App herunter. Teilen und betrachten Sie Videos mit dem integrierten Videoplayer und behalten Sie alle Downloads in einer Liste im Auge.",
-      "es-ES": "AI está buscando videos de Instagram en el enlace proporcionado y encuentra el 100%, por lo que puedes descargarlos. Descarga fácilmente videos de Instagram con la aplicación. Comparte y mira videos con el reproductor de video incorporado y lleva un registro de todas las descargas en una lista.",
-      "fr-FR": "L'IA recherche des vidéos Instagram sur le lien donné et trouve 100%, vous pouvez donc les télécharger. Téléchargez facilement des vidéos Instagram à l'aide de l'application. Partagez et regardez des vidéos avec le lecteur vidéo intégré et suivez toutes les téléchargements dans une liste.",
-      "it-IT": "L'IA sta cercando video di Instagram sul link fornito e trova il 100%, quindi puoi scaricarli. Scarica facilmente video di Instagram tramite l'app. Condividi e guarda video con il lettore video integrato e tieni traccia di tutti i download in un elenco.",
-      "ja-JP": "AIは指定されたリンクでInstagramの動画を検索し、100％見つかるのでダウンロードできます。このアプリを使って簡単にInstagramの動画をダウンロードしてください。ビルトインのビデオプレーヤーで動画を共有して視聴し、すべてのダウンロードをリストで追跡できます。",
-      "pt-PT": "IA está procurando vídeos do Instagram no link fornecido e encontra 100%, para que você possa baixá-los. Baixe facilmente vídeos do Instagram usando o aplicativo. Compartilhe e assista a vídeos com o reprodutor de vídeo integrado e acompanhe todos os downloads em uma lista.",
-      "ru-RU": "ИИ ищет видео Instagram по заданной ссылке и находит на 100%, поэтому вы можете их скачать. Легко скачивайте видео Instagram с помощью приложения. Делитесь и смотрите видео с помощью встроенного видеоплеера и отслеживайте все загрузки в списке.",
-      "tr-TR": "YIA, verilen bağlantıda Instagram Videoları arıyor ve %100 buluyor, böylece indirebilirsiniz. Uygulama ile Instagram videolarını kolayca indirin. İçinde yerleşik video oynatıcıyla videoları paylaşın ve izleyin ve tüm indirmeleri bir listede takip edin.",
-      "zh-CN": "AI正在搜索给定链接上的Instagram视频，并找到了100％，因此您可以下载。使用该应用轻松下载Instagram视频。通过内置视频播放器共享和观看视频，并在列表中跟踪所有下载。"
-    }
-  },
-  {
-    "id": 2,
-    "date": "02.08.2023",
-    "imageId": 0,
-    "titles": {
-      "ar": "محمل فيسبوك الجديد - فيديو بدون صوت",
-      "en-US": "New Facebook Downloader - Video Without Sound",
-      "de-DE": "Neuer Facebook Downloader - Video ohne Ton",
-      "es-ES": "Nuevo Descargador de Facebook - Video sin Sonido",
-      "fr-FR": "Nouveau Téléchargeur Facebook - Vidéo sans Son",
-      "it-IT": "Nuovo Downloader Facebook - Video Senza Audio",
-      "ja-JP": "新しいFacebookダウンローダー - 音声なしの動画",
-      "pt-PT": "Novo Baixador do Facebook - Vídeo Sem Som",
-      "ru-RU": "Новый загрузчик Facebook - Видео без звука",
-      "tr-TR": "Yeni Facebook İndirici - Ses Olmadan Video",
-      "zh-CN": "全新Facebook下载器 - 视频无声"
-    },
-    "messages": {
-      "ar": "أطلقت مؤخرًا محمل Facebook ولكن التنزيلات حاليًا للفيديو فقط بدون صوت ولكن لقد وجدت الحل ويجب إصلاحه.",
-      "en-US": "Recently launched Facebook Downloader, but downloads for now only video without sound. However, I found the solution and need to fix it.",
-      "de-DE": "Kürzlich wurde der Facebook Downloader veröffentlicht, aber derzeit werden nur Videos ohne Ton heruntergeladen. Ich habe jedoch die Lösung gefunden und muss es beheben.",
-      "es-ES": "Recientemente lanzado Facebook Downloader, pero las descargas por ahora solo son videos sin sonido. Sin embargo, encontré la solución y debo arreglarlo.",
-      "fr-FR": "Facebook Downloader a été lancé récemment, mais les téléchargements sont pour le moment uniquement des vidéos sans son. Cependant, j'ai trouvé la solution et je dois le corriger.",
-      "it-IT": "Facebook Downloader è stato lanciato di recente, ma al momento le scaricamenti sono solo video senza audio. Tuttavia, ho trovato la soluzione e devo sistemarlo.",
-      "ja-JP": "最近Facebook Downloaderをリリースしましたが、現時点では音声なしの動画のみをダウンロードします。しかし、解決策を見つけ、修正する必要があります。",
-      "pt-PT": "Facebook Downloader foi lançado recentemente, mas os downloads por enquanto são apenas de vídeos sem som. No entanto, encontrei a solução e preciso corrigi-lo.",
-      "ru-RU": "Недавно был запущен Facebook Downloader, но пока что загружаются только видео без звука. Однако я нашел решение и должен его исправить.",
-      "tr-TR": "Yeni başlatılan Facebook Downloader, ancak şu anda sadece ses olmadan video indiriyor. Ancak, çözümü buldum ve düzeltmeliyim.",
-      "zh-CN": "最近推出的Facebook下载器，但目前只下载没有声音的视频。但是，我找到了解决方法，需要修复。"
-    }
-  },
-  {
-    "id": 3,
-    "date": "13.08.2023",
+    "date": "23-08-2023 20:25:15",
     "imageId": 3,
     "titles": {
-      "ar": "تحديث مهم",
-      "en-US": "Important Update",
-      "de-DE": "Wichtiger Update",
-      "es-ES": "Actualización importante",
-      "fr-FR": "Mise à jour importante",
-      "it-IT": "Aggiornamento importante",
-      "ja-JP": "重要なアップデート",
-      "pt-PT": "Atualização importante",
-      "ru-RU": "Важное обновление",
-      "tr-TR": "Önemli Güncelleme",
-      "zh-CN": "重要更新"
+      "ar": "تطبيق محظور",
+      "en-US": "Banned App",
+      "de-DE": "Gesperrte App",
+      "es-ES": "Aplicación Prohibida",
+      "fr-FR": "Application Bannie",
+      "it-IT": "App Bloccata",
+      "ja-JP": "禁止されたアプリ",
+      "pt-PT": "App Banido",
+      "ru-RU": "Заблокированное Приложение",
+      "tr-TR": "Yasaklanmış Uygulama",
+      "zh-CN": "被禁应用"
     },
     "messages": {
-      "ar": "تحديث مهم يتجاوز العقبات عند البحث عن فيديوهات إنستغرام، يقوم بتشفير الفيديو وتحميله.\n\nمتاح في الإصدار التحديثي 100",
-      "en-US": "An important update that overcomes an obstacle when searching for Instagram videos, encrypts the video, and downloads it.\n\nAvailable from update version 100",
-      "de-DE": "Ein wichtiger Update, der ein Hindernis beim Suchen von Instagram-Videos überwindet, das Video verschlüsselt und es herunterlädt.\n\nVerfügbar ab Update Version 100",
-      "es-ES": "Una actualización importante que supera un obstáculo al buscar videos de Instagram, cifra el video y lo descarga.\n\nDisponible desde la versión de actualización 100",
-      "fr-FR": "Une mise à jour importante qui surmonte un obstacle lors de la recherche de vidéos Instagram, crypte la vidéo et la télécharge.\n\nDisponible à partir de la version de mise à jour 100",
-      "it-IT": "Un aggiornamento importante che supera un ostacolo nella ricerca di video di Instagram, crittografa il video e lo scarica.\n\nDisponibile dalla versione di aggiornamento 100",
-      "ja-JP": "Instagramのビデオを検索する際の障害を克服し、ビデオを暗号化してダウンロードする重要なアップデート。\n\nアップデートバージョン100から利用可能",
-      "pt-PT": "Uma atualização importante que supera um obstáculo ao pesquisar vídeos do Instagram, criptografa o vídeo e o baixa.\n\nDisponível a partir da versão de atualização 100",
-      "ru-RU": "Важное обновление, которое позволяет преодолеть препятствия при поиске видео в Instagram, шифрует видео и загружает его.\n\nДоступно начиная с версии обновления 100",
-      "tr-TR": "Instagram videolarını ararken bir engeli aşan, videonun şifrelenmesini sağlayan ve onu indiren önemli bir güncelleme.\n\nGüncelleme Sürümü 100'dan itibaren kullanılabilir",
-      "zh-CN": "一个重要的更新，可以克服在搜索Instagram视频时的障碍，加密视频并下载它。\n\n从更新版本100开始可用"
-    }
-  },
-  {
-    "id": 4,
-    "date": "15.08.2023",
-    "imageId": 0,
-    "titles": {
-      "ar": "تحديث جديد",
-      "en-US": "New Update",
-      "de-DE": "Neues Update",
-      "es-ES": "Nueva actualización",
-      "fr-FR": "Nouvelle mise à jour",
-      "it-IT": "Nuovo aggiornamento",
-      "ja-JP": "新しいアップデート",
-      "pt-PT": "Nova atualização",
-      "ru-RU": "Новое обновление",
-      "tr-TR": "Yeni Güncelleme",
-      "zh-CN": "新的更新"
-    },
-    "messages": {
-      "ar": "مرحبًا، الآن يمكنك تحديد قيمة لوقت الانتظار للتأكد من أن الرابط المطلوب قد تم تحميله بالكامل، وبذلك يمكن لتطبيقنا العثور على الفيديو المطلوب للتحميل. يمكنك الوصول إلى هذا الإعداد من الزر الموجود في الجزء العلوي الأيسر للشاشة. من الأفضل تحديد قيمة بين 2 و5، حيث أن قيمة أقل تعني بحثًا أسرع ولكن أقل دقة، بينما قيمة أعلى تعني بحثًا أدق. سرعة الإنترنت لديك تلعب دورًا هامًا أيضًا، حيث أن الإنترنت السريع قد يتطلب قيمة 1 أو 2، في حين أن الإنترنت البطيء قد يتطلب قيمة 5.",
-      "en-US": "Hello people, now you are able to set a value for waiting time to make sure the requested URL is fully loaded and so our app can find the wanted video to download. You can access this setting from the button in the top left corner. It's recommended to choose a value between 2 and 5. A lower value leads to quicker finding but is less reliable, whereas a setting of 5 is more likely to find the video. Your internet speed also plays a role: with faster internet, a setting of 1 or 2 might be suitable, while with slower internet, a setting of 5 is advised.",
-      "de-DE": "Hallo Leute, jetzt könnt ihr einen Wert für die Wartezeit festlegen, um sicherzustellen, dass die angeforderte URL vollständig geladen ist und unsere App das gewünschte Video zum Herunterladen finden kann. Die Einstellung hierfür könnt ihr oben links über den Button erreichen. Es wird empfohlen, einen Wert zwischen 2 und 5 zu wählen. Ein kleinerer Wert führt zu schnellerem Finden, ist aber weniger zuverlässig. Bei einer Einstellung von 5 ist es wahrscheinlicher, dass das Video gefunden wird. Die Internetgeschwindigkeit spielt ebenfalls eine Rolle: Bei schnellerem Internet kann der Wert 1 oder 2 sein, während bei langsamerer Verbindung ein Wert von 5 empfohlen wird.",
-      "es-ES": "Hola gente, ahora pueden establecer un valor de tiempo de espera para asegurarse de que la URL solicitada esté completamente cargada y así nuestra aplicación pueda encontrar el video que desean descargar. Pueden acceder a este ajuste desde el botón en la esquina superior izquierda. Se recomienda elegir un valor entre 2 y 5. Un valor menor conduce a una búsqueda más rápida pero es menos fiable, mientras que un valor de 5 es más probable que encuentre el video. La velocidad de su internet también juega un papel: con un internet más rápido, un valor de 1 o 2 podría ser adecuado, mientras que con un internet más lento, se aconseja un valor de 5.",
-      "fr-FR": "Bonjour à tous, vous pouvez maintenant définir une valeur pour le temps d'attente afin de vous assurer que l'URL demandée est entièrement chargée et ainsi notre application peut trouver la vidéo souhaitée à télécharger. Vous pouvez accéder à ce paramètre depuis le bouton situé en haut à gauche. Il est recommandé de choisir une valeur entre 2 et 5. Une valeur plus basse conduit à une recherche plus rapide mais est moins fiable, tandis qu'une valeur de 5 est plus susceptible de trouver la vidéo. La vitesse de votre internet joue également un rôle: avec un internet rapide, une valeur de 1 ou 2 pourrait être appropriée, tandis qu'avec un internet lent, une valeur de 5 est conseillée.",
-      "it-IT": "Ciao a tutti, ora potete impostare un valore per il tempo di attesa per assicurarvi che l'URL richiesto sia completamente caricato e così la nostra app può trovare il video desiderato da scaricare. Potete accedere a questa impostazione dal pulsante nell'angolo in alto a sinistra. Si consiglia di scegliere un valore tra 2 e 5. Un valore più basso porta a una ricerca più veloce ma è meno affidabile, mentre un valore di 5 è più probabile che trovi il video. La velocità della vostra connessione internet gioca anche un ruolo: con una connessione veloce, un valore di 1 o 2 potrebbe essere adatto, mentre con una connessione lenta, si consiglia un valore di 5.",
-      "ja-JP": "皆さん、こんにちは。現在、要求されたURLが完全に読み込まれるのを確認するための待機時間の値を設定できるようになりました。この設定は画面の左上のボタンからアクセスできます。2から5の間の値を選ぶことが推奨されています。低い値は速く検索しますが、信頼性が低く、5の設定はビデオを見つける可能性が高くなります。インターネットの速度も役割を果たします：高速なインターネットの場合、1または2の設定が適しているかもしれませんが、遅いインターネットの場合、5の設定が推奨されます。",
-      "pt-PT": "Olá pessoal, agora vocês podem definir um valor para o tempo de espera para garantir que a URL solicitada seja totalmente carregada e assim nosso aplicativo pode encontrar o vídeo desejado para download. Podem acessar esta configuração pelo botão no canto superior esquerdo. É recomendado escolher um valor entre 2 e 5. Um valor mais baixo leva a uma busca mais rápida mas é menos confiável, enquanto um valor de 5 é mais provável de encontrar o vídeo. A velocidade da vossa internet também desempenha um papel: com internet mais rápida, um valor de 1 ou 2 pode ser adequado, enquanto com internet mais lenta, um valor de 5 é aconselhado.",
-      "ru-RU": "Привет всем, теперь вы можете установить значение времени ожидания, чтобы убедиться, что запрошенный URL полностью загружен, и наше приложение может найти нужное видео для скачивания. Доступ к этому параметру можно получить через кнопку в верхнем левом углу. Рекомендуется выбирать значение между 2 и 5. Меньшее значение приведет к более быстрому поиску, но оно менее надежно, в то время как значение 5 вероятнее всего найдет видео. Скорость вашего интернета также играет роль: при быстром интернете значение может быть 1 или 2, а при медленном - рекомендуется 5.",
-      "tr-TR": "Merhaba millet, artık istenen URL'nin tamamen yüklendiğinden emin olmak için bekleme süresi için bir değer ayarlayabilirsiniz. Bu ayara ekranın sol üst köşesindeki düğmeden erişebilirsiniz. 2 ile 5 arasında bir değer seçmeniz önerilir. Daha düşük bir değer daha hızlı bir arama sağlar, ancak daha az güvenilirdir, 5 değeri ise videoyu bulma olasılığını artırır. İnternet hızınız da bir faktördür: daha hızlı bir internet bağlantısıyla 1 veya 2 değeri uygun olabilir, daha yavaş bir bağlantı için 5 değeri önerilir.",
-      "zh-CN": "大家好，现在您可以为等待时间设置一个值，以确保请求的URL完全加载，这样我们的应用程序就可以找到您想要下载的视频了。您可以从屏幕左上角的按钮进入此设置。建议选择2到5之间的值。较低的值会更快地进行搜索，但较不可靠，而5的设置则更有可能找到视频。您的互联网速度也会起到作用：对于较快的互联网，1或2的设置可能是合适的，而对于较慢的互联网，则建议使用5的设置。"
-    }
-  },
-  {
-    "id": 5,
-    "date": "13.08.2023",
-    "imageId": 2,
-    "titles": {
-      "ar": "تحديث في تنزيل الفيديو من فيسبوك - الإصدار 33",
-      "en-US": "Facebook Video Downloader Update - Version 33",
-      "de-DE": "Facebook Video Downloader Aktualisierung - Version 33",
-      "es-ES": "Actualización del Descargador de Videos de Facebook - Versión 33",
-      "fr-FR": "Mise à jour du téléchargeur de vidéos Facebook - Version 33",
-      "it-IT": "Aggiornamento del downloader video di Facebook - Versione 33",
-      "ja-JP": "Facebookビデオダウンローダーの更新 - バージョン33",
-      "pt-PT": "Atualização do Baixador de Vídeos do Facebook - Versão 33",
-      "ru-RU": "Обновление загрузчика видео с Facebook - Версия 33",
-      "tr-TR": "Facebook Video İndirici Güncellemesi - Sürüm 33",
-      "zh-CN": "Facebook视频下载器更新 - 版本33"
-    },
-    "messages": {
-      "ar": "من الآن فصاعدًا، يمكن لـ Facebook Video Downloader تنزيل الفيديوهات مع الصوت مرة أخرى. تم التغلب على العقبة التي وضعها فيسبوك حيث تم توفير الفيديو بدون تنزيل لأن الصوت تم توفيره بشكل منفصل. وقد قدم فيسبوك الصوت ليس كملف صوتي، ولكن كملف فيديو، مما جعله صعب العثور عليه. يمكن للتطبيق الآن العثور على هذه الملفات وحفظها كفيديو مع صوت في تنسيق mp4. ولهذا السبب، بعد العثور واختيار الفيديوهات عبر النافذة المنبثقة، هناك فترة انتظار قصيرة. يرجى التحلي بالصبر، التطبيق يعمل في الخلفية.",
-      "en-US": "The Facebook Video Downloader is now able to download videos with sound again. The hurdle set by Facebook, where a video was provided without download because the audio part was made available separately, has been overcome. Additionally, Facebook provided the audio part not as an audio file but as a video file, making it hard to find. The app can now locate these and save them as a video with audio in mp4 format. For this, a merge process is initiated after finding the video and audio materials. Therefore, after finding and selecting the videos via the pop-up, there's a brief waiting period. Please be patient, the app is working in the background.",
-      "de-DE": "Der Facebook Video Downloader ist nun in der Lage, Videos wieder mit Ton herunterzuladen. Die von Facebook aufgestellte Hürde, bei der ein Video ohne Download bereitgestellt wurde, weil der Audio-Teil separat zur Verfügung gestellt wurde, wurde überwunden. Zusätzlich hat Facebook den Audio-Teil nicht als Audiodatei, sondern als Videodatei bereitgestellt, was die Suche erschwerte. Die App kann diese Dateien nun finden und als ein Video mit Audio im mp4-Format speichern. Nachdem das Video- und Audiomaterial gefunden wurde, wird ein Merge-Vorgang gestartet. Daher gibt es nach dem Finden und Auswählen der Videos über das Pop-up eine kurze Wartezeit. Bitte haben Sie Geduld, die App arbeitet im Hintergrund.",
-      "es-ES": "El descargador de vídeos de Facebook ahora puede volver a descargar vídeos con sonido. Se ha superado el obstáculo impuesto por Facebook, donde un video se proporcionaba sin descarga porque la parte de audio estaba disponible por separado. Además, Facebook proporcionó la parte de audio no como un archivo de audio sino como un archivo de video, lo que lo hacía difícil de encontrar. Ahora, la aplicación puede localizar estos y guardarlos como un video con audio en formato mp4. Para ello, se inicia un proceso de fusión después de encontrar los materiales de video y audio. Por lo tanto, después de encontrar y seleccionar los videos a través del pop-up, hay un breve período de espera. Por favor, tenga paciencia, la aplicación está trabajando en segundo plano.",
-      "fr-FR": "Le téléchargeur de vidéos Facebook est désormais capable de télécharger à nouveau des vidéos avec du son. L'obstacle imposé par Facebook, où une vidéo était fournie sans téléchargement car la partie audio était mise à disposition séparément, a été surmonté. De plus, Facebook a fourni la partie audio non pas comme un fichier audio, mais comme un fichier vidéo, ce qui la rendait difficile à trouver. L'application peut désormais les localiser et les sauvegarder en tant que vidéo avec audio au format mp4. Pour cela, un processus de fusion est lancé après avoir trouvé les matières vidéo et audio. Par conséquent, après avoir trouvé et sélectionné les vidéos via le pop-up, il y a un court délai d'attente. Veuillez être patient, l'application travaille en arrière-plan.",
-      "it-IT": "Il downloader di video di Facebook è ora in grado di scaricare nuovamente video con audio. L'ostacolo imposto da Facebook, dove un video veniva fornito senza download perché la parte audio era disponibile separatamente, è stato superato. Inoltre, Facebook ha fornito la parte audio non come un file audio, ma come un file video, rendendolo difficile da trovare. L'app ora può localizzare questi e salvarli come un video con audio in formato mp4. Per questo, viene avviato un processo di fusione dopo aver trovato i materiali video e audio. Pertanto, dopo aver trovato e selezionato i video tramite il pop-up, c'è un breve periodo di attesa. Si prega di essere pazienti, l'app sta lavorando in background.",
-      "ja-JP": "Facebookビデオダウンローダーは、再び音声付きのビデオをダウンロードできるようになりました。Facebookがオーディオ部分を別途提供していたためにダウンロードなしでビデオを提供していた障壁がクリアされました。さらに、Facebookはオーディオ部分をオーディオファイルとしてではなく、ビデオファイルとして提供していたため、見つけるのが難しかったです。アプリはこれらを見つけてmp4形式で音声付きのビデオとして保存できるようになりました。このため、ビデオとオーディオの素材を見つけた後、マージ処理が開始されます。したがって、ポップアップ経由でビデオを見つけて選択した後、少し待機時間があります。お待ちください、アプリはバックグラウンドで動作しています。",
-      "pt-PT": "O descarregador de vídeos do Facebook agora consegue voltar a descarregar vídeos com som. Foi superado o obstáculo criado pelo Facebook, onde um vídeo era fornecido sem download porque a parte de áudio estava disponível separadamente. Além disso, o Facebook disponibilizou a parte de áudio não como um arquivo de áudio, mas como um arquivo de vídeo, tornando-o difícil de encontrar. A app agora consegue localizar estes e salvar como um vídeo com áudio em formato mp4. Para isso, é iniciado um processo de fusão após encontrar os materiais de vídeo e áudio. Portanto, após encontrar e selecionar os vídeos através do pop-up, há um breve período de espera. Por favor, tenha paciência, a app está a trabalhar em segundo plano.",
-      "ru-RU": "Загрузчик видео с Facebook теперь может снова скачивать видео со звуком. Преодолен барьер, установленный Facebook, когда видео предоставлялось без загрузки, потому что аудио часть была доступна отдельно. К тому же Facebook предоставлял аудио часть не как аудио файл, а как видео файл, что делало его трудно находимым. Приложение теперь может находить их и сохранять как видео с аудио в формате mp4. Для этого после нахождения видео и аудио материалов запускается процесс слияния. Поэтому после поиска и выбора видео через всплывающее окно есть короткий период ожидания. Пожалуйста, будьте терпеливы, приложение работает в фоновом режиме.",
-      "tr-TR": "Facebook Video İndirici artık videoları sesle birlikte tekrar indirebilmektedir. Facebook'un, ses kısmını ayrı olarak sunduğu için bir videoyu indirme olmadan sağladığı engel aşıldı. Ayrıca, Facebook ses kısmını ses dosyası olarak değil, video dosyası olarak sundu, bu da onu bulmayı zorlaştırdı. Uygulama şimdi bu dosyaları bulabilir ve sesli video olarak mp4 formatında kaydedebilir. Video ve ses materyalleri bulunduktan sonra bir birleştirme işlemi başlatılır. Bu nedenle, pop-up aracılığıyla videoları bulduktan ve seçtikten sonra kısa bir bekleme süresi vardır. Lütfen sabırlı olun, uygulama arka planda çalışıyor.",
-      "zh-CN": "Facebook视频下载器现在能够再次下载带有声音的视频。我们已经克服了Facebook设定的障碍，因为音频部分是单独提供的，所以没有下载视频。此外，Facebook并没有提供音频文件，而是提供了一个视频文件，这使得其难以被找到。现在，该应用程序可以找到并将其保存为带有音频的mp4格式视频。为此，在找到视频和音频材料后，会启动一个合并过程。因此，在通过弹出窗口找到并选择视频后，会有一个简短的等待时间。请耐心等待，应用程序正在后台工作。"
-    }
-  },
-  {
-    "id": 6,
-    "date": "22-08-2023 16:27:43",
-    "imageId": 0,
-    "titles": {
-      "ar": "أرسل لنا تعليقاتك",
-      "en-US": "Write us your Feedback",
-      "de-DE": "Schreib uns dein Feedback",
-      "es-ES": "Escríbenos tus comentarios",
-      "fr-FR": "Écrivez-nous vos retours",
-      "it-IT": "Scrivici il tuo feedback",
-      "ja-JP": "フィードバックをお寄せください",
-      "pt-PT": "Escreva-nos o seu feedback",
-      "ru-RU": "Напишите нам ваш отзыв",
-      "tr-TR": "Bize Geri Bildiriminizi Yazın",
-      "zh-CN": "写下您的反馈"
-    },
-    "messages": {
-      "ar": "مرحبًا، إذا كنت ترغب في تحسين التطبيق، من فضلك أرسل لنا الأخطاء التي تواجهها وعنوان URL للفيديو على عنوان الدعم: shadowlessgt@gmail.com. سأحاول تحليل الأخطاء وجعل التطبيق أكثر موثوقية.",
-      "en-US": "Hey folks, if you want the app to improve, please send me the errors you encounter and the URL of the video to my support address: shadowlessgt@gmail.com. I will try to analyze the errors and make the app more reliable.",
-      "de-DE": "Hey Leute, wenn ihr wollt, dass die App besser wird, sendet mir bitte die Fehler, die auftreten, und die URL des Videos an meine Support-Adresse: shadowlessgt@gmail.com. Ich werde versuchen, die Fehler zu analysieren und die App dadurch zuverlässiger zu machen.",
-      "es-ES": "Hola a todos, si queréis mejorar la aplicación, por favor enviadme los errores que encontréis y la URL del vídeo a mi dirección de soporte: shadowlessgt@gmail.com. Trataré de analizar los errores y hacer la aplicación más fiable.",
-      "fr-FR": "Salut tout le monde, si vous voulez que l'application s'améliore, veuillez m'envoyer les erreurs que vous rencontrez et l'URL de la vidéo à mon adresse de support : shadowlessgt@gmail.com. J'essaierai d'analyser les erreurs et de rendre l'application plus fiable.",
-      "it-IT": "Ciao a tutti, se volete che l'app migliori, inviatemi gli errori che riscontrate e l'URL del video al mio indirizzo di supporto: shadowlessgt@gmail.com. Cercherò di analizzare gli errori e rendere l'app più affidabile.",
-      "ja-JP": "皆さん、アプリを改善したい場合は、エラーが発生した場合やビデオのURLをサポートアドレスのshadowlessgt@gmail.comに送ってください。エラーを分析し、アプリをより信頼性の高いものにするために努力します。",
-      "pt-PT": "Olá pessoal, se querem melhorar o aplicativo, por favor enviem-me os erros que encontrarem e o URL do vídeo para o meu endereço de suporte: shadowlessgt@gmail.com. Tentarei analisar os erros e tornar o aplicativo mais confiável.",
-      "ru-RU": "Привет всем, если вы хотите улучшить приложение, отправьте мне ошибки, с которыми вы столкнулись, и URL видео на мой адрес поддержки: shadowlessgt@gmail.com. Я постараюсь проанализировать ошибки и сделать приложение более надежным.",
-      "tr-TR": "Merhaba arkadaşlar, uygulamanın daha iyi olmasını istiyorsanız, lütfen karşılaştığınız hataları ve video URL'sini destek adresime gönderin: shadowlessgt@gmail.com. Hataları analiz etmeye çalışacak ve uygulamayı daha güvenilir hale getireceğim.",
-      "zh-CN": "大家好，如果你们希望这个应用变得更好，请把你遇到的错误和视频的URL发送到我的支持地址：shadowlessgt@gmail.com。我会尝试分析错误并使应用更加可靠。"
-    }
-  },
-  {
-    "id": 7,
-    "date": "22-08-2023 17:27:33",
-    "imageId": 1,
-    "titles": {
-      "ar": "وضع التيربو",
-      "en-US": "Turbo Mode",
-      "de-DE": "Turbo Modus",
-      "es-ES": "Modo Turbo",
-      "fr-FR": "Mode Turbo",
-      "it-IT": "Modalità Turbo",
-      "ja-JP": "ターボモード",
-      "pt-PT": "Modo Turbo",
-      "ru-RU": "Турбо Режим",
-      "tr-TR": "Turbo Modu",
-      "zh-CN": "涡轮模式"
-    },
-    "messages": {
-      "ar": "لقد وجدت خطأ صغير الذي تسبب في الانتظار غير الضروري على الرغم من العثور على الفيديو حتى تصل إلى قيمة معينة تظهر فقط عندما يكون الفيديو خاصًا أو محدودًا. الآن، بمجرد العثور على الفيديو، سيتم التنزيل. لذلك قد تكون لاحظتم أنه لا يوجد خيار الانتظار في الإعدادات. استمتعوا، تتمنى لكم استوديوهات شادوليس.",
-      "en-US": "I found a minor bug that caused unnecessary waiting even when the video was found, waiting for a certain value that only appears when the video is private or restricted. Now, as soon as the video is found, it will be downloaded. That's why you might have noticed that there's no wait time option in the settings anymore. Enjoy, Shadowless Studios wishes you all the best.",
-      "de-DE": "Ich habe einen kleinen Bug gefunden, der dafür gesorgt hat, unnötig zu warten, obwohl das Video gefunden wurde, auf einen bestimmten Wert, der nur erscheint, wenn das Video privat oder eingeschränkt ist. Nun, sobald das Video gefunden wird, wird es heruntergeladen. Deshalb habt ihr vielleicht auch bemerkt, dass es in den Einstellungen diese Wartezeit-Option nicht mehr gibt. Viel Spaß wünscht euch Shadowless Studios.",
-      "es-ES": "Descubrí un pequeño error que causaba una espera innecesaria incluso cuando se encontraba el video, esperando un valor específico que solo aparece cuando el video es privado o restringido. Ahora, tan pronto como se encuentra el video, se descarga. Por eso quizás hayan notado que ya no hay una opción de tiempo de espera en la configuración. Disfruten, les desea Estudios Shadowless.",
-      "fr-FR": "J'ai trouvé un petit bug qui a causé une attente inutile même lorsque la vidéo a été trouvée, en attendant une certaine valeur qui n'apparaît que lorsque la vidéo est privée ou restreinte. Maintenant, dès que la vidéo est trouvée, elle sera téléchargée. C'est pourquoi vous avez peut-être remarqué qu'il n'y a plus d'option de temps d'attente dans les paramètres. Amusez-vous, Shadowless Studios vous souhaite tout le meilleur.",
-      "it-IT": "Ho trovato un piccolo bug che causava un'attesa inutile anche quando il video era stato trovato, aspettando un certo valore che appare solo quando il video è privato o limitato. Ora, non appena il video viene trovato, verrà scaricato. Ecco perché potreste aver notato che non c'è più un'opzione di tempo di attesa nelle impostazioni. Divertitevi, vi augura tutto il meglio Shadowless Studios.",
-      "ja-JP": "特定の値を待機している間に、ビデオが見つかった場合でも不要な待機が発生するというマイナーバグを発見しました。この特定の値は、ビデオがプライベートまたは制限されている場合にのみ表示されます。今、ビデオが見つかるとすぐにダウンロードされます。そのため、設定で待ち時間のオプションがなくなったことにお気づきかと思います。楽しんでください、シャドウレススタジオが皆様に最高の体験をお祈りします。",
-      "pt-PT": "Encontrei um pequeno bug que causava uma espera desnecessária mesmo quando o vídeo era encontrado, aguardando um determinado valor que só aparece quando o vídeo é privado ou restrito. Agora, assim que o vídeo é encontrado, ele será baixado. É por isso que talvez tenham notado que não há mais uma opção de tempo de espera nas configurações. Divirta-se, Shadowless Studios deseja a todos o melhor.",
-      "ru-RU": "Я нашел небольшую ошибку, из-за которой приложение бесполезно ждало, даже если видео было найдено, ожидая определенного значения, которое появляется только тогда, когда видео является частным или ограниченным. Теперь, как только видео будет найдено, оно будет загружено. Возможно, вы заметили, что в настройках больше нет опции ожидания. Приятного времяпрепровождения, желает вам Shadowless Studios.",
-      "tr-TR": "Özel veya kısıtlı olduğunda sadece ortaya çıkan belirli bir değeri beklerken, video bulunduğunda bile gereksiz bir bekleme neden olan küçük bir hata buldum. Şimdi video bulunduğunda hemen indiriliyor. Bu yüzden ayarlarda artık bekleme süresi seçeneğinin olmadığını fark etmiş olabilirsiniz. Keyfini çıkarın, Shadowless Studios size iyi eğlenceler diler.",
-      "zh-CN": "我发现了一个小错误，即使找到了视频，也会导致不必要的等待，等待一个仅在视频为私人或受限制时才出现的特定值。现在，一旦找到视频，它将被下载。这就是为什么您可能已经注意到设置中不再有等待时间选项的原因。享受，Shadowless Studios祝您玩得愉快。"
+      "ar": "أعزاؤنا، تم حظر تطبيقنا من قبل Meta لأنه يحتوي على الأسماء 'Insta' أو 'Facebook'. يبدو أنه ليس معترفًا به كتطبيق رسمي من Instagram وبالتالي لا يُسمح به. مع ذلك، هناك الآلاف من التطبيقات بأسماء مماثلة التي يتم قبولها. سيتم توفير التطبيق على موقعي الإلكتروني. سأوفر الرابط لاحقًا. سأبذل قصارى جهدي للتأكد من أن Google يقبل تطبيقنا مرة أخرى. في النهاية، إنه مجرد اسم، وحظر كامل للتطبيق أمر مضحك.",
+      "en-US": "Dear users, unfortunately, our app was banned by Meta because it contains the names 'Insta' or 'Facebook'. It appears it's not recognized as an official app from Instagram and thus isn't allowed. However, there are thousands of apps with similar names that are accepted. Regardless, the app will be available on my website. I will provide the link later. I will do my best to ensure Google reaccepts our app. After all, it's just a name, and a complete ban is ridiculous.",
+      "de-DE": "Liebe Nutzer, leider wurde unsere App von Meta gesperrt, weil sie 'Insta' oder 'Facebook' im Namen trägt. Es scheint, dass sie nicht als offizielle App von Instagram anerkannt wird und daher nicht erlaubt ist. Dennoch gibt es Tausende von Apps mit ähnlichen Namen, die akzeptiert werden. Unabhängig davon wird die App auf meiner Website verfügbar sein. Den Link werde ich später bereitstellen. Ich werde mein Bestes tun, um sicherzustellen, dass Google unsere App wieder akzeptiert. Es ist schließlich nur ein Name, und eine komplette Sperrung ist lächerlich.",
+      "es-ES": "Estimados usuarios, lamentablemente nuestra aplicación fue prohibida por Meta porque contiene los nombres 'Insta' o 'Facebook'. Parece que no es reconocida como una aplicación oficial de Instagram y, por lo tanto, no está permitida. Sin embargo, hay miles de aplicaciones con nombres similares que son aceptadas. La aplicación estará disponible en mi sitio web. Proporcionaré el enlace más tarde. Haré todo lo posible para asegurar que Google vuelva a aceptar nuestra aplicación. Después de todo, es solo un nombre y una prohibición completa es ridícula.",
+      "fr-FR": "Chers utilisateurs, malheureusement, notre application a été bannie par Meta car elle contient les noms 'Insta' ou 'Facebook'. Il semble qu'elle ne soit pas reconnue comme une application officielle d'Instagram et donc n'est pas autorisée. Cependant, il y a des milliers d'applications avec des noms similaires qui sont acceptées. Néanmoins, l'application sera disponible sur mon site web. Je fournirai le lien plus tard. Je ferai de mon mieux pour que Google accepte à nouveau notre application. Après tout, ce n'est qu'un nom et une interdiction totale est ridicule.",
+      "it-IT": "Cari utenti, purtroppo la nostra app è stata bandita da Meta perché contiene i nomi 'Insta' o 'Facebook'. Sembra che non sia riconosciuta come un'app ufficiale di Instagram e quindi non è permessa. Tuttavia, ci sono migliaia di app con nomi simili che vengono accettate. L'app sarà comunque disponibile sul mio sito web. Fornirò il link più tardi. Farò del mio meglio per garantire che Google accetti nuovamente la nostra app. Dopo tutto, è solo un nome, e un divieto totale è assurdo.",
+      "ja-JP": "親愛なるユーザーの皆様へ、残念ながら、私たちのアプリは'Meta'によって禁止されました。これは、アプリ名に'Insta'または'Facebook'が含まれているためです。Instagramの公式アプリとして認識されていないようですので、許可されていません。しかし、類似の名前を持つ何千ものアプリが承認されています。とはいえ、アプリは私のウェブサイトで利用可能です。後ほどリンクを提供します。Googleが私たちのアプリを再び受け入れるよう最善を尽くします。名前だけの問題で完全に禁止されるのはばかげています。",
+      "pt-PT": "Caros usuários, infelizmente, a nossa app foi banida pela Meta porque contém os nomes 'Insta' ou 'Facebook'. Parece que não é reconhecida como uma app oficial do Instagram e, por isso, não é permitida. No entanto, existem milhares de apps com nomes semelhantes que são aceites. A app estará disponível no meu site. Irei fornecer o link mais tarde. Farei o meu melhor para garantir que a Google aceite novamente a nossa app. Afinal, é apenas um nome, e um banimento completo é ridículo.",
+      "ru-RU": "Уважаемые пользователи, к сожалению, наше приложение было заблокировано Meta, потому что оно содержит имена 'Insta' или 'Facebook'. Похоже, что оно не признается официальным приложением Instagram, и поэтому его использование запрещено. Тем не менее, тысячи приложений с подобными именами принимаются. Тем не менее, приложение будет доступно на моем сайте. Я предоставлю ссылку позже. Я сделаю все возможное, чтобы Google снова принял наше приложение. В конце концов, это всего лишь имя, и полная блокировка кажется абсурдной.",
+      "tr-TR": "Değerli kullanıcılar, uygulamamız ne yazık ki 'Insta' veya 'Facebook' isimlerini içerdiği için Meta tarafından yasaklandı. Instagram'ın resmi bir uygulaması olarak tanınmadığı için izin verilmiyor gibi görünüyor. Ancak benzer isimlere sahip binlerce uygulama kabul ediliyor. Uygulama web sitemde mevcut olacak. Bağlantıyı daha sonra sağlayacağım. Google'ın uygulamamızı yeniden kabul etmesini sağlamak için elimden gelenin en iyisini yapacağım. Sonuçta, sadece bir isim ve tam bir yasaklama saçma.",
+      "zh-CN": "亲爱的用户，很遗憾，我们的应用因包含'Insta'或'Facebook'这些名称而被Meta禁止。看来它并未被认为是Instagram的官方应用，因此不被允许。然而，有成千上万的应用有类似的名称被接受了。不管怎样，该应用将在我的网站上可用。我稍后会提供链接。我会尽我所能确保Google重新接受我们的应用。毕竟，这只是一个名称，完全的禁令简直是荒谬的。"
     }
   }
 ]
