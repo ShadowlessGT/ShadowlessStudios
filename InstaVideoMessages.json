@@ -216,7 +216,7 @@
       "zh-CN": "我发现了一个小错误，即使找到了视频，也会导致不必要的等待，等待一个仅在视频为私人或受限制时才出现的特定值。现在，一旦找到视频，它将被下载。这就是为什么您可能已经注意到设置中不再有等待时间选项的原因。享受，Shadowless Studios祝您玩得愉快。"
     }
   },
-    {
+  {
     "id": 8,
     "date": "23-08-2023 20:25:15",
     "imageId": 3,
@@ -245,6 +245,37 @@
       "ru-RU": "Уважаемые пользователи, к сожалению, наше приложение было заблокировано Meta, потому что оно содержит имена 'Insta' или 'Facebook'. Похоже, что оно не признается официальным приложением Instagram, и поэтому его использование запрещено. Тем не менее, тысячи приложений с подобными именами принимаются. Тем не менее, приложение будет доступно на моем сайте. Я предоставлю ссылку позже. Я сделаю все возможное, чтобы Google снова принял наше приложение. В конце концов, это всего лишь имя, и полная блокировка кажется абсурдной.",
       "tr-TR": "Değerli kullanıcılar, uygulamamız ne yazık ki 'Insta' veya 'Facebook' isimlerini içerdiği için Meta tarafından yasaklandı. Instagram'ın resmi bir uygulaması olarak tanınmadığı için izin verilmiyor gibi görünüyor. Ancak benzer isimlere sahip binlerce uygulama kabul ediliyor. Uygulama web sitemde mevcut olacak. Bağlantıyı daha sonra sağlayacağım. Google'ın uygulamamızı yeniden kabul etmesini sağlamak için elimden gelenin en iyisini yapacağım. Sonuçta, sadece bir isim ve tam bir yasaklama saçma.",
       "zh-CN": "亲爱的用户，很遗憾，我们的应用因包含'Insta'或'Facebook'这些名称而被Meta禁止。看来它并未被认为是Instagram的官方应用，因此不被允许。然而，有成千上万的应用有类似的名称被接受了。不管怎样，该应用将在我的网站上可用。我稍后会提供链接。我会尽我所能确保Google重新接受我们的应用。毕竟，这只是一个名称，完全的禁令简直是荒谬的。"
+    }
+  },
+  {
+    "id": 9,
+    "date": "23-08-2023 22:02:42",
+    "imageId": 0,
+    "titles": {
+      "ar": "رابط التحميل الجديد",
+      "en-US": "New Download Link",
+      "de-DE": "Neuer Download-Link",
+      "es-ES": "Nuevo Enlace de Descarga",
+      "fr-FR": "Nouveau Lien de Téléchargement",
+      "it-IT": "Nuovo Link per il Download",
+      "ja-JP": "新しいダウンロードリンク",
+      "pt-PT": "Novo Link de Download",
+      "ru-RU": "Новая Ссылка Для Скачивания",
+      "tr-TR": "Yeni İndirme Bağlantısı",
+      "zh-CN": "新的下载链接"
+    },
+    "messages": {
+      "ar": "طالما أن التطبيق محظور في Google Play، سيتم تحديث الروابط هنا. اليكم الرابط: https://shadowless-studios.eu/mobile-apps-portfolio/instagram-video-download/",
+      "en-US": "As long as the app is banned on Google Play, updates will be uploaded here. Here is the link: https://shadowless-studios.eu/mobile-apps-portfolio/instagram-video-download/",
+      "de-DE": "Solange die App im Google Play gesperrt ist, werden die Updates hier hochgeladen. Hier ist der Link: https://shadowless-studios.eu/mobile-apps-portfolio/instagram-video-download/",
+      "es-ES": "Mientras la aplicación esté bloqueada en Google Play, las actualizaciones se subirán aquí. Aquí está el enlace: https://shadowless-studios.eu/mobile-apps-portfolio/instagram-video-download/",
+      "fr-FR": "Tant que l'application est bannie sur Google Play, les mises à jour seront téléchargées ici. Voici le lien: https://shadowless-studios.eu/mobile-apps-portfolio/instagram-video-download/",
+      "it-IT": "Finché l'app è bannata su Google Play, gli aggiornamenti verranno caricati qui. Ecco il link: https://shadowless-studios.eu/mobile-apps-portfolio/instagram-video-download/",
+      "ja-JP": "このアプリがGoogle Playで禁止されている限り、更新はこちらにアップロードされます。リンクは次のとおりです: https://shadowless-studios.eu/mobile-apps-portfolio/instagram-video-download/",
+      "pt-PT": "Enquanto a app estiver banida no Google Play, as atualizações serão carregadas aqui. Aqui está o link: https://shadowless-studios.eu/mobile-apps-portfolio/instagram-video-download/",
+      "ru-RU": "Пока приложение заблокировано в Google Play, обновления будут загружаться здесь. Вот ссылка: https://shadowless-studios.eu/mobile-apps-portfolio/instagram-video-download/",
+      "tr-TR": "Uygulama Google Play'de yasaklandığı sürece güncellemeler buraya yüklenecek. İşte bağlantı: https://shadowless-studios.eu/mobile-apps-portfolio/instagram-video-download/",
+      "zh-CN": "只要应用在Google Play上被禁，更新将在此上传。这是链接：https://shadowless-studios.eu/mobile-apps-portfolio/instagram-video-download/"
     }
   }
 ]
