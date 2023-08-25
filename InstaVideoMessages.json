@@ -277,5 +277,36 @@
       "tr-TR": "Uygulama Google Play'de yasaklandığı sürece güncellemeler buraya yüklenecek. İşte bağlantı: https://shadowless-studios.eu/mobile-apps-portfolio/instagram-video-download/",
       "zh-CN": "只要应用在Google Play上被禁，更新将在此上传。这是链接：https://shadowless-studios.eu/mobile-apps-portfolio/instagram-video-download/"
     }
+  },
+  {
+    "id": 10,
+    "date": "25-08-2023 17:34:47",
+    "imageId": 0,
+    "titles": {
+      "ar": "رابط التحميل وتحديث المستقبل",
+      "en-US": "Download Link & Future Update",
+      "de-DE": "Download-Link & Zukünftiges Update",
+      "es-ES": "Enlace de Descarga y Actualización Futura",
+      "fr-FR": "Lien de Téléchargement & Mise à Jour Future",
+      "it-IT": "Link per il Download & Aggiornamento Futuro",
+      "ja-JP": "ダウンロードリンク＆将来のアップデート",
+      "pt-PT": "Link de Download & Atualização Futura",
+      "ru-RU": "Ссылка Для Скачивания и Будущее Обновление",
+      "tr-TR": "İndirme Bağlantısı & Gelecekteki Güncelleme",
+      "zh-CN": "下载链接与未来更新"
+    },
+    "messages": {
+      "ar": "رابط التحميل متاح الآن على: https://shadowless-studios.eu/shadowless-studios/apps/instavideodownloader/ ربما الحل هو إعادة تسمية التطبيق باسم آخر، وسيتم نشره مرة أخرى تحت اسم آخر. سأخبركم بالاسم الجديد لاحقا.",
+      "en-US": "The download link is now available at: https://shadowless-studios.eu/shadowless-studios/apps/instavideodownloader/ Perhaps the solution is to rename the app to another name, and it will be relaunched under a different name. I'll announce the new name later.",
+      "de-DE": "Der Download-Link ist jetzt verfügbar unter: https://shadowless-studios.eu/shadowless-studios/apps/instavideodownloader/ Vielleicht ist die Lösung, die App umzubenennen, und sie wird unter einem anderen Namen wieder online sein. Den neuen Namen gebe ich später bekannt.",
+      "es-ES": "El enlace de descarga ya está disponible en: https://shadowless-studios.eu/shadowless-studios/apps/instavideodownloader/ Tal vez la solución sea renombrar la aplicación con otro nombre, y se relanzará con un nombre diferente. Anunciaré el nuevo nombre más tarde.",
+      "fr-FR": "Le lien de téléchargement est maintenant disponible à l'adresse suivante : https://shadowless-studios.eu/shadowless-studios/apps/instavideodownloader/ Peut-être que la solution est de renommer l'application, et elle sera relancée sous un autre nom. J'annoncerai le nouveau nom plus tard.",
+      "it-IT": "Il link per il download è ora disponibile su: https://shadowless-studios.eu/shadowless-studios/apps/instavideodownloader/ Forse la soluzione è rinominare l'app con un altro nome, e sarà rilanciata con un nome diverso. Annuncerò il nuovo nome più tardi.",
+      "ja-JP": "ダウンロードリンクは次のアドレスで利用可能です：https://shadowless-studios.eu/shadowless-studios/apps/instavideodownloader/ アプリの名前を変更することが解決策かもしれません。そして、それは別の名前で再起動されるでしょう。新しい名前は後でお知らせします。",
+      "pt-PT": "O link de download já está disponível em: https://shadowless-studios.eu/shadowless-studios/apps/instavideodownloader/ Talvez a solução seja renomear a app e relançá-la com um nome diferente. Anunciarei o novo nome mais tarde.",
+      "ru-RU": "Ссылка для скачивания теперь доступна по адресу: https://shadowless-studios.eu/shadowless-studios/apps/instavideodownloader/ Возможно, решением будет переименование приложения, и оно будет перезапущено под другим именем. Я объявлю новое имя позже.",
+      "tr-TR": "İndirme bağlantısı şimdi şurada mevcut: https://shadowless-studios.eu/shadowless-studios/apps/instavideodownloader/ Belki de çözüm, uygulamayı farklı bir isimle yeniden adlandırmaktır ve farklı bir isimle yeniden başlatılacaktır. Yeni ismi daha sonra açıklayacağım.",
+      "zh-CN": "下载链接现已在以下位置提供：https://shadowless-studios.eu/shadowless-studios/apps/instavideodownloader/ 也许解决方案是将应用程序重命名为其他名称，然后它将以不同的名称重新启动。我稍后会公布新名称。"
+    }
   }
 ]
