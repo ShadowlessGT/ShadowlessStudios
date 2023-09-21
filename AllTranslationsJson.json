@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "lastUpdate": "23-08-2023 15:52:52",
+  "version": 4,
+  "lastUpdate": "21-09-2023 15:52:52",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -3204,9 +3204,9 @@
     },
     {
       "categoryKey": "InstaVideo",
-      "version": 3,
+      "version": 4,
       "id": 17,
-      "date": "23-08-2023 15:52:52",
+      "date": "21-09-2023 15:52:52",
       "entries": [
         {
           "Key": "SolutionForBlockedVideos",
@@ -3321,7 +3321,7 @@
           }
         },
         {
-          "Key": "AutpDownloadClipboard",
+          "Key": "AutoDownloadClipboard",
           "Translations": {
             "ar": "تنزيل تلقائي - الحافظة",
             "en-US": "Auto Download - clipboard",
@@ -3337,7 +3337,7 @@
           }
         },
         {
-          "Key": "AutpDownloadClipboardDescription",
+          "Key": "AutoDownloadClipboardDescription",
           "Translations": {
             "ar": "إذا كان هناك رابط Instagram صالح في الحافظة ، فسيتم تشغيل تنزيل الفيديو تلقائيًا.",
             "en-US": "If there is a valid Instagram link in the clipboard, downloading the video is automatically started.",
