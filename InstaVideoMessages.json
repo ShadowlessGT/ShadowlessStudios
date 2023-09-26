@@ -339,5 +339,36 @@
       "tr-TR": "Yeni uygulama AI Video Downloader, Instagram, Facebook ve ilerleyen zamanlarda diğer platformlardan tüm videoları indirebilecek. Deneyin. Başlangıçta sadece Instagram'dan video indirmek mümkün olabilir. Facebook kullanılabilir olduğunda sizi bilgilendireceğim. Ancak uygulama indirilebilir durumda. Eğer uygulamayı bulamazsanız, Shadowless Studios'u arayın ve sonra sayfam üzerinden uygulamayı bulun.",
       "zh-CN": "新应用AI Video Downloader将能够下载所有视频，包括来自Instagram和Facebook的，未来还将支持其他平台。试试看。最初，它可能只能从Instagram下载视频。一旦Facebook可以使用，我会通知你们。但该应用已可下载。如果你找不到该应用，搜索Shadowless Studios，然后通过我的页面找到应用。"
     }
+  },
+  {
+    "id": 12,
+    "date": "26-08-2023 15:34:47",
+    "imageId": 0,
+    "titles": {
+        "ar": "تطبيق AI Video Downloader يمكنه الآن تحميل فيديوهات من فيسبوك",
+        "en-US": "AI Video Downloader Can Now Download Facebook Videos",
+        "de-DE": "Die AI Video Downloader kann Facebook Videos Runterladen",
+        "es-ES": "AI Video Downloader ahora puede descargar videos de Facebook",
+        "fr-FR": "AI Video Downloader peut maintenant télécharger des vidéos Facebook",
+        "it-IT": "AI Video Downloader può ora scaricare video da Facebook",
+        "ja-JP": "AI Video Downloaderは、Facebookの動画もダウンロード可能",
+        "pt-PT": "O AI Video Downloader agora pode baixar vídeos do Facebook",
+        "ru-RU": "Приложение AI Video Downloader теперь может загружать видео с Facebook",
+        "tr-TR": "AI Video Downloader artık Facebook videolarını indirebilir",
+        "zh-CN": "AI视频下载器现在可以下载Facebook视频"
+    },
+    "messages": {
+        "ar": "الآن يمكن تحميل فيديوهات Facebook بجانب فيديوهات Instagram. الخطوة التالية هي القدرة على تحميل الفيديو بشكل عام. ثم سيتم إضافة TikTok، Twitter وإذا كان ممكنًا YouTube.",
+        "en-US": "Facebook videos can now be downloaded alongside Instagram videos. The next step is to be able to download general videos. Then TikTok, Twitter, and if possible, YouTube will be added.",
+        "de-DE": "Es können nun Facebook Videos neben Instagram Videos heruntergeladen werden. Der nächste Schritt ist, allgemeine Videos herunterladen zu können. Dann kommen TikTok, Twitter und, wenn möglich, YouTube dazu.",
+        "es-ES": "Ahora se pueden descargar videos de Facebook junto con videos de Instagram. El siguiente paso es poder descargar videos en general. Luego se agregarán TikTok, Twitter y, si es posible, YouTube.",
+        "fr-FR": "Il est désormais possible de télécharger des vidéos Facebook en plus des vidéos Instagram. La prochaine étape sera de pouvoir télécharger des vidéos en général. Ensuite, TikTok, Twitter et, si possible, YouTube seront ajoutés.",
+        "it-IT": "Ora è possibile scaricare i video di Facebook insieme ai video di Instagram. Il prossimo passo sarà poter scaricare video in generale. Poi verranno aggiunti TikTok, Twitter e, se possibile, YouTube.",
+        "ja-JP": "Facebookの動画は、Instagramの動画とともにダウンロードできるようになりました。次のステップは、一般的な動画をダウンロードできるようにすることです。その後、TikTok、Twitter、可能であればYouTubeが追加されます。",
+        "pt-PT": "Agora é possível baixar vídeos do Facebook, juntamente com vídeos do Instagram. O próximo passo é poder baixar vídeos em geral. Em seguida, serão adicionados TikTok, Twitter e, se possível, YouTube.",
+        "ru-RU": "Теперь можно загружать видео с Facebook наряду с видео из Instagram. Следующим шагом будет возможность загрузки видео в общем. Затем будут добавлены TikTok, Twitter и, если возможно, YouTube.",
+        "tr-TR": "Şimdi Facebook videoları, Instagram videolarının yanında indirilebilir. Bir sonraki adım, genel videoları indirebilmektir. Ardından TikTok, Twitter ve mümkünse YouTube eklenecektir.",
+        "zh-CN": "现在可以下载Facebook视频和Instagram视频。下一步是能够下载一般的视频。然后将加入TikTok，Twitter和，如果可能的话，YouTube。"
+    }
   }
 ]
