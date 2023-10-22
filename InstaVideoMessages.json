@@ -345,30 +345,61 @@
     "date": "26-08-2023 15:34:47",
     "imageId": 0,
     "titles": {
-        "ar": "تطبيق AI Video Downloader يمكنه الآن تحميل فيديوهات من فيسبوك",
-        "en-US": "AI Video Downloader Can Now Download Facebook Videos",
-        "de-DE": "Die AI Video Downloader kann Facebook Videos Runterladen",
-        "es-ES": "AI Video Downloader ahora puede descargar videos de Facebook",
-        "fr-FR": "AI Video Downloader peut maintenant télécharger des vidéos Facebook",
-        "it-IT": "AI Video Downloader può ora scaricare video da Facebook",
-        "ja-JP": "AI Video Downloaderは、Facebookの動画もダウンロード可能",
-        "pt-PT": "O AI Video Downloader agora pode baixar vídeos do Facebook",
-        "ru-RU": "Приложение AI Video Downloader теперь может загружать видео с Facebook",
-        "tr-TR": "AI Video Downloader artık Facebook videolarını indirebilir",
-        "zh-CN": "AI视频下载器现在可以下载Facebook视频"
+      "ar": "تطبيق AI Video Downloader يمكنه الآن تحميل فيديوهات من فيسبوك",
+      "en-US": "AI Video Downloader Can Now Download Facebook Videos",
+      "de-DE": "Die AI Video Downloader kann Facebook Videos Runterladen",
+      "es-ES": "AI Video Downloader ahora puede descargar videos de Facebook",
+      "fr-FR": "AI Video Downloader peut maintenant télécharger des vidéos Facebook",
+      "it-IT": "AI Video Downloader può ora scaricare video da Facebook",
+      "ja-JP": "AI Video Downloaderは、Facebookの動画もダウンロード可能",
+      "pt-PT": "O AI Video Downloader agora pode baixar vídeos do Facebook",
+      "ru-RU": "Приложение AI Video Downloader теперь может загружать видео с Facebook",
+      "tr-TR": "AI Video Downloader artık Facebook videolarını indirebilir",
+      "zh-CN": "AI视频下载器现在可以下载Facebook视频"
     },
     "messages": {
-        "ar": "الآن يمكن تحميل فيديوهات Facebook بجانب فيديوهات Instagram. الخطوة التالية هي القدرة على تحميل الفيديو بشكل عام. ثم سيتم إضافة TikTok، Twitter وإذا كان ممكنًا YouTube.",
-        "en-US": "Facebook videos can now be downloaded alongside Instagram videos. The next step is to be able to download general videos. Then TikTok, Twitter, and if possible, YouTube will be added.",
-        "de-DE": "Es können nun Facebook Videos neben Instagram Videos heruntergeladen werden. Der nächste Schritt ist, allgemeine Videos herunterladen zu können. Dann kommen TikTok, Twitter und, wenn möglich, YouTube dazu.",
-        "es-ES": "Ahora se pueden descargar videos de Facebook junto con videos de Instagram. El siguiente paso es poder descargar videos en general. Luego se agregarán TikTok, Twitter y, si es posible, YouTube.",
-        "fr-FR": "Il est désormais possible de télécharger des vidéos Facebook en plus des vidéos Instagram. La prochaine étape sera de pouvoir télécharger des vidéos en général. Ensuite, TikTok, Twitter et, si possible, YouTube seront ajoutés.",
-        "it-IT": "Ora è possibile scaricare i video di Facebook insieme ai video di Instagram. Il prossimo passo sarà poter scaricare video in generale. Poi verranno aggiunti TikTok, Twitter e, se possibile, YouTube.",
-        "ja-JP": "Facebookの動画は、Instagramの動画とともにダウンロードできるようになりました。次のステップは、一般的な動画をダウンロードできるようにすることです。その後、TikTok、Twitter、可能であればYouTubeが追加されます。",
-        "pt-PT": "Agora é possível baixar vídeos do Facebook, juntamente com vídeos do Instagram. O próximo passo é poder baixar vídeos em geral. Em seguida, serão adicionados TikTok, Twitter e, se possível, YouTube.",
-        "ru-RU": "Теперь можно загружать видео с Facebook наряду с видео из Instagram. Следующим шагом будет возможность загрузки видео в общем. Затем будут добавлены TikTok, Twitter и, если возможно, YouTube.",
-        "tr-TR": "Şimdi Facebook videoları, Instagram videolarının yanında indirilebilir. Bir sonraki adım, genel videoları indirebilmektir. Ardından TikTok, Twitter ve mümkünse YouTube eklenecektir.",
-        "zh-CN": "现在可以下载Facebook视频和Instagram视频。下一步是能够下载一般的视频。然后将加入TikTok，Twitter和，如果可能的话，YouTube。"
+      "ar": "الآن يمكن تحميل فيديوهات Facebook بجانب فيديوهات Instagram. الخطوة التالية هي القدرة على تحميل الفيديو بشكل عام. ثم سيتم إضافة TikTok، Twitter وإذا كان ممكنًا YouTube.",
+      "en-US": "Facebook videos can now be downloaded alongside Instagram videos. The next step is to be able to download general videos. Then TikTok, Twitter, and if possible, YouTube will be added.",
+      "de-DE": "Es können nun Facebook Videos neben Instagram Videos heruntergeladen werden. Der nächste Schritt ist, allgemeine Videos herunterladen zu können. Dann kommen TikTok, Twitter und, wenn möglich, YouTube dazu.",
+      "es-ES": "Ahora se pueden descargar videos de Facebook junto con videos de Instagram. El siguiente paso es poder descargar videos en general. Luego se agregarán TikTok, Twitter y, si es posible, YouTube.",
+      "fr-FR": "Il est désormais possible de télécharger des vidéos Facebook en plus des vidéos Instagram. La prochaine étape sera de pouvoir télécharger des vidéos en général. Ensuite, TikTok, Twitter et, si possible, YouTube seront ajoutés.",
+      "it-IT": "Ora è possibile scaricare i video di Facebook insieme ai video di Instagram. Il prossimo passo sarà poter scaricare video in generale. Poi verranno aggiunti TikTok, Twitter e, se possibile, YouTube.",
+      "ja-JP": "Facebookの動画は、Instagramの動画とともにダウンロードできるようになりました。次のステップは、一般的な動画をダウンロードできるようにすることです。その後、TikTok、Twitter、可能であればYouTubeが追加されます。",
+      "pt-PT": "Agora é possível baixar vídeos do Facebook, juntamente com vídeos do Instagram. O próximo passo é poder baixar vídeos em geral. Em seguida, serão adicionados TikTok, Twitter e, se possível, YouTube.",
+      "ru-RU": "Теперь можно загружать видео с Facebook наряду с видео из Instagram. Следующим шагом будет возможность загрузки видео в общем. Затем будут добавлены TikTok, Twitter и, если возможно, YouTube.",
+      "tr-TR": "Şimdi Facebook videoları, Instagram videolarının yanında indirilebilir. Bir sonraki adım, genel videoları indirebilmektir. Ardından TikTok, Twitter ve mümkünse YouTube eklenecektir.",
+      "zh-CN": "现在可以下载Facebook视频和Instagram视频。下一步是能够下载一般的视频。然后将加入TikTok，Twitter和，如果可能的话，YouTube。"
+    }
+  },
+  {
+    "id": 13,
+    "date": "22-10-2023 11:41:32",
+    "imageId": 3,
+    "titles": {
+      "ar": "تم إصلاح تحميل الفيديو من فيسبوك",
+      "en-US": "Facebook Download Fixed",
+      "de-DE": "Facebook Download Fixed",
+      "es-ES": "Problema de descarga de Facebook solucionado",
+      "fr-FR": "Problème de téléchargement Facebook résolu",
+      "it-IT": "Problema di download da Facebook risolto",
+      "ja-JP": "Facebookのダウンロード問題を修正",
+      "pt-PT": "Problema de download do Facebook resolvido",
+      "ru-RU": "Проблема со скачиванием из Facebook решена",
+      "tr-TR": "Facebook İndirme Sorunu Düzeltildi",
+      "zh-CN": "Facebook下载问题已修复"
+    },
+    "messages": {
+      "ar": "قد لا تتمكن البعض من تنزيل الفيديوهات، ولكن الآن يمكنك تنزيل جميع الفيديوهات من خلال الرابط. ببساطة، يمكن الآن تنزيل فيديوهات Facebook بالكامل. استمتع بذلك ولا تنس أن التطبيق مجاني وبدون إعلانات مزعجة.",
+      "en-US": "Some of you might have experienced issues downloading videos, only to have them saved in the link list. Luckily, you can now download all videos through that list. Simply put, Facebook videos can now be fully downloaded. Enjoy, and remember, the app is free and ad-free, except for the banner. We aim for everyone to benefit from such an app, so please recommend it to others!",
+      "de-DE": "So Leute, bei manchen ging das Runterladen der Videos nicht, stattdessen wurden diese nur im Link List gespeichert. Aber zum Glück, denn nun könnt ihr darüber nun alle Videos runterladen. Kurz und knapp, Facebook Videos können nun wieder vollständig runtergeladen werden. Viel Spaß damit. Vergesst nicht, die App ist kostenlos und ohne jegliche Werbung, außer dem Banner. Ich meine diese nervigen. Deshalb brauche ich euch, damit jeder von so einer App profitieren kann. Also empfehlt es jedem weiter.",
+      "es-ES": "Algunos de ustedes podrían haber tenido problemas al descargar videos, solo para tenerlos guardados en la lista de enlaces. Afortunadamente, ahora puedes descargar todos los videos a través de esa lista. En resumen, ahora se pueden descargar completamente los videos de Facebook. Disfruta y recuerda que la aplicación es gratuita y sin anuncios molestos.",
+      "fr-FR": "Certains d'entre vous ont peut-être eu des problèmes pour télécharger des vidéos, se retrouvant seulement sauvegardées dans la liste de liens. Heureusement, vous pouvez maintenant télécharger toutes les vidéos via cette liste. Pour faire simple, les vidéos Facebook peuvent maintenant être entièrement téléchargées. Profitez-en, et n'oubliez pas que l'application est gratuite et sans publicités intrusives.",
+      "it-IT": "Alcuni di voi potrebbero aver avuto problemi nel scaricare video, trovandoli salvati solo nella lista dei link. Fortunatamente, ora puoi scaricare tutti i video attraverso quella lista. In breve, i video di Facebook possono ora essere scaricati completamente. Goditelo e ricorda che l'app è gratuita e senza pubblicità invadenti.",
+      "ja-JP": "ビデオのダウンロードに問題があった方もいるかもしれませんが、そのリストを通じてすべてのビデオをダウンロードできるようになりました。簡単に言えば、Facebookの動画は完全にダウンロードできるようになりました。楽しんでください。そして、このアプリは無料で、迷惑な広告は表示されないことを忘れないでください。",
+      "pt-PT": "Alguns de vocês podem ter tido problemas ao baixar vídeos, apenas para tê-los salvos na lista de links. Felizmente, agora você pode baixar todos os vídeos por meio dessa lista. Em resumo, os vídeos do Facebook agora podem ser totalmente baixados. Divirta-se e lembre-se de que o aplicativo é gratuito e sem anúncios irritantes.",
+      "ru-RU": "Некоторые из вас столкнулись с проблемами при загрузке видео, и они сохранялись только в списке ссылок. К счастью, теперь вы можете загружать все видео через этот список. Говоря простым языком, теперь можно полностью загружать видео из Facebook. Наслаждайтесь!",
+      "tr-TR": "Bazılarınız videoları indirirken sorun yaşamış olabilir, ancak şimdi tüm videoları bu listeden indirebilirsiniz. Kısacası, Facebook videoları şimdi tamamen indirilebilir. Keyfini çıkarın ve uygulamanın ücretsiz ve reklamsız olduğunu unutmayın.",
+      "zh-CN": "你们中的一些人在下载视频时可能遇到了问题，只是将它们保存在链接列表中。幸运的是，现在你可以通过这个列表下载所有视频。简而言之，现在可以完全下载Facebook的视频了。享受吧，并记住，该应用是免费的，没有任何烦人的广告。"
     }
   }
 ]
