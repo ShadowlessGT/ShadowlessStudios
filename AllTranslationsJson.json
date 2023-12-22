@@ -3641,8 +3641,7 @@
           }
         }
       ]
-    }
-    ,
+    },
     {
       "categoryKey": "IslamApp",
       "version": 0,
@@ -3680,8 +3679,7 @@
             "tr-TR": "Namaz Vakitleri",
             "zh-CN": "祈祷时间"
           }
-        }
-        ,
+        },
         {
           "Key": "GPSInfo",
           "Translations": {
@@ -3697,7 +3695,293 @@
             "tr-TR": "Lütfen GPS'i açın! Hesaplama, İslami matematiksel hesaplamalara dayanmakta ve şu anda GPS konumunuza bağlıdır.",
             "zh-CN": "请打开GPS！计算基于伊斯兰数学计算，并当前取决于您的GPS位置。"
           }
-        }
+        },
+        "DistanceToKaaba": {
+            "ar": "المسافة إلى الكعبة: {0} كم",
+            "en-US": "Your distance to the Kaaba is: {0} km",
+            "de-DE": "Ihre Entfernung zur Kaaba: {0} km",
+            "es-ES": "Tu distancia a la Kaaba: {0} km",
+            "fr-FR": "Votre distance à la Kaaba : {0} km",
+            "it-IT": "La tua distanza dalla Kaaba: {0} km",
+            "ja-JP": "カーバへの距離: {0} km",
+            "pt-PT": "Sua distância para a Kaaba: {0} km",
+            "ru-RU": "Ваше расстояние до Каабы: {0} км",
+            "tr-TR": "Kabenin size uzaklığı: {0} km",
+            "zh-CN": "距离卡巴的距离: {0}公里"
+        },
+        "CalculationMethod": {
+            "ar": "طريقة الحساب",
+            "en-US": "Calculation Method",
+            "de-DE": "Berechnungsmethode",
+            "es-ES": "Método de Cálculo",
+            "fr-FR": "Méthode de Calcul",
+            "it-IT": "Metodo di Calcolo",
+            "ja-JP": "計算方法",
+            "pt-PT": "Método de Cálculo",
+            "ru-RU": "Метод Расчета",
+            "tr-TR": "Hesaplama Yöntemi",
+            "zh-CN": "计算方法"
+        },
+        "Hanafi": {
+            "ar": "الحنفي",
+            "en-US": "Hanafi",
+            "de-DE": "Hanafi",
+            "es-ES": "Hanafi",
+            "fr-FR": "Hanafi",
+            "it-IT": "Hanafi",
+            "ja-JP": "ハナフィ",
+            "pt-PT": "Hanafi",
+            "ru-RU": "Ханафи",
+            "tr-TR": "Hanefi",
+            "zh-CN": "哈纳菲"
+        },
+        "OtherSchools": {
+            "ar": "(الشافعي، المالكي، الحنبلي)",
+            "en-US": "(Shafi, Maliki, Hanbali)",
+            "de-DE": "(Schafi'i, Maliki, Hanbali)",
+            "es-ES": "(Shafi, Maliki, Hanbali)",
+            "fr-FR": "(Shafii, Maliki, Hanbali)",
+            "it-IT": "(Shafi, Maliki, Hanbali)",
+            "ja-JP": "(シャフィイ、マーリク、ハンバル)",
+            "pt-PT": "(Shafi, Maliki, Hanbali)",
+            "ru-RU": "(Шафии, Малики, Ханбали)",
+            "tr-TR": "(Şafii, Maliki, Hanbeli)",
+            "zh-CN": "(沙菲，马利基，汉巴利)"
+        },
+        "Hour": {
+            "ar": "ساعة",
+            "en-US": "Hour",
+            "de-DE": "Stunde",
+            "es-ES": "Hora",
+            "fr-FR": "Heure",
+            "it-IT": "Ora",
+            "ja-JP": "時間",
+            "pt-PT": "Hora",
+            "ru-RU": "Час",
+            "tr-TR": "Saat",
+            "zh-CN": "小时"
+        },
+        "Minute": {
+            "ar": "دقيقة",
+            "en-US": "Minute",
+            "de-DE": "Minute",
+            "es-ES": "Minuto",
+            "fr-FR": "Minute",
+            "it-IT": "Minuto",
+            "ja-JP": "分",
+            "pt-PT": "Minuto",
+            "ru-RU": "Минута",
+            "tr-TR": "Dakika",
+            "zh-CN": "分钟"
+        },
+        "Second": {
+            "ar": "ثانية",
+            "en-US": "Second",
+            "de-DE": "Sekunde",
+            "es-ES": "Segundo",
+            "fr-FR": "Seconde",
+            "it-IT": "Secondo",
+            "ja-JP": "秒",
+            "pt-PT": "Segundo",
+            "ru-RU": "Секунда",
+            "tr-TR": "Saniye",
+            "zh-CN": "秒"
+        },
+        "TimeUntil": {
+            "ar": "الوقت حتى",
+            "en-US": "Time until",
+            "de-DE": "Zeit bis zu",
+            "es-ES": "Tiempo hasta",
+            "fr-FR": "Temps jusqu'à",
+            "it-IT": "Tempo fino a",
+            "ja-JP": "までの時間",
+            "pt-PT": "Tempo até",
+            "ru-RU": "Время до",
+            "tr-TR": "Kalan Süre",
+            "zh-CN": "时间直到"
+        },
+        "Cities": {
+            "ar": "المدن",
+            "en-US": "Cities",
+            "de-DE": "Städte",
+            "es-ES": "Ciudades",
+            "fr-FR": "Villes",
+            "it-IT": "Città",
+            "ja-JP": "都市",
+            "pt-PT": "Cidades",
+            "ru-RU": "Города",
+            "tr-TR": "Şehirler",
+            "zh-CN": "城市"
+        },
+        "Latitude": {
+            "ar": "خط العرض",
+            "en-US": "Latitude",
+            "de-DE": "Breitengrad",
+            "es-ES": "Latitud",
+            "fr-FR": "Latitude",
+            "it-IT": "Latitudine",
+            "ja-JP": "緯度",
+            "pt-PT": "Latitude",
+            "ru-RU": "Широта",
+            "tr-TR": "Enlem",
+            "zh-CN": "纬度"
+        },
+        "Longitude": {
+            "ar": "خط الطول",
+            "en-US": "Longitude",
+            "de-DE": "Längengrad",
+            "es-ES": "Longitud",
+            "fr-FR": "Longitude",
+            "it-IT": "Longitudine",
+            "ja-JP": "経度",
+            "pt-PT": "Longitude",
+            "ru-RU": "Долгота",
+            "tr-TR": "Boylam",
+            "zh-CN": "经度"
+        },
+        "Date": {
+            "ar": "التاريخ",
+            "en-US": "Date",
+            "de-DE": "Datum",
+            "es-ES": "Fecha",
+            "fr-FR": "Date",
+            "it-IT": "Data",
+            "ja-JP": "日付",
+            "pt-PT": "Data",
+            "ru-RU": "Дата",
+            "tr-TR": "Tarih",
+            "zh-CN": "日期"
+        },
+        "Statusbar": {
+            "ar": "شريط الحالة",
+            "en-US": "Statusbar",
+            "de-DE": "Statusleiste",
+            "es-ES": "Barra de Estado",
+            "fr-FR": "Barre de Statut",
+            "it-IT": "Barra di Stato",
+            "ja-JP": "ステータスバー",
+            "pt-PT": "Barra de Estado",
+            "ru-RU": "Строка состояния",
+            "tr-TR": "Durum Çubuğu",
+            "zh-CN": "状态栏"
+        },
+        "Navigationsbar": {
+        "ar": "شريط التنقل",
+        "en-US": "Navigation Bar",
+        "de-DE": "Navigationsleiste",
+        "es-ES": "Barra de Navegación",
+        "fr-FR": "Barre de Navigation",
+        "it-IT": "Barra di Navigazione",
+        "ja-JP": "ナビゲーションバー",
+        "pt-PT": "Barra de Navegação",
+        "ru-RU": "Панель Навигации",
+        "tr-TR": "Navigasyon Çubuğu",
+        "zh-CN": "导航栏"
+    },
+    "Imsak": {
+        "ar": "الإمساك",
+        "en-US": "Imsak",
+        "de-DE": "Imsak",
+        "es-ES": "Imsak",
+        "fr-FR": "Imsak",
+        "it-IT": "Imsak",
+        "ja-JP": "イムサク",
+        "pt-PT": "Imsak",
+        "ru-RU": "Имсак",
+        "tr-TR": "İmsak",
+        "zh-CN": "伊姆萨克"
+    },
+    "Sabah": {
+        "ar": "الصبح",
+        "en-US": "Fajr",
+        "de-DE": "Fajr",
+        "es-ES": "Fajr",
+        "fr-FR": "Fajr",
+        "it-IT": "Fajr",
+        "ja-JP": "ファジュル",
+        "pt-PT": "Fajr",
+        "ru-RU": "Фаджр",
+        "tr-TR": "Sabah",
+        "zh-CN": "法季尔"
+    },
+    "Öglen": {
+        "ar": "الظهر",
+        "en-US": "Dhuhr",
+        "de-DE": "Dhuhr",
+        "es-ES": "Dhuhr",
+        "fr-FR": "Dhuhr",
+        "it-IT": "Dhuhr",
+        "ja-JP": "ズフル",
+        "pt-PT": "Dhuhr",
+        "ru-RU": "Зухр",
+        "tr-TR": "Öğle",
+        "zh-CN": "中午祷告"
+    },
+    "Ikindi": {
+        "ar": "العصر",
+        "en-US": "Asr",
+        "de-DE": "Asr",
+        "es-ES": "Asr",
+        "fr-FR": "Asr",
+        "it-IT": "Asr",
+        "ja-JP": "アスル",
+        "pt-PT": "Asr",
+        "ru-RU": "Аср",
+        "tr-TR": "İkindi",
+        "zh-CN": "阿斯尔"
+    },
+    "Aksam": {
+        "ar": "المغرب",
+        "en-US": "Maghrib",
+        "de-DE": "Maghrib",
+        "es-ES": "Maghrib",
+        "fr-FR": "Maghrib",
+        "it-IT": "Maghrib",
+        "ja-JP": "マグリブ",
+        "pt-PT": "Maghrib",
+        "ru-RU": "Магриб",
+        "tr-TR": "Akşam",
+        "zh-CN": "马格里布"
+    },
+    "Yatsi": {
+        "ar": "العشاء",
+        "en-US": "Isha",
+        "de-DE": "Isha",
+        "es-ES": "Isha",
+        "fr-FR": "Isha",
+        "it-IT": "Isha",
+        "ja-JP": "イシャー",
+        "pt-PT": "Isha",
+        "ru-RU": "Иша",
+        "tr-TR": "Yatsı",
+        "zh-CN": "伊沙"
+    },
+    "Dimmed": {
+        "ar": "مُظلَّم",
+        "en-US": "Dimmed",
+        "de-DE": "Gedimmt",
+        "es-ES": "Atenuado",
+        "fr-FR": "Assombri",
+        "it-IT": "Sfumato",
+        "ja-JP": "薄暗い",
+        "pt-PT": "Escurecido",
+        "ru-RU": "Затемненный",
+        "tr-TR": "Karartılmış",
+        "zh-CN": "昏暗"
+    },
+    "ReLocate": {
+        "ar": "إعادة تحديد الموقع",
+        "en-US": "Re-Locate",
+        "de-DE": "Erneut Orten",
+        "es-ES": "Reubicar",
+        "fr-FR": "Relocaliser",
+        "it-IT": "Rilocare",
+        "ja-JP": "再配置",
+        "pt-PT": "Re-localizar",
+        "ru-RU": "Переместить",
+        "tr-TR": "Yeniden Yerleştir",
+        "zh-CN": "重新定位"
+    }
       ]
     }
   ]
