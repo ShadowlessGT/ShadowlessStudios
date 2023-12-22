@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "lastUpdate": "21-09-2023 15:52:52",
+  "version": 5,
+  "lastUpdate": "22-12-2023 15:52:52",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -3638,6 +3638,64 @@
             "ru-RU": "Заблокировано или Приватно!",
             "tr-TR": "Engellenmiş veya Özel!",
             "zh-CN": "已封锁或私人!"
+          }
+        }
+      ]
+    }
+    ,
+    {
+      "categoryKey": "IslamApp",
+      "version": 0,
+      "id": 18,
+      "date": "22.12.2023",
+      "entries": [
+        {
+          "Key": "Kompass",
+          "Translations": {
+            "ar": "بوصلة",
+            "en-US": "Compass",
+            "de-DE": "Kompass",
+            "es-ES": "Brújula",
+            "fr-FR": "Boussole",
+            "it-IT": "Bussola",
+            "ja-JP": "コンパス",
+            "pt-PT": "Bússola",
+            "ru-RU": "Компас",
+            "tr-TR": "Pusula",
+            "zh-CN": "指南针"
+          }
+        },
+        {
+          "Key": "PrayerTimes",
+          "Translations": {
+            "ar": "أوقات الصلاة",
+            "en-US": "Prayer Times",
+            "de-DE": "Gebetszeiten",
+            "es-ES": "Tiempos de Oración",
+            "fr-FR": "Heures de Prière",
+            "it-IT": "Orari della Preghiera",
+            "ja-JP": "礼拝の時間",
+            "pt-PT": "Horários das Orações",
+            "ru-RU": "Время Намаза",
+            "tr-TR": "Namaz Vakitleri",
+            "zh-CN": "祈祷时间"
+          }
+        }
+        ,
+        {
+          "Key": "GPSInfo",
+          "Translations": {
+            "ar": "يرجى تشغيل نظام تحديد المواقع العالمي (GPS)! الحساب يعتمد على الحسابات الرياضية الإسلامية ويعتمد حاليًا على موقع GPS الخاص بك.",
+            "en-US": "Please Turn On GPS! The calculation is based on Islamic mathematical calculations and currently depends on your GPS location.",
+            "de-DE": "Bitte schalten Sie das GPS ein! Die Berechnung basiert auf islamischen mathematischen Berechnungen und hängt derzeit von Ihrem GPS-Standort ab.",
+            "es-ES": "¡Por favor, activa el GPS! El cálculo se basa en cálculos matemáticos islámicos y actualmente depende de tu ubicación GPS.",
+            "fr-FR": "Veuillez activer le GPS ! Le calcul est basé sur des calculs mathématiques islamiques et dépend actuellement de votre position GPS.",
+            "it-IT": "Per favore, attiva il GPS! Il calcolo si basa su calcoli matematici islamici e attualmente dipende dalla tua posizione GPS.",
+            "ja-JP": "GPSをオンにしてください！計算はイスラム数学の計算に基づいており、現在はGPS位置に依存しています。",
+            "pt-PT": "Por favor, ative o GPS! O cálculo é baseado em cálculos matemáticos islâmicos e atualmente depende da sua localização GPS.",
+            "ru-RU": "Пожалуйста, включите GPS! Расчет основан на исламских математических расчетах и в настоящее время зависит от вашего местоположения GPS.",
+            "tr-TR": "Lütfen GPS'i açın! Hesaplama, İslami matematiksel hesaplamalara dayanmakta ve şu anda GPS konumunuza bağlıdır.",
+            "zh-CN": "请打开GPS！计算基于伊斯兰数学计算，并当前取决于您的GPS位置。"
           }
         }
       ]
