@@ -3697,7 +3697,7 @@
           }
         },
 	      {
-        "Key": "DistanceToKaaba",,
+        "Key": "DistanceToKaaba",
           "Translations": {
             "ar": "المسافة إلى الكعبة: {0} كم",
             "en-US": "Your distance to the Kaaba is: {0} km",
