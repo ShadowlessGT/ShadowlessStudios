@@ -3696,6 +3696,7 @@
             "zh-CN": "请打开GPS！计算基于伊斯兰数学计算，并当前取决于您的GPS位置。"
           }
         },
+	      {
         "Key": "DistanceToKaaba",,
           "Translations": {
             "ar": "المسافة إلى الكعبة: {0} كم",
@@ -3709,8 +3710,10 @@
             "ru-RU": "Ваше расстояние до Каабы: {0} км",
             "tr-TR": "Kabenin size uzaklığı: {0} km",
             "zh-CN": "距离卡巴的距离: {0}公里"
-        },
-        "Key": "CalculationMethod",
+        }
+	      },
+	      {
+		      "Key": "CalculationMethod",
           "Translations": {
             "ar": "طريقة الحساب",
             "en-US": "Calculation Method",
@@ -3723,7 +3726,9 @@
             "ru-RU": "Метод Расчета",
             "tr-TR": "Hesaplama Yöntemi",
             "zh-CN": "计算方法"
-        },
+        }
+	      },
+	      {
         "Key": "Hanafi",
           "Translations": {
             "ar": "الحنفي",
@@ -3737,7 +3742,9 @@
             "ru-RU": "Ханафи",
             "tr-TR": "Hanefi",
             "zh-CN": "哈纳菲"
-        },
+        }
+	      },
+	      {
         "Key": "OtherSchools",
           "Translations": {
             "ar": "(الشافعي، المالكي، الحنبلي)",
@@ -3751,7 +3758,9 @@
             "ru-RU": "(Шафии, Малики, Ханбали)",
             "tr-TR": "(Şafii, Maliki, Hanbeli)",
             "zh-CN": "(沙菲，马利基，汉巴利)"
-        },
+        }
+	      },
+	      {
         "Key": "Hour",
           "Translations": {
             "ar": "ساعة",
@@ -3765,7 +3774,8 @@
             "ru-RU": "Час",
             "tr-TR": "Saat",
             "zh-CN": "小时"
-        },
+        }},
+	      {
         "Key": "Minute",
           "Translations": {
             "ar": "دقيقة",
@@ -3779,7 +3789,8 @@
             "ru-RU": "Минута",
             "tr-TR": "Dakika",
             "zh-CN": "分钟"
-        },
+        }},
+	      {
         "Key": "Second",
           "Translations": {
             "ar": "ثانية",
@@ -3793,7 +3804,9 @@
             "ru-RU": "Секунда",
             "tr-TR": "Saniye",
             "zh-CN": "秒"
-        },
+        }
+	      },
+	      {
         "Key": "TimeUntil",
           "Translations": {
             "ar": "الوقت حتى",
@@ -3807,7 +3820,9 @@
             "ru-RU": "Время до",
             "tr-TR": "Kalan Süre",
             "zh-CN": "时间直到"
-        },
+        }
+	      },
+	      {
         "Key": "Cities",
           "Translations": {
             "ar": "المدن",
@@ -3821,7 +3836,9 @@
             "ru-RU": "Города",
             "tr-TR": "Şehirler",
             "zh-CN": "城市"
-        },
+        }
+	      },
+	      {
         "Key": "Latitude",
           "Translations": {
             "ar": "خط العرض",
@@ -3835,7 +3852,9 @@
             "ru-RU": "Широта",
             "tr-TR": "Enlem",
             "zh-CN": "纬度"
-        },
+        }
+	      },
+	      {
         "Key": "Longitude",
           "Translations": {
             "ar": "خط الطول",
@@ -3849,7 +3868,8 @@
             "ru-RU": "Долгота",
             "tr-TR": "Boylam",
             "zh-CN": "经度"
-        },
+        }},
+	      {
         "Key": "Date",
           "Translations": {
             "ar": "التاريخ",
@@ -3863,7 +3883,9 @@
             "ru-RU": "Дата",
             "tr-TR": "Tarih",
             "zh-CN": "日期"
-        },
+        }
+	      },
+	      {
         "Key": "Statusbar",
           "Translations": {
             "ar": "شريط الحالة",
@@ -3877,7 +3899,9 @@
             "ru-RU": "Строка состояния",
             "tr-TR": "Durum Çubuğu",
             "zh-CN": "状态栏"
-        },
+        }
+	      },
+	      {
         "Key": "Navigationsbar",
           "Translations": {
         "ar": "شريط التنقل",
@@ -3891,7 +3915,9 @@
         "ru-RU": "Панель Навигации",
         "tr-TR": "Navigasyon Çubuğu",
         "zh-CN": "导航栏"
-    },
+    }
+	      },
+	      {
     "Key": "Imsak",
           "Translations": {
         "ar": "الإمساك",
@@ -3905,7 +3931,9 @@
         "ru-RU": "Имсак",
         "tr-TR": "İmsak",
         "zh-CN": "伊姆萨克"
-    },
+    }
+	      },
+	      {
     "Key": "Sabah",
           "Translations": {
         "ar": "الصبح",
@@ -3919,7 +3947,9 @@
         "ru-RU": "Фаджр",
         "tr-TR": "Sabah",
         "zh-CN": "法季尔"
-    },
+    }
+	      },
+	      {
     "Key": "Öglen",
           "Translations": {
         "ar": "الظهر",
@@ -3933,7 +3963,8 @@
         "ru-RU": "Зухр",
         "tr-TR": "Öğle",
         "zh-CN": "中午祷告"
-    },
+    }},
+	      {
     "Key": "Ikindi",
           "Translations": {
         "ar": "العصر",
@@ -3947,7 +3978,8 @@
         "ru-RU": "Аср",
         "tr-TR": "İkindi",
         "zh-CN": "阿斯尔"
-    },
+    }},
+	      {
     "Key": "Aksam",
           "Translations": {
         "ar": "المغرب",
@@ -3961,7 +3993,8 @@
         "ru-RU": "Магриб",
         "tr-TR": "Akşam",
         "zh-CN": "马格里布"
-    },
+    }},
+	      {
     "Key": "Yatsi",
           "Translations": {
         "ar": "العشاء",
@@ -3975,7 +4008,8 @@
         "ru-RU": "Иша",
         "tr-TR": "Yatsı",
         "zh-CN": "伊沙"
-    },
+    }},
+	      {
     "Key": "Dimmed",
           "Translations": {
         "ar": "مُظلَّم",
@@ -3989,7 +4023,9 @@
         "ru-RU": "Затемненный",
         "tr-TR": "Karartılmış",
         "zh-CN": "昏暗"
-    },
+    }
+	      },
+	      {
     "Key": "ReLocate",
           "Translations": {
         "ar": "إعادة تحديد الموقع",
@@ -4004,6 +4040,7 @@
         "tr-TR": "Yeniden Yerleştir",
         "zh-CN": "重新定位"
 		}
+	      }
       ]
     }
   ]
