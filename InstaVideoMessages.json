@@ -401,5 +401,36 @@
       "tr-TR": "Bazılarınız videoları indirirken sorun yaşamış olabilir, ancak şimdi tüm videoları bu listeden indirebilirsiniz. Kısacası, Facebook videoları şimdi tamamen indirilebilir. Keyfini çıkarın ve uygulamanın ücretsiz ve reklamsız olduğunu unutmayın.",
       "zh-CN": "你们中的一些人在下载视频时可能遇到了问题，只是将它们保存在链接列表中。幸运的是，现在你可以通过这个列表下载所有视频。简而言之，现在可以完全下载Facebook的视频了。享受吧，并记住，该应用是免费的，没有任何烦人的广告。"
     }
+  },
+  {
+    "id": 14,
+    "date": "09-01-2024 18:21:32",
+    "imageId": 3,
+    "titles": {
+        "ar": "مشاكل في الإصدار الجديد من أندرويد",
+        "en-US": "Problems with the New Android Version",
+        "de-DE": "Probleme bei der neuen Android Version",
+        "es-ES": "Problemas con la Nueva Versión de Android",
+        "fr-FR": "Problèmes avec la Nouvelle Version d'Android",
+        "it-IT": "Problemi con la Nuova Versione di Android",
+        "ja-JP": "新しいAndroidバージョンの問題",
+        "pt-PT": "Problemas com a Nova Versão do Android",
+        "ru-RU": "Проблемы с новой версией Android",
+        "tr-TR": "Yeni Android Sürümünde Sorunlar",
+        "zh-CN": "新安卓版本的问题"
+    },
+    "messages": {
+      "ar": "تواجه النسخة 14 من أندرويد ونسخة OneUI 16 مشاكل أثناء التحميل، ونحن نعمل على إصلاح ذلك.",
+        "en-US": "The Android version 14 and OneUI version 16 are experiencing issues with downloading, and we are working on fixing it.",
+        "de-DE": "Die Android-Version 14 und ab OneUI-Version 16 machen beim Herunterladen Probleme, wir sind dabei, das zu beheben.",
+        "es-ES": "La versión 14 de Android y la versión 16 de OneUI están teniendo problemas con la descarga, y estamos trabajando para solucionarlo.",
+        "fr-FR": "La version 14 d'Android et la version 16 de OneUI rencontrent des problèmes de téléchargement, et nous travaillons à les résoudre.",
+        "it-IT": "La versione 14 di Android e la versione 16 di OneUI stanno riscontrando problemi con i download, e stiamo lavorando per risolverli.",
+        "ja-JP": "Androidバージョン14およびOneUIバージョン16ではダウンロードに問題が発生しており、修正に取り組んでいます。",
+        "pt-PT": "A versão 14 do Android e a versão 16 da OneUI estão enfrentando problemas com o download, e estamos trabalhando para corrigi-los.",
+        "ru-RU": "В версии Android 14 и версии OneUI 16 возникают проблемы с загрузкой, и мы работаем над их устранением.",
+        "tr-TR": "Android sürüm 14 ve OneUI sürüm 16 indirme konusunda sorunlar yaşıyor ve bunu düzeltmek için çalışıyoruz.",
+        "zh-CN": "Android 14版本和OneUI 16版本在下载时遇到问题，我们正在努力解决。"
+    }
   }
 ]
