@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "lastUpdate": "22-12-2023 15:52:52",
+  "version": 6,
+  "lastUpdate": "06-02-2024 18:27:56",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -3644,9 +3644,9 @@
     },
     {
       "categoryKey": "IslamApp",
-      "version": 0,
+      "version": 1,
       "id": 18,
-      "date": "22.12.2023",
+      "date": "06-02-2024 18:27:56",
       "entries": [
         {
           "Key": "Kompass",
@@ -3696,8 +3696,8 @@
             "zh-CN": "请打开GPS！计算基于伊斯兰数学计算，并当前取决于您的GPS位置。"
           }
         },
-	      {
-        "Key": "DistanceToKaaba",
+        {
+          "Key": "DistanceToKaaba",
           "Translations": {
             "ar": "المسافة إلى الكعبة: {0} كم",
             "en-US": "Your distance to the Kaaba is: {0} km",
@@ -3710,10 +3710,10 @@
             "ru-RU": "Ваше расстояние до Каабы: {0} км",
             "tr-TR": "Kabenin size uzaklığı: {0} km",
             "zh-CN": "距离卡巴的距离: {0}公里"
-        }
-	      },
-	      {
-		      "Key": "CalculationMethod",
+          }
+        },
+        {
+          "Key": "CalculationMethod",
           "Translations": {
             "ar": "طريقة الحساب",
             "en-US": "Calculation Method",
@@ -3726,10 +3726,10 @@
             "ru-RU": "Метод Расчета",
             "tr-TR": "Hesaplama Yöntemi",
             "zh-CN": "计算方法"
-        }
-	      },
-	      {
-        "Key": "Hanafi",
+          }
+        },
+        {
+          "Key": "Hanafi",
           "Translations": {
             "ar": "الحنفي",
             "en-US": "Hanafi",
@@ -3742,10 +3742,10 @@
             "ru-RU": "Ханафи",
             "tr-TR": "Hanefi",
             "zh-CN": "哈纳菲"
-        }
-	      },
-	      {
-        "Key": "OtherSchools",
+          }
+        },
+        {
+          "Key": "OtherSchools",
           "Translations": {
             "ar": "(الشافعي، المالكي، الحنبلي)",
             "en-US": "(Shafi, Maliki, Hanbali)",
@@ -3758,10 +3758,10 @@
             "ru-RU": "(Шафии, Малики, Ханбали)",
             "tr-TR": "(Şafii, Maliki, Hanbeli)",
             "zh-CN": "(沙菲，马利基，汉巴利)"
-        }
-	      },
-	      {
-        "Key": "Hour",
+          }
+        },
+        {
+          "Key": "Hour",
           "Translations": {
             "ar": "ساعة",
             "en-US": "Hour",
@@ -3774,9 +3774,10 @@
             "ru-RU": "Час",
             "tr-TR": "Saat",
             "zh-CN": "小时"
-        }},
-	      {
-        "Key": "Minute",
+          }
+        },
+        {
+          "Key": "Minute",
           "Translations": {
             "ar": "دقيقة",
             "en-US": "Minute",
@@ -3789,9 +3790,10 @@
             "ru-RU": "Минута",
             "tr-TR": "Dakika",
             "zh-CN": "分钟"
-        }},
-	      {
-        "Key": "Second",
+          }
+        },
+        {
+          "Key": "Second",
           "Translations": {
             "ar": "ثانية",
             "en-US": "Second",
@@ -3804,10 +3806,10 @@
             "ru-RU": "Секунда",
             "tr-TR": "Saniye",
             "zh-CN": "秒"
-        }
-	      },
-	      {
-        "Key": "TimeUntil",
+          }
+        },
+        {
+          "Key": "TimeUntil",
           "Translations": {
             "ar": "الوقت حتى",
             "en-US": "Time until",
@@ -3820,10 +3822,10 @@
             "ru-RU": "Время до",
             "tr-TR": "Kalan Süre",
             "zh-CN": "时间直到"
-        }
-	      },
-	      {
-        "Key": "Cities",
+          }
+        },
+        {
+          "Key": "Cities",
           "Translations": {
             "ar": "المدن",
             "en-US": "Cities",
@@ -3836,10 +3838,10 @@
             "ru-RU": "Города",
             "tr-TR": "Şehirler",
             "zh-CN": "城市"
-        }
-	      },
-	      {
-        "Key": "Latitude",
+          }
+        },
+        {
+          "Key": "Latitude",
           "Translations": {
             "ar": "خط العرض",
             "en-US": "Latitude",
@@ -3852,10 +3854,10 @@
             "ru-RU": "Широта",
             "tr-TR": "Enlem",
             "zh-CN": "纬度"
-        }
-	      },
-	      {
-        "Key": "Longitude",
+          }
+        },
+        {
+          "Key": "Longitude",
           "Translations": {
             "ar": "خط الطول",
             "en-US": "Longitude",
@@ -3868,9 +3870,10 @@
             "ru-RU": "Долгота",
             "tr-TR": "Boylam",
             "zh-CN": "经度"
-        }},
-	      {
-        "Key": "Date",
+          }
+        },
+        {
+          "Key": "Date",
           "Translations": {
             "ar": "التاريخ",
             "en-US": "Date",
@@ -3883,10 +3886,10 @@
             "ru-RU": "Дата",
             "tr-TR": "Tarih",
             "zh-CN": "日期"
-        }
-	      },
-	      {
-        "Key": "Statusbar",
+          }
+        },
+        {
+          "Key": "Statusbar",
           "Translations": {
             "ar": "شريط الحالة",
             "en-US": "Statusbar",
@@ -3899,148 +3902,152 @@
             "ru-RU": "Строка состояния",
             "tr-TR": "Durum Çubuğu",
             "zh-CN": "状态栏"
+          }
+        },
+        {
+          "Key": "Navigationsbar",
+          "Translations": {
+            "ar": "شريط التنقل",
+            "en-US": "Navigation Bar",
+            "de-DE": "Navigationsleiste",
+            "es-ES": "Barra de Navegación",
+            "fr-FR": "Barre de Navigation",
+            "it-IT": "Barra di Navigazione",
+            "ja-JP": "ナビゲーションバー",
+            "pt-PT": "Barra de Navegação",
+            "ru-RU": "Панель Навигации",
+            "tr-TR": "Navigasyon Çubuğu",
+            "zh-CN": "导航栏"
+          }
+        },
+        {
+          "Key": "Imsak",
+          "Translations": {
+            "ar": "الإمساك",
+            "en-US": "Imsak",
+            "de-DE": "Imsak",
+            "es-ES": "Imsak",
+            "fr-FR": "Imsak",
+            "it-IT": "Imsak",
+            "ja-JP": "イムサク",
+            "pt-PT": "Imsak",
+            "ru-RU": "Имсак",
+            "tr-TR": "İmsak",
+            "zh-CN": "伊姆萨克"
+          }
+        },
+        {
+          "Key": "Sabah",
+          "Translations": {
+            "ar": "الصبح",
+            "en-US": "Fajr",
+            "de-DE": "Fajr",
+            "es-ES": "Fajr",
+            "fr-FR": "Fajr",
+            "it-IT": "Fajr",
+            "ja-JP": "ファジュル",
+            "pt-PT": "Fajr",
+            "ru-RU": "Фаджр",
+            "tr-TR": "Sabah",
+            "zh-CN": "法季尔"
+          }
+        },
+        {
+          "Key": "Öglen",
+          "Translations": {
+            "ar": "الظهر",
+            "en-US": "Dhuhr",
+            "de-DE": "Dhuhr",
+            "es-ES": "Dhuhr",
+            "fr-FR": "Dhuhr",
+            "it-IT": "Dhuhr",
+            "ja-JP": "ズフル",
+            "pt-PT": "Dhuhr",
+            "ru-RU": "Зухр",
+            "tr-TR": "Öğle",
+            "zh-CN": "中午祷告"
+          }
+        },
+        {
+          "Key": "Ikindi",
+          "Translations": {
+            "ar": "العصر",
+            "en-US": "Asr",
+            "de-DE": "Asr",
+            "es-ES": "Asr",
+            "fr-FR": "Asr",
+            "it-IT": "Asr",
+            "ja-JP": "アスル",
+            "pt-PT": "Asr",
+            "ru-RU": "Аср",
+            "tr-TR": "İkindi",
+            "zh-CN": "阿斯尔"
+          }
+        },
+        {
+          "Key": "Aksam",
+          "Translations": {
+            "ar": "المغرب",
+            "en-US": "Maghrib",
+            "de-DE": "Maghrib",
+            "es-ES": "Maghrib",
+            "fr-FR": "Maghrib",
+            "it-IT": "Maghrib",
+            "ja-JP": "マグリブ",
+            "pt-PT": "Maghrib",
+            "ru-RU": "Магриб",
+            "tr-TR": "Akşam",
+            "zh-CN": "马格里布"
+          }
+        },
+        {
+          "Key": "Yatsi",
+          "Translations": {
+            "ar": "العشاء",
+            "en-US": "Isha",
+            "de-DE": "Isha",
+            "es-ES": "Isha",
+            "fr-FR": "Isha",
+            "it-IT": "Isha",
+            "ja-JP": "イシャー",
+            "pt-PT": "Isha",
+            "ru-RU": "Иша",
+            "tr-TR": "Yatsı",
+            "zh-CN": "伊沙"
+          }
+        },
+        {
+          "Key": "Dimmed",
+          "Translations": {
+            "ar": "مُظلَّم",
+            "en-US": "Dimmed",
+            "de-DE": "Gedimmt",
+            "es-ES": "Atenuado",
+            "fr-FR": "Assombri",
+            "it-IT": "Sfumato",
+            "ja-JP": "薄暗い",
+            "pt-PT": "Escurecido",
+            "ru-RU": "Затемненный",
+            "tr-TR": "Karartılmış",
+            "zh-CN": "昏暗"
+          }
+        },
+        {
+          "Key": "ReLocate",
+          "Translations": {
+            "ar": "إعادة تحديد الموقع",
+            "en-US": "Re-Locate",
+            "de-DE": "Erneut Orten",
+            "es-ES": "Reubicar",
+            "fr-FR": "Relocaliser",
+            "it-IT": "Rilocare",
+            "ja-JP": "再配置",
+            "pt-PT": "Re-localizar",
+            "ru-RU": "Переместить",
+            "tr-TR": "Yeniden Yerleştir",
+            "zh-CN": "重新定位"
+          }
         }
-	      },
-	      {
-        "Key": "Navigationsbar",
-          "Translations": {
-        "ar": "شريط التنقل",
-        "en-US": "Navigation Bar",
-        "de-DE": "Navigationsleiste",
-        "es-ES": "Barra de Navegación",
-        "fr-FR": "Barre de Navigation",
-        "it-IT": "Barra di Navigazione",
-        "ja-JP": "ナビゲーションバー",
-        "pt-PT": "Barra de Navegação",
-        "ru-RU": "Панель Навигации",
-        "tr-TR": "Navigasyon Çubuğu",
-        "zh-CN": "导航栏"
-    }
-	      },
-	      {
-    "Key": "Imsak",
-          "Translations": {
-        "ar": "الإمساك",
-        "en-US": "Imsak",
-        "de-DE": "Imsak",
-        "es-ES": "Imsak",
-        "fr-FR": "Imsak",
-        "it-IT": "Imsak",
-        "ja-JP": "イムサク",
-        "pt-PT": "Imsak",
-        "ru-RU": "Имсак",
-        "tr-TR": "İmsak",
-        "zh-CN": "伊姆萨克"
-    }
-	      },
-	      {
-    "Key": "Sabah",
-          "Translations": {
-        "ar": "الصبح",
-        "en-US": "Fajr",
-        "de-DE": "Fajr",
-        "es-ES": "Fajr",
-        "fr-FR": "Fajr",
-        "it-IT": "Fajr",
-        "ja-JP": "ファジュル",
-        "pt-PT": "Fajr",
-        "ru-RU": "Фаджр",
-        "tr-TR": "Sabah",
-        "zh-CN": "法季尔"
-    }
-	      },
-	      {
-    "Key": "Öglen",
-          "Translations": {
-        "ar": "الظهر",
-        "en-US": "Dhuhr",
-        "de-DE": "Dhuhr",
-        "es-ES": "Dhuhr",
-        "fr-FR": "Dhuhr",
-        "it-IT": "Dhuhr",
-        "ja-JP": "ズフル",
-        "pt-PT": "Dhuhr",
-        "ru-RU": "Зухр",
-        "tr-TR": "Öğle",
-        "zh-CN": "中午祷告"
-    }},
-	      {
-    "Key": "Ikindi",
-          "Translations": {
-        "ar": "العصر",
-        "en-US": "Asr",
-        "de-DE": "Asr",
-        "es-ES": "Asr",
-        "fr-FR": "Asr",
-        "it-IT": "Asr",
-        "ja-JP": "アスル",
-        "pt-PT": "Asr",
-        "ru-RU": "Аср",
-        "tr-TR": "İkindi",
-        "zh-CN": "阿斯尔"
-    }},
-	      {
-    "Key": "Aksam",
-          "Translations": {
-        "ar": "المغرب",
-        "en-US": "Maghrib",
-        "de-DE": "Maghrib",
-        "es-ES": "Maghrib",
-        "fr-FR": "Maghrib",
-        "it-IT": "Maghrib",
-        "ja-JP": "マグリブ",
-        "pt-PT": "Maghrib",
-        "ru-RU": "Магриб",
-        "tr-TR": "Akşam",
-        "zh-CN": "马格里布"
-    }},
-	      {
-    "Key": "Yatsi",
-          "Translations": {
-        "ar": "العشاء",
-        "en-US": "Isha",
-        "de-DE": "Isha",
-        "es-ES": "Isha",
-        "fr-FR": "Isha",
-        "it-IT": "Isha",
-        "ja-JP": "イシャー",
-        "pt-PT": "Isha",
-        "ru-RU": "Иша",
-        "tr-TR": "Yatsı",
-        "zh-CN": "伊沙"
-    }},
-	      {
-    "Key": "Dimmed",
-          "Translations": {
-        "ar": "مُظلَّم",
-        "en-US": "Dimmed",
-        "de-DE": "Gedimmt",
-        "es-ES": "Atenuado",
-        "fr-FR": "Assombri",
-        "it-IT": "Sfumato",
-        "ja-JP": "薄暗い",
-        "pt-PT": "Escurecido",
-        "ru-RU": "Затемненный",
-        "tr-TR": "Karartılmış",
-        "zh-CN": "昏暗"
-    }
-	      },
-	      {
-    "Key": "ReLocate",
-          "Translations": {
-        "ar": "إعادة تحديد الموقع",
-        "en-US": "Re-Locate",
-        "de-DE": "Erneut Orten",
-        "es-ES": "Reubicar",
-        "fr-FR": "Relocaliser",
-        "it-IT": "Rilocare",
-        "ja-JP": "再配置",
-        "pt-PT": "Re-localizar",
-        "ru-RU": "Переместить",
-        "tr-TR": "Yeniden Yerleştir",
-        "zh-CN": "重新定位"
-		}
-	      }
       ]
     }
   ]
