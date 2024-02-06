@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "lastUpdate": "06-02-2024 18:40:38",
+  "version": 9,
+  "lastUpdate": "06-02-2024 18:41:35",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -3644,9 +3644,9 @@
     },
     {
       "categoryKey": "IslamApp",
-      "version": 2,
+      "version": 3,
       "id": 18,
-      "date": "06-02-2024 18:40:38",
+      "date": "06-02-2024 18:41:35",
       "entries": [
         {
           "Key": "Kompass",
