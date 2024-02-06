@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "lastUpdate": "06-02-2024 18:47:35",
+  "version": 12,
+  "lastUpdate": "06-02-2024 18:48:28",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -3644,9 +3644,9 @@
     },
     {
       "categoryKey": "IslamApp",
-      "version": 5,
+      "version": 6,
       "id": 18,
-      "date": "06-02-2024 18:47:35",
+      "date": "06-02-2024 18:48:28",
       "entries": [
         {
           "Key": "Kompass",
@@ -4078,6 +4078,22 @@
             "ru-RU": "Поверните Направо",
             "tr-TR": "Sağa Dön",
             "zh-CN": "向右转"
+          }
+        },
+        {
+          "Key": "TurnLeft",
+          "Translations": {
+            "ar": "استدر إلى اليسار",
+            "en-US": "Turn Left",
+            "de-DE": "Nach Links Drehen",
+            "es-ES": "Gira a la Izquierda",
+            "fr-FR": "Tournez à Gauche",
+            "it-IT": "Gira a Sinistra",
+            "ja-JP": "左に曲がって",
+            "pt-PT": "Vire à Esquerda",
+            "ru-RU": "Поверните Налево",
+            "tr-TR": "Sola Dön",
+            "zh-CN": "向左转"
           }
         }
       ]
