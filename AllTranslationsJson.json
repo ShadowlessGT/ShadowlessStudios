@@ -4049,22 +4049,6 @@
           }
         },
         {
-          "Key": "TurnLeft",
-          "Translations": {
-            "ar": "استدر إلى اليمين",
-            "en-US": "Turn Right",
-            "de-DE": "Nach Rechts Drehen",
-            "es-ES": "Gira a la Derecha",
-            "fr-FR": "Tournez à Droite",
-            "it-IT": "Gira a Destra",
-            "ja-JP": "右に曲がって",
-            "pt-PT": "Vire à Direita",
-            "ru-RU": "Поверните Направо",
-            "tr-TR": "Sağa Dön",
-            "zh-CN": "向右转"
-          }
-        },
-        {
           "Key": "TurnRight",
           "Translations": {
             "ar": "استدر إلى اليمين",
