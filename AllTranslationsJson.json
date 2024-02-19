@@ -1,6 +1,6 @@
 {
-  "version": 13,
-  "lastUpdate": "19-02-2024 18:17:31",
+  "version": 15,
+  "lastUpdate": "19-02-2024 18:18:25",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -3644,9 +3644,9 @@
     },
     {
       "categoryKey": "IslamApp",
-      "version": 7,
+      "version": 9,
       "id": 18,
-      "date": "19-02-2024 18:17:31",
+      "date": "19-02-2024 18:18:25",
       "entries": [
         {
           "Key": "Kompass",
@@ -4078,6 +4078,38 @@
             "ru-RU": "Поверните Налево",
             "tr-TR": "Sola Dön",
             "zh-CN": "向左转"
+          }
+        },
+        {
+          "Key": "CurrentLocation",
+          "Translations": {
+            "ar": "الموقع الحالي",
+            "en-US": "Current Location",
+            "de-DE": "Aktueller Standort",
+            "es-ES": "Ubicación Actual",
+            "fr-FR": "Localisation Actuelle",
+            "it-IT": "Posizione Attuale",
+            "ja-JP": "現在地",
+            "pt-PT": "Localização Atual",
+            "ru-RU": "Текущее Местоположение",
+            "tr-TR": "Mevcut Konum",
+            "zh-CN": "当前位置"
+          }
+        },
+        {
+          "Key": "LastLocation",
+          "Translations": {
+            "ar": "آخر موقع",
+            "en-US": "Last Location",
+            "de-DE": "Letzter Standort",
+            "es-ES": "Última Ubicación",
+            "fr-FR": "Dernier Emplacement",
+            "it-IT": "Ultima Località",
+            "ja-JP": "最後の場所",
+            "pt-PT": "Última Localização",
+            "ru-RU": "Последнее Местоположение",
+            "tr-TR": "Son Konum",
+            "zh-CN": "最后位置"
           }
         }
       ]
