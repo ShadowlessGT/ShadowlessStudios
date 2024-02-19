@@ -1,6 +1,6 @@
 {
-  "version": 15,
-  "lastUpdate": "19-02-2024 18:18:25",
+  "version": 16,
+  "lastUpdate": "19-02-2024 18:19:21",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -3644,9 +3644,9 @@
     },
     {
       "categoryKey": "IslamApp",
-      "version": 9,
+      "version": 10,
       "id": 18,
-      "date": "19-02-2024 18:18:25",
+      "date": "19-02-2024 18:19:21",
       "entries": [
         {
           "Key": "Kompass",
@@ -4110,6 +4110,22 @@
             "ru-RU": "Последнее Местоположение",
             "tr-TR": "Son Konum",
             "zh-CN": "最后位置"
+          }
+        },
+        {
+          "Key": "Location",
+          "Translations": {
+            "ar": "الموقع",
+            "en-US": "Location",
+            "de-DE": "Standort",
+            "es-ES": "Ubicación",
+            "fr-FR": "Emplacement",
+            "it-IT": "Località",
+            "ja-JP": "場所",
+            "pt-PT": "Localização",
+            "ru-RU": "Местоположение",
+            "tr-TR": "Konum",
+            "zh-CN": "位置"
           }
         }
       ]
