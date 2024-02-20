@@ -1,6 +1,6 @@
 {
-  "version": 16,
-  "lastUpdate": "19-02-2024 18:19:21",
+  "version": 17,
+  "lastUpdate": "20-02-2024 13:52:31",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -1980,9 +1980,9 @@
     },
     {
       "categoryKey": "Questions",
-      "version": 0,
+      "version": 1,
       "id": 8,
-      "date": "18.08.2023",
+      "date": "20-02-2024 13:52:31",
       "entries": [
         {
           "Key": "AreYouSureClose",
@@ -2046,6 +2046,22 @@
             "ru-RU": "Вы хотите скачать новую версию приложения {0}. Текущая версия этих приложений {1}.",
             "tr-TR": "Yeni uygulama sürümünü {0} indirmek ister misiniz? Bu uygulamaların güncel sürümü {1}.",
             "zh-CN": "您要下载新的应用程序版本{0}吗？这些应用的当前版本是{1}。"
+          }
+        },
+        {
+          "Key": "QuestionOpenGPSSettings",
+          "Translations": {
+            "ar": "هل تريد فتح إعدادات نظام تحديد المواقع (GPS)؟",
+            "en-US": "Do you want to open GPS settings?",
+            "de-DE": "Möchten Sie die GPS-Einstellungen öffnen?",
+            "es-ES": "¿Deseas abrir la configuración de GPS?",
+            "fr-FR": "Voulez-vous ouvrir les paramètres GPS ?",
+            "it-IT": "Vuoi aprire le impostazioni del GPS?",
+            "ja-JP": "GPS設定を開きますか？",
+            "pt-PT": "Deseja abrir as configurações de GPS?",
+            "ru-RU": "Хотите открыть настройки GPS?",
+            "tr-TR": "GPS ayarlarını açmak ister misiniz?",
+            "zh-CN": "您想要打开GPS设置吗？"
           }
         }
       ]
