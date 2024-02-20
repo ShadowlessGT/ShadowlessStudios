@@ -1,6 +1,6 @@
 {
-  "version": 17,
-  "lastUpdate": "20-02-2024 13:52:31",
+  "version": 18,
+  "lastUpdate": "20-02-2024 14:17:06",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -1980,9 +1980,9 @@
     },
     {
       "categoryKey": "Questions",
-      "version": 1,
+      "version": 2,
       "id": 8,
-      "date": "20-02-2024 13:52:31",
+      "date": "20-02-2024 14:17:06",
       "entries": [
         {
           "Key": "AreYouSureClose",
@@ -2062,6 +2062,22 @@
             "ru-RU": "Хотите открыть настройки GPS?",
             "tr-TR": "GPS ayarlarını açmak ister misiniz?",
             "zh-CN": "您想要打开GPS设置吗？"
+          }
+        },
+        {
+          "Key": "RememberAnswer",
+          "Translations": {
+            "ar": "تذكر الإجابة",
+            "en-US": "Remember answer",
+            "de-DE": "Antwort merken",
+            "es-ES": "Recordar respuesta",
+            "fr-FR": "Mémoriser la réponse",
+            "it-IT": "Ricorda risposta",
+            "ja-JP": "回答を記憶する",
+            "pt-PT": "Lembrar resposta",
+            "ru-RU": "Запомнить ответ",
+            "tr-TR": "Cevabı hatırla",
+            "zh-CN": "记住答案"
           }
         }
       ]
