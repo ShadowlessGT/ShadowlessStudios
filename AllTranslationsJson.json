@@ -1,6 +1,6 @@
 {
-  "version": 20,
-  "lastUpdate": "20-02-2024 15:01:32",
+  "version": 19,
+  "lastUpdate": "20-02-2024 15:03:47",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -4158,6 +4158,30 @@
             "ru-RU": "Местоположение",
             "tr-TR": "Konum",
             "zh-CN": "位置"
+          }
+        }
+      ]
+    },
+    {
+      "categoryKey": "Toggle",
+      "version": 1,
+      "id": 0,
+      "date": "20-02-2024 15:03:47",
+      "entries": [
+        {
+          "Key": "RememberAnswer",
+          "Translations": {
+            "ar": "تذكر الإجابة",
+            "en-US": "Remember answer",
+            "de-DE": "Antwort merken",
+            "es-ES": "Recordar respuesta",
+            "fr-FR": "Mémoriser la réponse",
+            "it-IT": "Ricorda risposta",
+            "ja-JP": "回答を記憶する",
+            "pt-PT": "Lembrar resposta",
+            "ru-RU": "Запомнить ответ",
+            "tr-TR": "Cevabı hatırla",
+            "zh-CN": "记住答案"
           }
         }
       ]
