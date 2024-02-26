@@ -1,6 +1,6 @@
 {
-  "version": 21,
-  "lastUpdate": "26-02-2024 18:36:18",
+  "version": 23,
+  "lastUpdate": "26-02-2024 18:38:54",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -756,9 +756,9 @@
     },
     {
       "categoryKey": "Options",
-      "version": 2,
+      "version": 4,
       "id": 3,
-      "date": "26-02-2024 18:36:18",
+      "date": "26-02-2024 18:38:54",
       "entries": [
         {
           "Key": "Sound",
@@ -966,6 +966,38 @@
             "ru-RU": "Портрет",
             "tr-TR": "Dikey",
             "zh-CN": "竖屏"
+          }
+        },
+        {
+          "Key": "Landscape",
+          "Translations": {
+            "ar": "أفقي",
+            "en-US": "Landscape",
+            "de-DE": "Landschaft",
+            "es-ES": "Horizontal",
+            "fr-FR": "Paysage",
+            "it-IT": "Paesaggio",
+            "ja-JP": "ランドスケープ",
+            "pt-PT": "Paisagem",
+            "ru-RU": "Ландшафт",
+            "tr-TR": "Yatay",
+            "zh-CN": "横屏"
+          }
+        },
+        {
+          "Key": "DisplaySettings",
+          "Translations": {
+            "ar": "إعدادات العرض",
+            "en-US": "Display Settings",
+            "de-DE": "Darstellungseinstellungen",
+            "es-ES": "Configuración de Pantalla",
+            "fr-FR": "Paramètres d'Affichage",
+            "it-IT": "Impostazioni di Visualizzazione",
+            "ja-JP": "表示設定",
+            "pt-PT": "Configurações de Exibição",
+            "ru-RU": "Настройки Отображения",
+            "tr-TR": "Görüntüleme Ayarları",
+            "zh-CN": "显示设置"
           }
         }
       ]
