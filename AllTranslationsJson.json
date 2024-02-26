@@ -1,6 +1,6 @@
 {
-  "version": 20,
-  "lastUpdate": "26-02-2024 18:35:55",
+  "version": 21,
+  "lastUpdate": "26-02-2024 18:36:18",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -756,9 +756,9 @@
     },
     {
       "categoryKey": "Options",
-      "version": 1,
+      "version": 2,
       "id": 3,
-      "date": "26-02-2024 18:35:55",
+      "date": "26-02-2024 18:36:18",
       "entries": [
         {
           "Key": "Sound",
@@ -950,6 +950,22 @@
             "ru-RU": "Ориентация Просмотра",
             "tr-TR": "Görünüm Yönlendirmesi",
             "zh-CN": "视图方向"
+          }
+        },
+        {
+          "Key": "Portrait",
+          "Translations": {
+            "ar": "عمودي",
+            "en-US": "Portrait",
+            "de-DE": "Portrait",
+            "es-ES": "Vertical",
+            "fr-FR": "Portrait",
+            "it-IT": "Ritratto",
+            "ja-JP": "ポートレート",
+            "pt-PT": "Retrato",
+            "ru-RU": "Портрет",
+            "tr-TR": "Dikey",
+            "zh-CN": "竖屏"
           }
         }
       ]
