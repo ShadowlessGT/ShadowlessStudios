@@ -4021,7 +4021,7 @@
           "Translations": {
             "ar": "الإمساك",
             "en-US": "Imsak",
-            "de-DE": "Imsak",
+            "de-DE": "Morgengebet",
             "es-ES": "Imsak",
             "fr-FR": "Imsak",
             "it-IT": "Imsak",
@@ -4037,7 +4037,7 @@
           "Translations": {
             "ar": "الصبح",
             "en-US": "Fajr",
-            "de-DE": "Fajr",
+            "de-DE": "Sonnenaufgang",
             "es-ES": "Fajr",
             "fr-FR": "Fajr",
             "it-IT": "Fajr",
@@ -4053,7 +4053,7 @@
           "Translations": {
             "ar": "الظهر",
             "en-US": "Dhuhr",
-            "de-DE": "Dhuhr",
+            "de-DE": "Mittagsgebet",
             "es-ES": "Dhuhr",
             "fr-FR": "Dhuhr",
             "it-IT": "Dhuhr",
@@ -4069,7 +4069,7 @@
           "Translations": {
             "ar": "العصر",
             "en-US": "Asr",
-            "de-DE": "Asr",
+            "de-DE": "Nachmittagsgebet",
             "es-ES": "Asr",
             "fr-FR": "Asr",
             "it-IT": "Asr",
@@ -4085,7 +4085,7 @@
           "Translations": {
             "ar": "المغرب",
             "en-US": "Maghrib",
-            "de-DE": "Maghrib",
+            "de-DE": "Abendgebet",
             "es-ES": "Maghrib",
             "fr-FR": "Maghrib",
             "it-IT": "Maghrib",
@@ -4101,7 +4101,7 @@
           "Translations": {
             "ar": "العشاء",
             "en-US": "Isha",
-            "de-DE": "Isha",
+            "de-DE": "Nachtgebet",
             "es-ES": "Isha",
             "fr-FR": "Isha",
             "it-IT": "Isha",
