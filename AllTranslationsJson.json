@@ -1,6 +1,6 @@
 {
-  "version": 24,
-  "lastUpdate": "17-03-2024 18:38:54",
+  "version": 25,
+  "lastUpdate": "05-01-2025 04:20:02",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -2772,9 +2772,9 @@
     },
     {
       "categoryKey": "Ads",
-      "version": 0,
+      "version": 1,
       "id": 13,
-      "date": "18.08.2023",
+      "date": "05-01-2025 04:20:02",
       "entries": [
         {
           "Key": "WatchAd",
@@ -3015,6 +3015,10 @@
             "tr-TR": "Bu eylemi gerçekleştirmek için yeterli {0} yok.",
             "zh-CN": "您没有足够的{0}来执行此操作。"
           }
+        },
+        {
+          "Key": "Energy",
+          "Translations": null
         }
       ]
     },
