@@ -1,6 +1,6 @@
 {
-  "version": 25,
-  "lastUpdate": "05-01-2025 04:20:02",
+  "version": 26,
+  "lastUpdate": "05-01-2025 04:23:00",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -2772,9 +2772,9 @@
     },
     {
       "categoryKey": "Ads",
-      "version": 1,
+      "version": 2,
       "id": 13,
-      "date": "05-01-2025 04:20:02",
+      "date": "05-01-2025 04:23:00",
       "entries": [
         {
           "Key": "WatchAd",
@@ -3019,6 +3019,22 @@
         {
           "Key": "Energy",
           "Translations": null
+        },
+        {
+          "Key": "Energy",
+          "Translations": {
+            "ar": "طاقة",
+            "en-US": "Energy",
+            "de-DE": "Energie",
+            "es-ES": "Energía",
+            "fr-FR": "Énergie",
+            "it-IT": "Energia",
+            "ja-JP": "エネルギー",
+            "pt-PT": "Energia",
+            "ru-RU": "Энергия",
+            "tr-TR": "Enerji",
+            "zh-CN": "能量"
+          }
         }
       ]
     },
