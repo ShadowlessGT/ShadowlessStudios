@@ -3033,7 +3033,7 @@
           }
         },
         {
-  "Key": "NoEnergy",
+  "Key": "NoLeft",
   "Translations": {
     "ar": "لم يعد لديك {0}.",
     "en-US": "You have no {0} left.",
