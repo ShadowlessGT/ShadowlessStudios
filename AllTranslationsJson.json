@@ -1,6 +1,6 @@
 {
-  "version": 27,
-  "lastUpdate": "06-01-2025 02:23:00",
+  "version": 28,
+  "lastUpdate": "06-01-2025 02:24:00",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -1900,9 +1900,9 @@
     },
     {
       "categoryKey": "PopUpTitel",
-      "version": 0,
+      "version": 1,
       "id": 6,
-      "date": "18.08.2023",
+      "date": "06.01.2025",
       "entries": [
         {
           "Key": "Succesfull",
