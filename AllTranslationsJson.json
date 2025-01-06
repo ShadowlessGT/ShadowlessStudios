@@ -2039,7 +2039,23 @@
             "tr-TR": "İşleniyor",
             "zh-CN": "处理中"
           }
-        }
+        },
+        {
+  "Key": "OhNo",
+  "Translations": {
+    "ar": "أوه لا",
+    "en-US": "Ohh No",
+    "de-DE": "Ohh Nein",
+    "es-ES": "Ohh No",
+    "fr-FR": "Ohh Non",
+    "it-IT": "Ohh No",
+    "ja-JP": "おおっ、いや",
+    "pt-PT": "Ohh Não",
+    "ru-RU": "Ох, нет",
+    "tr-TR": "Ahh Hayır",
+    "zh-CN": "哦，不"
+  }
+}
       ]
     },
     {
