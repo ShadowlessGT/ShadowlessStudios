@@ -2001,30 +2001,6 @@
           }
         },
         {
-          "Key": "CurrentSprache",
-          "Translations": {
-            "ar": "اللغة الحالية",
-            "en-US": "Current language",
-            "de-DE": "Aktuelle Sprache",
-            "es-ES": "Idioma actual",
-            "fr-FR": "Langue courante",
-            "it-IT": "Lingua attuale",
-            "ja-JP": "現在の言語",
-            "pt-PT": "Idioma atual",
-            "ru-RU": "Текущий язык",
-            "tr-TR": "Mevcut dil",
-            "zh-CN": "当前语言"
-          }
-        }
-      ]
-    },
-    {
-      "categoryKey": "PopUpTitle",
-      "version": 0,
-      "id": 7,
-      "date": "18.08.2023",
-      "entries": [
-        {
           "Key": "Processing",
           "Translations": {
             "ar": "معالجة",
@@ -2055,7 +2031,23 @@
     "tr-TR": "Ahh Hayır",
     "zh-CN": "哦，不"
   }
-}
+},
+        {
+          "Key": "CurrentSprache",
+          "Translations": {
+            "ar": "اللغة الحالية",
+            "en-US": "Current language",
+            "de-DE": "Aktuelle Sprache",
+            "es-ES": "Idioma actual",
+            "fr-FR": "Langue courante",
+            "it-IT": "Lingua attuale",
+            "ja-JP": "現在の言語",
+            "pt-PT": "Idioma atual",
+            "ru-RU": "Текущий язык",
+            "tr-TR": "Mevcut dil",
+            "zh-CN": "当前语言"
+          }
+        }
       ]
     },
     {
