@@ -481,6 +481,22 @@
           }
         },
         {
+  "Key": "OneMoreTime",
+  "Translations": {
+    "ar": "هل ترغب في محاولة أخرى؟",
+    "en-US": "Would you like one more time?",
+    "de-DE": "Möchtest du es noch einmal versuchen?",
+    "es-ES": "¿Te gustaría intentarlo una vez más?",
+    "fr-FR": "Voulez-vous essayer encore une fois ?",
+    "it-IT": "Vuoi provare ancora una volta?",
+    "ja-JP": "もう一度試してみますか？",
+    "pt-PT": "Gostaria de mais uma vez?",
+    "ru-RU": "Хотите попробовать еще раз?",
+    "tr-TR": "Bir kez daha denemek ister misiniz?",
+    "zh-CN": "你想再来一次吗？"
+  }
+},
+        {
           "Key": "Exit",
           "Translations": {
             "ar": "تطبيق نهاية؟",
@@ -512,6 +528,38 @@
             "zh-CN": "您真的想关闭该应用程序吗？"
           }
         },
+{
+  "Key": "AreYouSure",
+  "Translations": {
+    "ar": "هل أنت متأكد؟",
+    "en-US": "ARE YOU sure?",
+    "de-DE": "Bist du sicher?",
+    "es-ES": "¿Estás seguro?",
+    "fr-FR": "Êtes-vous sûr ?",
+    "it-IT": "Sei sicuro?",
+    "ja-JP": "本当にいいですか？",
+    "pt-PT": "Você tem certeza?",
+    "ru-RU": "Вы уверены?",
+    "tr-TR": "Emin misiniz?",
+    "zh-CN": "你确定吗？"
+  }
+},
+{
+  "Key": "AllProgressLost",
+  "Translations": {
+    "ar": "سيتم فقدان كل التقدم!",
+    "en-US": "All progress will be lost!",
+    "de-DE": "Alle Fortschritte gehen verloren!",
+    "es-ES": "¡Todo el progreso se perderá!",
+    "fr-FR": "Tous les progrès seront perdus !",
+    "it-IT": "Tutti i progressi andranno persi!",
+    "ja-JP": "すべての進行状況が失われます！",
+    "pt-PT": "Todo o progresso será perdido!",
+    "ru-RU": "Весь прогресс будет потерян!",
+    "tr-TR": "Tüm ilerleme kaybolacak!",
+    "zh-CN": "所有进度将丢失！"
+  }
+},
         {
           "Key": "AppBeenden",
           "Translations": {
@@ -2120,6 +2168,22 @@
             "zh-CN": "您要下载新的应用程序版本{0}吗？这些应用的当前版本是{1}。"
           }
         },
+        {
+  "Key": "BackToHome",
+  "Translations": {
+    "ar": "العودة إلى الصفحة الرئيسية؟",
+    "en-US": "Back to home?",
+    "de-DE": "Zurück zum Start?",
+    "es-ES": "¿Volver a casa?",
+    "fr-FR": "Retour à l'accueil ?",
+    "it-IT": "Torna alla home?",
+    "ja-JP": "ホームに戻りますか？",
+    "pt-PT": "Voltar para casa?",
+    "ru-RU": "Вернуться домой?",
+    "tr-TR": "Ana sayfaya geri dön?",
+    "zh-CN": "回到主页？"
+  }
+},
         {
           "Key": "QuestionOpenGPSSettings",
           "Translations": {
