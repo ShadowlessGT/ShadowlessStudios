@@ -3120,6 +3120,22 @@
     "zh-CN": "广告奖励"
   }
 },
+        {
+  "Key": "YourRewardForWaiting",
+  "Translations": {
+    "ar": "لقد جمعت {0} {1} أثناء غيابك.",
+    "en-US": "You have collected {0} {1} while you were away.",
+    "de-DE": "Du hast {0} {1} gesammelt, als du weg warst.",
+    "es-ES": "Has recogido {0} {1} mientras estabas fuera.",
+    "fr-FR": "Vous avez collecté {0} {1} pendant que vous étiez absent.",
+    "it-IT": "Hai raccolto {0} {1} mentre eri via.",
+    "ja-JP": "離れている間に{0} {1}を集めました。",
+    "pt-PT": "Você coletou {0} {1} enquanto estava ausente.",
+    "ru-RU": "Вы собрали {0} {1}, пока вас не было.",
+    "tr-TR": "Uzaktayken {0} {1} topladınız.",
+    "zh-CN": "你不在的时候收集了 {0} {1}。"
+  }
+},
 {
   "Key": "WatchAdForReward",
   "Translations": {
