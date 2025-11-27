@@ -463,5 +463,36 @@
       "tr-TR": "Sorun, Google'ın yeni güvenlik yönergeleri sayesinde çözüldü. Birçok uygulama aynı sorunu yaşamıştı.",
       "zh-CN": "问题已经得到解决，感谢Google的新安全指南。许多应用程序遇到了同样的问题。"
     }
+  },
+  {
+    "id": 16,
+    "date": "27-11-2025 10:30:34",
+    "imageId": 0,
+    "titles": {
+      "ar": "",
+      "en-US": "Download Fixed with v38! We Appoligize for the Issue!",
+      "de-DE": "",
+      "es-ES": "",
+      "fr-FR": "",
+      "it-IT": "",
+      "ja-JP": "",
+      "pt-PT": "",
+      "ru-RU": "",
+      "tr-TR": "",
+      "zh-CN": ""
+    },
+    "messages": {
+      "ar": "",
+      "en-US": "Following the implementation of the new UI designs, an issue arose with the clear button, which subsequently halted video downloads. Version 38 addresses and resolves this problem. I apologize for any inconvenience this may have caused.",
+      "de-DE": "",
+      "es-ES": "",
+      "fr-FR": "",
+      "it-IT": "",
+      "ja-JP": "",
+      "pt-PT": "",
+      "ru-RU": "",
+      "tr-TR": "",
+      "zh-CN": ""
+    }
   }
 ]
