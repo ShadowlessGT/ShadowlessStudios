@@ -1,12 +1,12 @@
 {
-  "version": 31,
-  "lastUpdate": "24-04-2026 13:18:59",
+  "version": 32,
+  "lastUpdate": "24-04-2026 13:19:40",
   "categories": [
     {
       "categoryKey": "Buttons",
-      "version": 3,
+      "version": 4,
       "id": 1,
-      "date": "24-04-2026 13:18:59",
+      "date": "24-04-2026 13:19:40",
       "entries": [
         {
           "Key": "DontAskAgain",
@@ -486,6 +486,22 @@
             "ru-RU": "Открыть YouTube",
             "tr-TR": "YouTube'u aç",
             "zh-CN": "打开 YouTube"
+          }
+        },
+        {
+          "Key": "Tutorial",
+          "Translations": {
+            "ar": null,
+            "en-US": null,
+            "de-DE": null,
+            "es-ES": null,
+            "fr-FR": null,
+            "it-IT": null,
+            "ja-JP": null,
+            "pt-PT": null,
+            "ru-RU": null,
+            "tr-TR": null,
+            "zh-CN": null
           }
         },
         {
