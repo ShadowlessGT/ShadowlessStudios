@@ -1,12 +1,12 @@
 {
-  "version": 29,
-  "lastUpdate": "24-04-2026 13:10:27",
+  "version": 30,
+  "lastUpdate": "24-04-2026 13:17:59",
   "categories": [
     {
       "categoryKey": "Buttons",
-      "version": 1,
+      "version": 2,
       "id": 1,
-      "date": "24-04-2026 13:10:27",
+      "date": "24-04-2026 13:17:59",
       "entries": [
         {
           "Key": "DontAskAgain",
@@ -470,6 +470,22 @@
             "ru-RU": "Нет, спасибо",
             "tr-TR": "Hayır, teşekkürler",
             "zh-CN": "不用了，谢谢"
+          }
+        },
+        {
+          "Key": "OpenYouTube",
+          "Translations": {
+            "ar": "افتح YouTube",
+            "en-US": "Open YouTube",
+            "de-DE": "YouTube öffnen",
+            "es-ES": "Abrir YouTube",
+            "fr-FR": "Ouvrir YouTube",
+            "it-IT": "Apri YouTube",
+            "ja-JP": "YouTubeを開く",
+            "pt-PT": "Abrir YouTube",
+            "ru-RU": "Открыть YouTube",
+            "tr-TR": "YouTube'u aç",
+            "zh-CN": "打开 YouTube"
           }
         }
       ]
