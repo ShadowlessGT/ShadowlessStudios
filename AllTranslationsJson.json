@@ -1,6 +1,6 @@
 {
-  "version": 36,
-  "lastUpdate": "24-04-2026 14:00:52",
+  "version": 38,
+  "lastUpdate": "24-04-2026 14:02:28",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -2464,9 +2464,9 @@
     },
     {
       "categoryKey": "Questions",
-      "version": 3,
+      "version": 5,
       "id": 8,
-      "date": "24-04-2026 14:00:52",
+      "date": "24-04-2026 14:02:28",
       "entries": [
         {
           "Key": "AreYouSureClose",
@@ -2610,6 +2610,24 @@
             "ru-RU": "Открыть руководство на YouTube сейчас?",
             "tr-TR": "Öğreticiyi şimdi YouTube'da açmak ister misiniz?",
             "zh-CN": "现在在 YouTube 上打开教程吗？"
+          }
+        },
+        {
+          "Key": "FirstLaunch/WatchTutorial",
+          "version": 2,
+          "date": "24-04-2026 14:02:28",
+          "Translations": {
+            "ar": "هل ترغب في مشاهدة فيديو تعليمي قصير؟",
+            "en-US": "Would you like to watch a short tutorial video?",
+            "de-DE": "Möchtest du dir ein kurzes Tutorial-Video ansehen?",
+            "es-ES": "¿Te gustaría ver un breve video tutorial?",
+            "fr-FR": "Souhaitez-vous regarder une courte vidéo de tutoriel ?",
+            "it-IT": "Vorresti guardare un breve video tutorial?",
+            "ja-JP": "短いチュートリアル動画を見ますか？",
+            "pt-PT": "Gostaria de ver um pequeno vídeo tutorial?",
+            "ru-RU": "Хотите посмотреть короткое обучающее видео?",
+            "tr-TR": "Kısa bir öğretici video izlemek ister misiniz?",
+            "zh-CN": "您想观看一个简短的教程视频吗？"
           }
         }
       ]
