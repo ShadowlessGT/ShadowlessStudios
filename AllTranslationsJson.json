@@ -1,6 +1,6 @@
 {
-  "version": 34,
-  "lastUpdate": "24-04-2026 13:38:03",
+  "version": 35,
+  "lastUpdate": "24-04-2026 13:57:10",
   "categories": [
     {
       "categoryKey": "Buttons",
@@ -10,6 +10,8 @@
       "entries": [
         {
           "Key": "DontAskAgain",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لا تسأل مرة أخرى!",
             "en-US": "Don't ask again!",
@@ -26,6 +28,8 @@
         },
         {
           "Key": "Download",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تحميل",
             "en-US": "Download",
@@ -42,6 +46,8 @@
         },
         {
           "Key": "Ok",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "نعم",
             "en-US": "OK",
@@ -58,6 +64,8 @@
         },
         {
           "Key": "Übernehmen",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يتولى",
             "en-US": "Apply",
@@ -74,6 +82,8 @@
         },
         {
           "Key": "Confirm",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تأكيد",
             "en-US": "Confirm",
@@ -90,6 +100,8 @@
         },
         {
           "Key": "Cancel",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يلغي",
             "en-US": "Cancel",
@@ -106,6 +118,8 @@
         },
         {
           "Key": "YesSure",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "نعم بالطبع!",
             "en-US": "Yes, of couse!",
@@ -122,6 +136,8 @@
         },
         {
           "Key": "YesClose",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "نعم ، أغلق",
             "en-US": "Yes, close",
@@ -138,6 +154,8 @@
         },
         {
           "Key": "BackToMainMenu",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "العودة إلى القائمة الرئيسية",
             "en-US": "Back to main menu",
@@ -154,6 +172,8 @@
         },
         {
           "Key": "Refresh",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "ينعش",
             "en-US": "Refresh",
@@ -170,6 +190,8 @@
         },
         {
           "Key": "Quit",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يترك",
             "en-US": "Quit",
@@ -186,6 +208,8 @@
         },
         {
           "Key": "Next",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "التالي",
             "en-US": "Next",
@@ -202,6 +226,8 @@
         },
         {
           "Key": "Back",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "خلف",
             "en-US": "Back",
@@ -218,6 +244,8 @@
         },
         {
           "Key": "UploadImage",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تحميل الصور",
             "en-US": "Upload Image",
@@ -234,6 +262,8 @@
         },
         {
           "Key": "DeleteImage",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "حذف الصورة",
             "en-US": "Delete picture",
@@ -250,6 +280,8 @@
         },
         {
           "Key": "Later",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لاحقاً",
             "en-US": "Later",
@@ -266,6 +298,8 @@
         },
         {
           "Key": "Ablehnen",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يرفض",
             "en-US": "Reject",
@@ -282,6 +316,8 @@
         },
         {
           "Key": "Pause",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "استراحة",
             "en-US": "Pause",
@@ -298,6 +334,8 @@
         },
         {
           "Key": "Readed",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "قرأ",
             "en-US": "Readed",
@@ -314,6 +352,8 @@
         },
         {
           "Key": "Send",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يرسل",
             "en-US": "Send",
@@ -330,6 +370,8 @@
         },
         {
           "Key": "Yes",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "نعم",
             "en-US": "Yes",
@@ -346,6 +388,8 @@
         },
         {
           "Key": "No",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لا",
             "en-US": "No",
@@ -362,6 +406,8 @@
         },
         {
           "Key": "Clear",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "واضح",
             "en-US": "Clear",
@@ -378,6 +424,8 @@
         },
         {
           "Key": "Paste",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "معجون",
             "en-US": "Paste",
@@ -394,6 +442,8 @@
         },
         {
           "Key": "Beenden",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يترك",
             "en-US": "Quit",
@@ -410,6 +460,8 @@
         },
         {
           "Key": "Share",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يشارك",
             "en-US": "Share",
@@ -426,6 +478,8 @@
         },
         {
           "Key": "Open",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "開ける",
             "en-US": "Open",
@@ -442,6 +496,8 @@
         },
         {
           "Key": "Continue",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "كونتي",
             "en-US": "Continue",
@@ -458,6 +514,8 @@
         },
         {
           "Key": "NoThanks",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لا، شكراً",
             "en-US": "No, thanks",
@@ -474,6 +532,8 @@
         },
         {
           "Key": "OpenYouTube",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "افتح YouTube",
             "en-US": "Open YouTube",
@@ -490,6 +550,8 @@
         },
         {
           "Key": "Tutorial",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": null,
             "en-US": null,
@@ -506,6 +568,8 @@
         },
         {
           "Key": "Tutorial",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": null,
             "en-US": null,
@@ -530,6 +594,8 @@
       "entries": [
         {
           "Key": "Error",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "خطأ",
             "en-US": "Error",
@@ -546,6 +612,8 @@
         },
         {
           "Key": "OneMoreTime",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "هل ترغب في محاولة أخرى؟",
             "en-US": "Would you like one more time?",
@@ -562,6 +630,8 @@
         },
         {
           "Key": "Exit",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تطبيق نهاية؟",
             "en-US": "End application?",
@@ -578,6 +648,8 @@
         },
         {
           "Key": "AreYouSureClose",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "هل ترغب حقًا في إغلاق التطبيق؟",
             "en-US": "Would you really like to close the app?",
@@ -594,6 +666,8 @@
         },
         {
           "Key": "AreYouSure",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "هل أنت متأكد؟",
             "en-US": "ARE YOU sure?",
@@ -610,6 +684,8 @@
         },
         {
           "Key": "AllProgressLost",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "سيتم فقدان كل التقدم!",
             "en-US": "All progress will be lost!",
@@ -626,6 +702,8 @@
         },
         {
           "Key": "AppBeenden",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "ينتهي التطبيق عن طريق الضغط على زر العودة مرة أخرى.",
             "en-US": "The app ends by pressing the back button again.",
@@ -642,6 +720,8 @@
         },
         {
           "Key": "InvalidInput",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "مدخل غير صالح",
             "en-US": "Invalid Input",
@@ -658,6 +738,8 @@
         },
         {
           "Key": "InternetConnection",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الرجاء التحقق من اتصال الانترنت الخاص بك!",
             "en-US": "Please Check Your Internet Connection!",
@@ -674,6 +756,8 @@
         },
         {
           "Key": "ActivateWlanOrMdata",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يرجى التأكد من تنشيط WiFi أو بيانات الهاتف المحمول.",
             "en-US": "Please make sure that WiFi or mobile data are activated.",
@@ -690,6 +774,8 @@
         },
         {
           "Key": "Fertig",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "مستعد",
             "en-US": "Ready",
@@ -706,6 +792,8 @@
         },
         {
           "Key": "NoUpdate",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أي تحديث متاح!",
             "en-US": "No update available!",
@@ -722,6 +810,8 @@
         },
         {
           "Key": "UpdateAvailable",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "التحديث متاح!",
             "en-US": "Update available!",
@@ -738,6 +828,8 @@
         },
         {
           "Key": "Warten",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يرجى الانتظار",
             "en-US": "Please wait",
@@ -754,6 +846,8 @@
         },
         {
           "Key": "TryAgain",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "إعادة المحاولة",
             "en-US": "Try again",
@@ -770,6 +864,8 @@
         },
         {
           "Key": "NoPermissionGallery",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لا إذن - إنقاذ معرض رفض!",
             "en-US": "No permission - saving into gallery denied!",
@@ -786,6 +882,8 @@
         },
         {
           "Key": "Downloaded",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تم تنزيله",
             "en-US": "Downloaded",
@@ -802,6 +900,8 @@
         },
         {
           "Key": "NoFileSelected",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لم يتم تحديد أي ملف.",
             "en-US": "No file was selected.",
@@ -818,6 +918,8 @@
         },
         {
           "Key": "SelectFileMakeFolder",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يرجى تحديد ملف في المجلد المطلوب لتحديد المجلد كمجلد تنزيل رئيسي.",
             "en-US": "Please select a file in your desired folder to select the folder as your main download folder.",
@@ -834,6 +936,8 @@
         },
         {
           "Key": "SureDelete",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "هل تريد حقًا حذف {0}؟",
             "en-US": "Do you really want to delete {0}?",
@@ -850,6 +954,8 @@
         },
         {
           "Key": "facebookProcessingMessage",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يرجى الانتظار... لأسباب أمنية، قام فيسبوك بفصل ملفات الفيديو والصوت. نحن نقوم حاليًا بدمجها من أجلك. بمجرد أن ترى 'تم الدمج'، سيكون الملف متاحًا في معرض الصور الخاص بك. ومع ذلك، هناك احتمال أن تتعطل التطبيق. نحن نعمل بنشاط على حل هذه المشكلة بعد حفظ ملف الفيديو. شكرًا على صبرك.",
             "en-US": "Please wait... For security reasons, Facebook has separated the video and audio files. We are currently merging them for you. Once you see 'Merged', the file will be available in your gallery. However, there's a possibility the app might crash. We are actively working on a solution for this crash issue after saving the video file. Thank you for your patience.",
@@ -874,6 +980,8 @@
       "entries": [
         {
           "Key": "Sound",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "صوت",
             "en-US": "Sound",
@@ -890,6 +998,8 @@
         },
         {
           "Key": "Vibration",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "اهتزاز",
             "en-US": "Vibration",
@@ -906,6 +1016,8 @@
         },
         {
           "Key": "ThemeAuswahl",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "اختيار الموضوع",
             "en-US": "Theme Selection",
@@ -922,6 +1034,8 @@
         },
         {
           "Key": "Volumen",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "مقدار",
             "en-US": "Volume",
@@ -938,6 +1052,8 @@
         },
         {
           "Key": "SoundVolume",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "إعداد الصوت",
             "en-US": "Volume Setting",
@@ -954,6 +1070,8 @@
         },
         {
           "Key": "AppVersion",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "نسخة التطبيق",
             "en-US": "App Version",
@@ -970,6 +1088,8 @@
         },
         {
           "Key": "AvailableSoon",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "متوفر قريبا!",
             "en-US": "Available Soon!",
@@ -986,6 +1106,8 @@
         },
         {
           "Key": "ComingSoon",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "قريباً!",
             "en-US": "Coming soon!",
@@ -1002,6 +1124,8 @@
         },
         {
           "Key": "CheckForUpdate",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تحقق من التحديث!",
             "en-US": "Check for an update!",
@@ -1018,6 +1142,8 @@
         },
         {
           "Key": "Update",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تحديث",
             "en-US": "Update",
@@ -1034,6 +1160,8 @@
         },
         {
           "Key": "Info",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "معلومات",
             "en-US": "info",
@@ -1050,6 +1178,8 @@
         },
         {
           "Key": "ViewOrientation",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "توجيه العرض",
             "en-US": "View Orientation",
@@ -1066,6 +1196,8 @@
         },
         {
           "Key": "Portrait",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "عمودي",
             "en-US": "Portrait",
@@ -1082,6 +1214,8 @@
         },
         {
           "Key": "Landscape",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أفقي",
             "en-US": "Landscape",
@@ -1098,6 +1232,8 @@
         },
         {
           "Key": "DisplaySettings",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "إعدادات العرض",
             "en-US": "Display Settings",
@@ -1114,6 +1250,8 @@
         },
         {
           "Key": "OpenYouTube",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "افتح YouTube",
             "en-US": "Open YouTube",
@@ -1130,6 +1268,8 @@
         },
         {
           "Key": "OpenYouTube",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "افتح YouTube",
             "en-US": "Open YouTube",
@@ -1154,6 +1294,8 @@
       "entries": [
         {
           "Key": "Login",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تسجيل الدخول",
             "en-US": "Log in",
@@ -1170,6 +1312,8 @@
         },
         {
           "Key": "Register",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تسجيل حساب",
             "en-US": "Register account",
@@ -1186,6 +1330,8 @@
         },
         {
           "Key": "CreateNewAccount",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "انشاء حساب جديد",
             "en-US": "Create a new account",
@@ -1202,6 +1348,8 @@
         },
         {
           "Key": "ZumLogin",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تغيير لتسجيل الدخول",
             "en-US": "Change to login",
@@ -1218,6 +1366,8 @@
         },
         {
           "Key": "ZumRegister",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "افتح قائمة التسجيل",
             "en-US": "Open registration menu",
@@ -1234,6 +1384,8 @@
         },
         {
           "Key": "UserName",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "اسم المستخدم",
             "en-US": "User name",
@@ -1250,6 +1402,8 @@
         },
         {
           "Key": "Email",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "بريد إلكتروني",
             "en-US": "E-Mail",
@@ -1266,6 +1420,8 @@
         },
         {
           "Key": "Passwort",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "كلمة المرور",
             "en-US": "Password",
@@ -1282,6 +1438,8 @@
         },
         {
           "Key": "AccountCreated",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الحساب الذي تم إنشاؤه على",
             "en-US": "Account created on",
@@ -1298,6 +1456,8 @@
         },
         {
           "Key": "LastUpload",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "التحميل الأخير",
             "en-US": "Last upload",
@@ -1314,6 +1474,8 @@
         },
         {
           "Key": "UploadData",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تحميل البيانات",
             "en-US": "Upload data",
@@ -1330,6 +1492,8 @@
         },
         {
           "Key": "DownloadData",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تحميل البيانات",
             "en-US": "Download data",
@@ -1346,6 +1510,8 @@
         },
         {
           "Key": "Merken",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "نبهني",
             "en-US": "Note me",
@@ -1362,6 +1528,8 @@
         },
         {
           "Key": "AutoLogin",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تسجيل الدخول تلقائيا",
             "en-US": "Automatically log in",
@@ -1378,6 +1546,8 @@
         },
         {
           "Key": "Profil",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "حساب تعريفي",
             "en-US": "Profile",
@@ -1394,6 +1564,8 @@
         },
         {
           "Key": "LogOut",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تسجيل خروج",
             "en-US": "Log out",
@@ -1410,6 +1582,8 @@
         },
         {
           "Key": "AutoUploadData",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "قم بتحميل البيانات تلقائيًا",
             "en-US": "Automatically upload the data",
@@ -1426,6 +1600,8 @@
         },
         {
           "Key": "StopAutoLogin",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "توقف عن تسجيل الدخول التلقائي!",
             "en-US": "Stop auto login!",
@@ -1442,6 +1618,8 @@
         },
         {
           "Key": "AutoLoginStopped",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "توقف تسجيل الدخول التلقائي!",
             "en-US": "Auto login stopped!",
@@ -1458,6 +1636,8 @@
         },
         {
           "Key": "UntilAutoLogin",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "سيتم تسجيل الدخول تلقائيًا بعد {0} ثانية.",
             "en-US": "You will be automatically logged in after {0} seconds.",
@@ -1474,6 +1654,8 @@
         },
         {
           "Key": "IfDownloadData",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "إذا قمت بتنزيل البيانات التي تم تحميلها على {0} ، فسيتم استبدال جميع بياناتك الحالية هنا!",
             "en-US": "If you download the data that has been uploaded on {0}, all your current data will be replaced here!",
@@ -1490,6 +1672,8 @@
         },
         {
           "Key": "EmptyUserName",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "اسم المستخدم فارغ!",
             "en-US": "Username is empty!",
@@ -1506,6 +1690,8 @@
         },
         {
           "Key": "EmptyEmail",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "البريد الإلكتروني فارغ!",
             "en-US": "Email is empty!",
@@ -1522,6 +1708,8 @@
         },
         {
           "Key": "PasswordNotMatch",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "كلمة السر غير متطابقة!",
             "en-US": "Password does not match!",
@@ -1538,6 +1726,8 @@
         },
         {
           "Key": "RegisterFailed",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "فشل في التسجيل! أرضي:",
             "en-US": "Registration failed! Ground:",
@@ -1554,6 +1744,8 @@
         },
         {
           "Key": "InvalidEmail",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "البريد الإلكتروني غير صالح!",
             "en-US": "Email is invalid!",
@@ -1570,6 +1762,8 @@
         },
         {
           "Key": "WrongPassword",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "كلمة مرور خاطئة!",
             "en-US": "Wrong password!",
@@ -1586,6 +1780,8 @@
         },
         {
           "Key": "MissingEmail",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "البريد الإلكتروني مفقود!",
             "en-US": "Email is missing!",
@@ -1602,6 +1798,8 @@
         },
         {
           "Key": "MissingPassword",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "كلمة المرور مفقودة!",
             "en-US": "Password is missing!",
@@ -1618,6 +1816,8 @@
         },
         {
           "Key": "WeakPassword",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "كلمة المرور ضعيفة جدا!",
             "en-US": "Password is too weak!",
@@ -1634,6 +1834,8 @@
         },
         {
           "Key": "EmailAlreadyInUse",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تم استخدام الايميل مسبقا!",
             "en-US": "Email is already used!",
@@ -1650,6 +1852,8 @@
         },
         {
           "Key": "None",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لا شيء ، حاول تسجيل الدخول!",
             "en-US": "Nothing, try login!",
@@ -1666,6 +1870,8 @@
         },
         {
           "Key": "Default",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لا يمكن تحديدها بدقة أكثر!",
             "en-US": "It could not be determined more precisely!",
@@ -1682,6 +1888,8 @@
         },
         {
           "Key": "RegisterSusccesfull",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "التسجيل ناجح!",
             "en-US": "Registration successful!",
@@ -1698,6 +1906,8 @@
         },
         {
           "Key": "Welcome",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "اهلا وسهلا",
             "en-US": "Welcome",
@@ -1714,6 +1924,8 @@
         },
         {
           "Key": "LoginFailed",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "فشل تسجيل الدخول! أرضي:",
             "en-US": "Log in has failed! Ground:",
@@ -1730,6 +1942,8 @@
         },
         {
           "Key": "UserNotFound",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لم يتم العثور على المستخدم!",
             "en-US": "User not found!",
@@ -1746,6 +1960,8 @@
         },
         {
           "Key": "UserMismatch",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "المستخدم لا يتطابق!",
             "en-US": "User does not match!",
@@ -1762,6 +1978,8 @@
         },
         {
           "Key": "OnlinePlayer",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "اللاعبين عبر الإنترنت",
             "en-US": "Online Players",
@@ -1778,6 +1996,8 @@
         },
         {
           "Key": "OnlineUsers",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "مستخدمين على الهواء",
             "en-US": "Online Users",
@@ -1794,6 +2014,8 @@
         },
         {
           "Key": "SavedData",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لقد أنقذت كل شيء في السحابة! يمكنك فقط الوصول إلى البيانات باستخدام تسجيل الدخول الخاص بك!",
             "en-US": "You saved everything in the cloud! Only you can access the data with your login!",
@@ -1810,6 +2032,8 @@
         },
         {
           "Key": "LoadSaveDataFrom",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أنت في عملية تحميل آخر البيانات المخزنة من التاريخ: {0}.",
             "en-US": "You are in the process of loading the last stored data from the date: {0}.",
@@ -1826,6 +2050,8 @@
         },
         {
           "Key": "DataLoaded",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تم تنزيل بيانات السحابة من السحابة :)",
             "en-US": "The cloud data from the cloud were downloaded :)",
@@ -1842,6 +2068,8 @@
         },
         {
           "Key": "PleaseLogin",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أنت لست على الإنترنت ، يرجى التسجيل.",
             "en-US": "You are not online, please register.",
@@ -1858,6 +2086,8 @@
         },
         {
           "Key": "Compare",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "مقارنة البيانات",
             "en-US": "Data comparison",
@@ -1874,6 +2104,8 @@
         },
         {
           "Key": "CompareSelect",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "ما هو الحساب الذي تريد الحفاظ عليه؟",
             "en-US": "Which account do you want to maintain?",
@@ -1890,6 +2122,8 @@
         },
         {
           "Key": "OnlineData",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "بيانات حساب السحابة",
             "en-US": "Cloud account data",
@@ -1906,6 +2140,8 @@
         },
         {
           "Key": "OfflineData",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "بيانات الحساب المحلية",
             "en-US": "Local account data",
@@ -1930,6 +2166,8 @@
       "entries": [
         {
           "Key": "Age",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "عمر",
             "en-US": "Age",
@@ -1946,6 +2184,8 @@
         },
         {
           "Key": "FullName",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الاسم الكامل",
             "en-US": "Full Name",
@@ -1962,6 +2202,8 @@
         },
         {
           "Key": "Name",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "اسم العائلة",
             "en-US": "Surname",
@@ -1978,6 +2220,8 @@
         },
         {
           "Key": "LastName",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "اسم العائلة",
             "en-US": "Last Name",
@@ -1994,6 +2238,8 @@
         },
         {
           "Key": "FirstName",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الاسم الأول",
             "en-US": "First Name",
@@ -2010,6 +2256,8 @@
         },
         {
           "Key": "Wohnort",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "مسكن",
             "en-US": "Residence",
@@ -2026,6 +2274,8 @@
         },
         {
           "Key": "MaritalStatus",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الحالة الاجتماعية",
             "en-US": "Marital Status",
@@ -2050,6 +2300,8 @@
       "entries": [
         {
           "Key": "Succesfull",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "ناجح",
             "en-US": "Successful",
@@ -2066,6 +2318,8 @@
         },
         {
           "Key": "Error",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "خطأ",
             "en-US": "Error",
@@ -2082,6 +2336,8 @@
         },
         {
           "Key": "WeAreSorry",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "نحن اسفون",
             "en-US": "We are sorry",
@@ -2098,6 +2354,8 @@
         },
         {
           "Key": "Vergessen",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "ينسى؟",
             "en-US": "Forget?",
@@ -2114,6 +2372,8 @@
         },
         {
           "Key": "AreYouSure",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "هل انت متاكد؟",
             "en-US": "Are you sure?",
@@ -2130,6 +2390,8 @@
         },
         {
           "Key": "WhatsNew",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "ما هو الجديد...",
             "en-US": "What's new...",
@@ -2146,6 +2408,8 @@
         },
         {
           "Key": "Processing",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "معالجة",
             "en-US": "Processing",
@@ -2162,6 +2426,8 @@
         },
         {
           "Key": "OhNo",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أوه لا",
             "en-US": "Ohh No",
@@ -2178,6 +2444,8 @@
         },
         {
           "Key": "CurrentSprache",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "اللغة الحالية",
             "en-US": "Current language",
@@ -2202,6 +2470,8 @@
       "entries": [
         {
           "Key": "AreYouSureClose",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "هل أنت متأكد أنك تريد إغلاق التطبيق؟",
             "en-US": "Are you sure you want to close the app?",
@@ -2218,6 +2488,8 @@
         },
         {
           "Key": "exitReally",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "هل تريد حقًا إنهاء التطبيق؟",
             "en-US": "Do you really want to end the application?",
@@ -2234,6 +2506,8 @@
         },
         {
           "Key": "SeeTutorial",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "هل تريد أن تنظر إلى البرنامج التعليمي؟",
             "en-US": "Do you want to look at the tutorial?",
@@ -2250,6 +2524,8 @@
         },
         {
           "Key": "NewUpdate",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "هل تريد تنزيل إصدار التطبيق الجديد {0}. الإصدار الحالي من هذه التطبيقات هو {1}.",
             "en-US": "Do you want to download the new app version {0}. The current version of these apps is {1}.",
@@ -2266,6 +2542,8 @@
         },
         {
           "Key": "BackToHome",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "العودة إلى الصفحة الرئيسية؟",
             "en-US": "Back to home?",
@@ -2282,6 +2560,8 @@
         },
         {
           "Key": "QuestionOpenGPSSettings",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "هل تريد فتح إعدادات نظام تحديد المواقع (GPS)؟",
             "en-US": "Do you want to open GPS settings?",
@@ -2298,6 +2578,8 @@
         },
         {
           "Key": "RememberAnswer",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تذكر الإجابة",
             "en-US": "Remember answer",
@@ -2322,6 +2604,8 @@
       "entries": [
         {
           "Key": "Settings",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "إعدادات",
             "en-US": "Settings",
@@ -2338,6 +2622,8 @@
         },
         {
           "Key": "Options",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "خيارات",
             "en-US": "Options",
@@ -2354,6 +2640,8 @@
         },
         {
           "Key": "Language",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لغة",
             "en-US": "Language",
@@ -2370,6 +2658,8 @@
         },
         {
           "Key": "Update",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تحديث",
             "en-US": "Update",
@@ -2386,6 +2676,8 @@
         },
         {
           "Key": "Tutorial",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "درس تعليمي",
             "en-US": "Tutorial",
@@ -2402,6 +2694,8 @@
         },
         {
           "Key": "Hintergrund",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "خلفية",
             "en-US": "Background",
@@ -2418,6 +2712,8 @@
         },
         {
           "Key": "WhatsNew",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "ما هو الجديد؟!",
             "en-US": "What's New?!",
@@ -2434,6 +2730,8 @@
         },
         {
           "Key": "Info",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "معلومات",
             "en-US": "Info",
@@ -2450,6 +2748,8 @@
         },
         {
           "Key": "Updates",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تحديثات",
             "en-US": "Updates",
@@ -2474,6 +2774,8 @@
       "entries": [
         {
           "Key": "EnterMainTopic",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أدخل الموضوع الرئيسي",
             "en-US": "Enter the main topic",
@@ -2490,6 +2792,8 @@
         },
         {
           "Key": "NameEingeben",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أدخل الاسم ...",
             "en-US": "Enter name ...",
@@ -2506,6 +2810,8 @@
         },
         {
           "Key": "appbeenden",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "ينتهي التطبيق عن طريق الضغط على زر العودة مرة أخرى.",
             "en-US": "The app ends by pressing the back button again.",
@@ -2522,6 +2828,8 @@
         },
         {
           "Key": "WertEingaben",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أدخل القيمة ...",
             "en-US": "Enter value ...",
@@ -2538,6 +2846,8 @@
         },
         {
           "Key": "Eingaben",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أدخل {0} ...",
             "en-US": "Enter {0} ...",
@@ -2554,6 +2864,8 @@
         },
         {
           "Key": "Current",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الحالي {0}",
             "en-US": "Current {0}",
@@ -2578,6 +2890,8 @@
       "entries": [
         {
           "Key": "Hotline",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الخط الساخن",
             "en-US": "Hotline",
@@ -2594,6 +2908,8 @@
         },
         {
           "Key": "Email",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "بريد إلكتروني",
             "en-US": "E-Mail",
@@ -2610,6 +2926,8 @@
         },
         {
           "Key": "PreparingEmail",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يجري إعداد البريد الإلكتروني للإرسال",
             "en-US": "E-mail is being prepared to send",
@@ -2626,6 +2944,8 @@
         },
         {
           "Key": "EmailBodyTextTitel",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أدخل طلبك في الحقل أدناه:",
             "en-US": "Enter your request in the field below:",
@@ -2642,6 +2962,8 @@
         },
         {
           "Key": "EmailSend",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تم ارسال البريد الالكتروني.",
             "en-US": "E-mail has been sent.",
@@ -2658,6 +2980,8 @@
         },
         {
           "Key": "Email2Hours",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يمكنك فقط إرسال بريد إلكتروني كل ساعتين.",
             "en-US": "You can only send an email every 2 hours.",
@@ -2674,6 +2998,8 @@
         },
         {
           "Key": "EmptyEmail",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لا يمكنك إرسال بريد إلكتروني فارغ.",
             "en-US": "You cannot send an empty email.",
@@ -2690,6 +3016,8 @@
         },
         {
           "Key": "EmailEveryXHours",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يمكنك فقط إرسال بريد إلكتروني كل ساعة {0}.",
             "en-US": "You can only send an email every {0} hours.",
@@ -2714,6 +3042,8 @@
       "entries": [
         {
           "Key": "Rank",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "رتبة",
             "en-US": "Rank",
@@ -2730,6 +3060,8 @@
         },
         {
           "Key": "Nickname",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "كنية",
             "en-US": "Nickname",
@@ -2746,6 +3078,8 @@
         },
         {
           "Key": "Leaderboard",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "المتصدرين {0}",
             "en-US": "Leaderboard {0}",
@@ -2762,6 +3096,8 @@
         },
         {
           "Key": "Highscore",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "درجة عالية",
             "en-US": "Highscore",
@@ -2778,6 +3114,8 @@
         },
         {
           "Key": "Bestscore",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أفضل النتيجة",
             "en-US": "Best Score",
@@ -2794,6 +3132,8 @@
         },
         {
           "Key": "UserNote",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "ملاحظة اللاعب",
             "en-US": "Player Note",
@@ -2810,6 +3150,8 @@
         },
         {
           "Key": "Date",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تاريخ",
             "en-US": "Date",
@@ -2826,6 +3168,8 @@
         },
         {
           "Key": "Land",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "دولة",
             "en-US": "Country",
@@ -2842,6 +3186,8 @@
         },
         {
           "Key": "Score",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "نتيجة",
             "en-US": "Score",
@@ -2858,6 +3204,8 @@
         },
         {
           "Key": "LeaderboardGlobal",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "المتصدرين العالمي",
             "en-US": "Leaderboard Global",
@@ -2874,6 +3222,8 @@
         },
         {
           "Key": "LeaderboardCountryBattle",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "معركة البلدان",
             "en-US": "Countries Battle",
@@ -2890,6 +3240,8 @@
         },
         {
           "Key": "TopX",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أعلى {0}",
             "en-US": "Top {0}",
@@ -2906,6 +3258,8 @@
         },
         {
           "Key": "Week",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أسبوع",
             "en-US": "Week",
@@ -2922,6 +3276,8 @@
         },
         {
           "Key": "Month",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "شهر",
             "en-US": "Month",
@@ -2946,6 +3302,8 @@
       "entries": [
         {
           "Key": "WatchAd",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "مشاهدة الإعلان",
             "en-US": "Watch advertising",
@@ -2962,6 +3320,8 @@
         },
         {
           "Key": "ExtraLife",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "حياة إضافية",
             "en-US": "Additional life",
@@ -2978,6 +3338,8 @@
         },
         {
           "Key": "DoubleReward",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "مكافأة مزدوجة",
             "en-US": "Double reward",
@@ -2994,6 +3356,8 @@
         },
         {
           "Key": "DoubleRewardSpec",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "مزدوج {0}",
             "en-US": "Double {0}",
@@ -3010,6 +3374,8 @@
         },
         {
           "Key": "DoubleRewardText",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "انظر إلى الإعلان وضاعف مكافأتك.",
             "en-US": "Look at an advertising and double your reward.",
@@ -3026,6 +3392,8 @@
         },
         {
           "Key": "ExtraLifeText",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لإعطائك حياة إضافية يمكنك إلقاء نظرة على الإعلان.",
             "en-US": "To give you an extra life you can look at an advertisement.",
@@ -3042,6 +3410,8 @@
         },
         {
           "Key": "waitRewardTime",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "انتظر لا يزال {0} للحصول على مكافأتك.",
             "en-US": "Wait still {0} to get your reward.",
@@ -3058,6 +3428,8 @@
         },
         {
           "Key": "Reward",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "جائزة",
             "en-US": "Reward",
@@ -3074,6 +3446,8 @@
         },
         {
           "Key": "Daily",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "مكافأة اليومية",
             "en-US": "Daily reward",
@@ -3090,6 +3464,8 @@
         },
         {
           "Key": "Coins",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "عملة",
             "en-US": "Coin",
@@ -3106,6 +3482,8 @@
         },
         {
           "Key": "Crystals",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "بلورات",
             "en-US": "Crystals",
@@ -3122,6 +3500,8 @@
         },
         {
           "Key": "Leben",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "حياة",
             "en-US": "Life",
@@ -3138,6 +3518,8 @@
         },
         {
           "Key": "Credits",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الاعتمادات",
             "en-US": "Credits",
@@ -3154,6 +3536,8 @@
         },
         {
           "Key": "Level",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "مستوى",
             "en-US": "Level",
@@ -3170,6 +3554,8 @@
         },
         {
           "Key": "NotEnough",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "ليس لديك ما يكفي من {0} لتنفيذ هذا الإجراء.",
             "en-US": "You don't have enough {0} to carry out this action.",
@@ -3186,6 +3572,8 @@
         },
         {
           "Key": "Energy",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "طاقة",
             "en-US": "Energy",
@@ -3202,6 +3590,8 @@
         },
         {
           "Key": "NoLeft",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لم يعد لديك {0}.",
             "en-US": "You have no {0} left.",
@@ -3218,6 +3608,8 @@
         },
         {
           "Key": "MaxEnergy",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الطاقة القصوى",
             "en-US": "Max Energy",
@@ -3234,6 +3626,8 @@
         },
         {
           "Key": "TapToEat",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "اضغط لتأكل",
             "en-US": "Tap to Eat",
@@ -3250,6 +3644,8 @@
         },
         {
           "Key": "TimeWith",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الوقت مع",
             "en-US": "time with",
@@ -3266,6 +3662,8 @@
         },
         {
           "Key": "AdRewardTitle",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "مكافأة الإعلان",
             "en-US": "Ad Reward",
@@ -3282,6 +3680,8 @@
         },
         {
           "Key": "YourRewardForWaiting",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لقد جمعت {0} {1} أثناء غيابك.",
             "en-US": "You have collected {0} {1} while you were away.",
@@ -3298,6 +3698,8 @@
         },
         {
           "Key": "WatchAdForReward",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "شاهد إعلانًا للحصول على {0}",
             "en-US": "Watch an ad to receive {0}",
@@ -3322,6 +3724,8 @@
       "entries": [
         {
           "Key": "NoMoreCrystals",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لم يعد لديك بلورات للتحديث. يمكنك طلب +15 بلورات جديدة! فقط انظر إلى إعلان!",
             "en-US": "You no longer have a crystals for Refresh. You can request +15 new crystals! Just look at an ad!",
@@ -3338,6 +3742,8 @@
         },
         {
           "Key": "NoFreeRewards",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لا مزيد من المكافآت المجانية المتاحة الآن!",
             "en-US": "No more free rewards available for now!",
@@ -3354,6 +3760,8 @@
         },
         {
           "Key": "WaitOrClaim",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "انتظر أو المطالبة بلورات جديدة!",
             "en-US": "Wait or claim new crystals!",
@@ -3370,6 +3778,8 @@
         },
         {
           "Key": "FirstLoginReward",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لقد تلقيت المكافأة التالية لتسجيل الدخول أو التسجيل الأول {0} {1}.",
             "en-US": "You received the following reward for the 1st login or registration {0} {1}.",
@@ -3394,6 +3804,8 @@
       "entries": [
         {
           "Key": "Shop",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "محل",
             "en-US": "Shop",
@@ -3410,6 +3822,8 @@
         },
         {
           "Key": "Tauschen",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تبادل",
             "en-US": "Exchange",
@@ -3426,6 +3840,8 @@
         },
         {
           "Key": "Kaufen",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يشتري",
             "en-US": "Buy",
@@ -3442,6 +3858,8 @@
         },
         {
           "Key": "Verkaufen",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يبيع",
             "en-US": "Sell",
@@ -3458,6 +3876,8 @@
         },
         {
           "Key": "ZuWenig",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "غير لائق لديك أقل من {0} ، ما زلت مفقودة {1} {2}.",
             "en-US": "Unfortunately you have too less {0}, you are still missing {1} {2}.",
@@ -3474,6 +3894,8 @@
         },
         {
           "Key": "Orb",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "محجر العين",
             "en-US": "Orb",
@@ -3490,6 +3912,8 @@
         },
         {
           "Key": "Angebot",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "عرض خاص",
             "en-US": "Special Offer",
@@ -3506,6 +3930,8 @@
         },
         {
           "Key": "Neu",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "جديد",
             "en-US": "New",
@@ -3522,6 +3948,8 @@
         },
         {
           "Key": "Upgrade",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "ترقية مستوى {0}",
             "en-US": "Upgrade the level of {0}",
@@ -3538,6 +3966,8 @@
         },
         {
           "Key": "Downgrade",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تخفيض",
             "en-US": "Downgrade",
@@ -3562,6 +3992,8 @@
       "entries": [
         {
           "Key": "openOtherApp",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أنت على وشك عرض تطبيق آخر بواسطة Shadowless Studios على Google Play. يكمل؟",
             "en-US": "You're about to view another app by Shadowless Studios on Google Play. Continue?",
@@ -3578,6 +4010,8 @@
         },
         {
           "Key": "Downloader",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تنزيل الفيديو",
             "en-US": "Video Downloader",
@@ -3602,6 +4036,8 @@
       "entries": [
         {
           "Key": "SolutionForBlockedVideos",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الحل الوحيد للمحتوى الخاص أو المحظور هو تسجيل الدخول إلى إنستغرام من قسم الإعدادات. بعد ذلك، ستتمكن التطبيق من العثور والتحميل، وإلا فإن ذلك سيكون مستحيلًا.",
             "en-US": "The only solution against private or blocked content is to login to Instagram in the settings section. Then the app will be able to find and download, otherwise it's impossible.",
@@ -3618,6 +4054,8 @@
         },
         {
           "Key": "AISearching",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "منظمة العفو الدولية تبحث عن مواد فيديو",
             "en-US": "AI is searching for Video Material",
@@ -3634,6 +4072,8 @@
         },
         {
           "Key": "VideoList",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "قائمة مقاطع الفيديو",
             "en-US": "Videos List",
@@ -3650,6 +4090,8 @@
         },
         {
           "Key": "DownloadedVideos",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تم تنزيل مقاطع الفيديو",
             "en-US": "Downloaded Videos",
@@ -3666,6 +4108,8 @@
         },
         {
           "Key": "DownloadingVideo",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تنزيل الفيديو",
             "en-US": "Downloading Video",
@@ -3682,6 +4126,8 @@
         },
         {
           "Key": "DownloadedSuccesfully",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الفيديو ما الذي تم تنزيله بنجاح.",
             "en-US": "Video was successfully downloaded.",
@@ -3698,6 +4144,8 @@
         },
         {
           "Key": "SavePathCurrent",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "مسار تخزين الفيديو الحالي هو",
             "en-US": "The current video storage path is",
@@ -3714,6 +4162,8 @@
         },
         {
           "Key": "AutoDownloadClipboard",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تنزيل تلقائي - الحافظة",
             "en-US": "Auto Download - clipboard",
@@ -3730,6 +4180,8 @@
         },
         {
           "Key": "AutoDownloadClipboardDescription",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "إذا كان هناك رابط Instagram صالح في الحافظة ، فسيتم تشغيل تنزيل الفيديو تلقائيًا.",
             "en-US": "If there is a valid Instagram link in the clipboard, downloading the video is automatically started.",
@@ -3746,6 +4198,8 @@
         },
         {
           "Key": "VideoURL",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "رابط الفيديو",
             "en-US": "Video URL",
@@ -3762,6 +4216,8 @@
         },
         {
           "Key": "NoInstagramLink",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "ليس على رابط Instagram",
             "en-US": "Is not an Instagram link",
@@ -3778,6 +4234,8 @@
         },
         {
           "Key": "InsertLink",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "رابط {0}",
             "en-US": "{0} link",
@@ -3794,6 +4252,8 @@
         },
         {
           "Key": "ShareVideo",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "شارك الفيديو",
             "en-US": "Share video",
@@ -3810,6 +4270,8 @@
         },
         {
           "Key": "NoFileSelected",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "لم يتم تحديد أي ملف ، يرجى تحديد ملف في المجلد المطلوب لتحديد المجلدات كمجلد تنزيل رئيسي.",
             "en-US": "No file has been selected, please select a file in your desired folder to select the folder as your main download folder.",
@@ -3826,6 +4288,8 @@
         },
         {
           "Key": "DescriptionDropDownChunks",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "إذا قمت بتحديد قيمة أقل (1) ، فمن الأرجح أن يتم العثور على مادة الفيديو ، ولكنها تستغرق وقتًا أطول. القيمة الأعلى (5) أسرع ، ولكن أقل احتمال العثور على الفيديو. | نوصي (4) لأنها الطريقة الأسرع تقريبًا ، ووفقًا لاختباراتنا ، وجدت مادة الفيديو دون مشاكل. | ولكن يجب أن تكون مشكلة في التنزيل ، يمكننا أن نوصي بـ (3) كنسبة متوازنة بين السرعة والدقة. | ومع ذلك ، فنحن نرحب بك لتجربة قيمة مختلفة لمعرفة ما هو أفضل بالنسبة لك. في الأساس ، من الممكن أن تترك (5) وإذا فشل في الانخفاض.",
             "en-US": "If you select a lower value (1), it is more likely that the video material will be found, but it takes longer. A higher value (5) is faster, but less likely that the video will be found. | We recommend (4) because it is the almost fastest method and, according to our tests, found the video material without problems. | But should it be problems When downloading, we can recommend the (3) as a balanced ratio between speed and accuracy. | However, you are welcome to try out different values ​​to find out what works best for you. Basically, it is possible to leave (5) and if it fails you can down.",
@@ -3842,6 +4306,8 @@
         },
         {
           "Key": "AccuracySpeed",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الدقة / السرعة",
             "en-US": "Accuracy / Speed",
@@ -3858,6 +4324,8 @@
         },
         {
           "Key": "enterLink",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أدخل هنا رابط {0}",
             "en-US": "Enter here {0}-Link",
@@ -3874,6 +4342,8 @@
         },
         {
           "Key": "SeperationDescription",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يتم فصل مقاطع الفيديو وإدراجها اعتمادًا على مسار التنزيل. في المستقبل سيكون هناك المزيد من التحديد هنا ، والبحث عن الفصل والفرز حسب التاريخ.",
             "en-US": "The videos are separated and listed depending on the download path. In the future there will be more selection here, such as the separation and sorting by date.",
@@ -3890,6 +4360,8 @@
         },
         {
           "Key": "Seperation",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "قائمة الفيديو مع فاصل",
             "en-US": "Video list with a separator",
@@ -3906,6 +4378,8 @@
         },
         {
           "Key": "FindVideoFailed",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "دون أن يكون خطأ ، حدث عند محاولة العثور على مادة الفيديو. نوصي بتقليل الدقة/السرعة في الإعدادات إلى قيمة أقل. إذا استمرت المشكلة ، فقد يكون من الصعب للغاية على الذكاء الاصطناعي العثور على مادة الفيديو المخفية. Instagram يقوم بعمله بشكل جيد 😉. يرجى المحاولة مرة أخرى ونأمل أن تعمل بشكل أفضل في المرة القادمة. أتمنى لك النجاح!",
             "en-US": "Unfortunately, an error occurred when trying to find the video material. We recommend reducing the accuracy/speed in the settings to a lower value. If the problem continues, it can happen that it is too difficult for AI to find the hidden video material. Instagram does his work pretty well 😉. Please try again and we hope that it will work better the next time. I wish you success!",
@@ -3922,6 +4396,8 @@
         },
         {
           "Key": "YouCanSaveTheUrl",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يمكنك حفظ رابط الفيديو والتنزيل لاحقًا.",
             "en-US": "You can save the link of the video and download later.",
@@ -3938,6 +4414,8 @@
         },
         {
           "Key": "KeepInListDesc",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "بعد تنزيل الفيديو بنجاح ، سيتم حذف الرابط المرتبط إلا إذا قمت بالنقر فوق \"Keep In List\".",
             "en-US": "After the video has successfully downloaded, the linked link will be deleted unless you click on \"Keep in List\".",
@@ -3954,6 +4432,8 @@
         },
         {
           "Key": "KeepInList",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "حافظ على القائمة",
             "en-US": "Keep in the list",
@@ -3970,6 +4450,8 @@
         },
         {
           "Key": "SavedLinkList",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الروابط المحفوظة",
             "en-US": "Saved links",
@@ -3986,6 +4468,8 @@
         },
         {
           "Key": "LoadVideoFromPath",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تحميل من المجلد إلى قائمة",
             "en-US": "Load from Folder to List",
@@ -4002,6 +4486,8 @@
         },
         {
           "Key": "InsertFacebookLink",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "こちらにFacebookのリンクを入力してください:",
             "en-US": "Enter Facebook link here:",
@@ -4018,6 +4504,8 @@
         },
         {
           "Key": "BlockedOrPrivate",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "محظور أو خاص!",
             "en-US": "Blocked Or Private!",
@@ -4042,6 +4530,8 @@
       "entries": [
         {
           "Key": "Kompass",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "بوصلة",
             "en-US": "Compass",
@@ -4058,6 +4548,8 @@
         },
         {
           "Key": "PrayerTimes",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "أوقات الصلاة",
             "en-US": "Prayer Times",
@@ -4074,6 +4566,8 @@
         },
         {
           "Key": "GPSInfo",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "يرجى تشغيل نظام تحديد المواقع العالمي (GPS)! الحساب يعتمد على الحسابات الرياضية الإسلامية ويعتمد حاليًا على موقع GPS الخاص بك.",
             "en-US": "Please Turn On GPS! The calculation is based on Islamic mathematical calculations and currently depends on your GPS location.",
@@ -4090,6 +4584,8 @@
         },
         {
           "Key": "DistanceToKaaba",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "المسافة إلى الكعبة: {0} كم",
             "en-US": "Your distance to the Kaaba is: {0} km",
@@ -4106,6 +4602,8 @@
         },
         {
           "Key": "CalculationMethod",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "طريقة الحساب",
             "en-US": "Calculation Method",
@@ -4122,6 +4620,8 @@
         },
         {
           "Key": "Hanafi",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الحنفي",
             "en-US": "Hanafi",
@@ -4138,6 +4638,8 @@
         },
         {
           "Key": "OtherSchools",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "(الشافعي، المالكي، الحنبلي)",
             "en-US": "(Shafi, Maliki, Hanbali)",
@@ -4154,6 +4656,8 @@
         },
         {
           "Key": "Hour",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "ساعة",
             "en-US": "Hour",
@@ -4170,6 +4674,8 @@
         },
         {
           "Key": "Minute",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "دقيقة",
             "en-US": "Minute",
@@ -4186,6 +4692,8 @@
         },
         {
           "Key": "Second",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "ثانية",
             "en-US": "Second",
@@ -4202,6 +4710,8 @@
         },
         {
           "Key": "TimeUntil",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الوقت حتى",
             "en-US": "Time until",
@@ -4218,6 +4728,8 @@
         },
         {
           "Key": "Cities",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "المدن",
             "en-US": "Cities",
@@ -4234,6 +4746,8 @@
         },
         {
           "Key": "Latitude",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "خط العرض",
             "en-US": "Latitude",
@@ -4250,6 +4764,8 @@
         },
         {
           "Key": "Longitude",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "خط الطول",
             "en-US": "Longitude",
@@ -4266,6 +4782,8 @@
         },
         {
           "Key": "Date",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "التاريخ",
             "en-US": "Date",
@@ -4282,6 +4800,8 @@
         },
         {
           "Key": "Statusbar",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "شريط الحالة",
             "en-US": "Statusbar",
@@ -4298,6 +4818,8 @@
         },
         {
           "Key": "Navigationsbar",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "شريط التنقل",
             "en-US": "Navigation Bar",
@@ -4314,6 +4836,8 @@
         },
         {
           "Key": "Imsak",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الإمساك",
             "en-US": "Imsak",
@@ -4330,6 +4854,8 @@
         },
         {
           "Key": "Sabah",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الصبح",
             "en-US": "Fajr",
@@ -4346,6 +4872,8 @@
         },
         {
           "Key": "Öglen",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الظهر",
             "en-US": "Dhuhr",
@@ -4362,6 +4890,8 @@
         },
         {
           "Key": "Ikindi",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "العصر",
             "en-US": "Asr",
@@ -4378,6 +4908,8 @@
         },
         {
           "Key": "Aksam",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "المغرب",
             "en-US": "Maghrib",
@@ -4394,6 +4926,8 @@
         },
         {
           "Key": "Yatsi",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "العشاء",
             "en-US": "Isha",
@@ -4410,6 +4944,8 @@
         },
         {
           "Key": "Dimmed",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "مُظلَّم",
             "en-US": "Dimmed",
@@ -4426,6 +4962,8 @@
         },
         {
           "Key": "ReLocate",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "إعادة تحديد الموقع",
             "en-US": "Re-Locate",
@@ -4442,6 +4980,8 @@
         },
         {
           "Key": "TurnRight",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "استدر إلى اليمين",
             "en-US": "Turn Right",
@@ -4458,6 +4998,8 @@
         },
         {
           "Key": "TurnLeft",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "استدر إلى اليسار",
             "en-US": "Turn Left",
@@ -4474,6 +5016,8 @@
         },
         {
           "Key": "CurrentLocation",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الموقع الحالي",
             "en-US": "Current Location",
@@ -4490,6 +5034,8 @@
         },
         {
           "Key": "LastLocation",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "آخر موقع",
             "en-US": "Last Location",
@@ -4506,6 +5052,8 @@
         },
         {
           "Key": "Location",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "الموقع",
             "en-US": "Location",
@@ -4530,6 +5078,8 @@
       "entries": [
         {
           "Key": "RememberAnswer",
+          "version": 0,
+          "date": null,
           "Translations": {
             "ar": "تذكر الإجابة",
             "en-US": "Remember answer",
@@ -4542,6 +5092,32 @@
             "ru-RU": "Запомнить ответ",
             "tr-TR": "Cevabı hatırla",
             "zh-CN": "记住答案"
+          }
+        }
+      ]
+    },
+    {
+      "categoryKey": "Tutorial",
+      "version": 1,
+      "id": 19,
+      "date": "24-04-2026 13:57:10",
+      "entries": [
+        {
+          "Key": "OpenYouTube",
+          "version": 1,
+          "date": "24-04-2026 13:57:10",
+          "Translations": {
+            "ar": "افتح YouTube",
+            "en-US": "Open YouTube",
+            "de-DE": "YouTube öffnen",
+            "es-ES": "Abrir YouTube",
+            "fr-FR": "Ouvrir YouTube",
+            "it-IT": "Apri YouTube",
+            "ja-JP": "YouTubeを開く",
+            "pt-PT": "Abrir YouTube",
+            "ru-RU": "Открыть YouTube",
+            "tr-TR": "YouTube'u aç",
+            "zh-CN": "打开 YouTube"
           }
         }
       ]
