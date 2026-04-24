@@ -1,12 +1,12 @@
 {
-  "version": 28,
-  "lastUpdate": "06-01-2025 02:24:00",
+  "version": 29,
+  "lastUpdate": "24-04-2026 13:10:27",
   "categories": [
     {
       "categoryKey": "Buttons",
-      "version": 0,
+      "version": 1,
       "id": 1,
-      "date": "18.08.2023",
+      "date": "24-04-2026 13:10:27",
       "entries": [
         {
           "Key": "DontAskAgain",
@@ -455,6 +455,22 @@
             "tr-TR": "Devam",
             "zh-CN": "继续"
           }
+        },
+        {
+          "Key": "NoThanks",
+          "Translations": {
+            "ar": "لا، شكراً",
+            "en-US": "No, thanks",
+            "de-DE": "Nein, danke",
+            "es-ES": "No, gracias",
+            "fr-FR": "Non, merci",
+            "it-IT": "No, grazie",
+            "ja-JP": "いいえ、結構です",
+            "pt-PT": "Não, obrigado",
+            "ru-RU": "Нет, спасибо",
+            "tr-TR": "Hayır, teşekkürler",
+            "zh-CN": "不用了，谢谢"
+          }
         }
       ]
     },
@@ -481,21 +497,21 @@
           }
         },
         {
-  "Key": "OneMoreTime",
-  "Translations": {
-    "ar": "هل ترغب في محاولة أخرى؟",
-    "en-US": "Would you like one more time?",
-    "de-DE": "Möchtest du es noch einmal versuchen?",
-    "es-ES": "¿Te gustaría intentarlo una vez más?",
-    "fr-FR": "Voulez-vous essayer encore une fois ?",
-    "it-IT": "Vuoi provare ancora una volta?",
-    "ja-JP": "もう一度試してみますか？",
-    "pt-PT": "Gostaria de mais uma vez?",
-    "ru-RU": "Хотите попробовать еще раз?",
-    "tr-TR": "Bir kez daha denemek ister misiniz?",
-    "zh-CN": "你想再来一次吗？"
-  }
-},
+          "Key": "OneMoreTime",
+          "Translations": {
+            "ar": "هل ترغب في محاولة أخرى؟",
+            "en-US": "Would you like one more time?",
+            "de-DE": "Möchtest du es noch einmal versuchen?",
+            "es-ES": "¿Te gustaría intentarlo una vez más?",
+            "fr-FR": "Voulez-vous essayer encore une fois ?",
+            "it-IT": "Vuoi provare ancora una volta?",
+            "ja-JP": "もう一度試してみますか？",
+            "pt-PT": "Gostaria de mais uma vez?",
+            "ru-RU": "Хотите попробовать еще раз?",
+            "tr-TR": "Bir kez daha denemek ister misiniz?",
+            "zh-CN": "你想再来一次吗？"
+          }
+        },
         {
           "Key": "Exit",
           "Translations": {
@@ -528,38 +544,38 @@
             "zh-CN": "您真的想关闭该应用程序吗？"
           }
         },
-{
-  "Key": "AreYouSure",
-  "Translations": {
-    "ar": "هل أنت متأكد؟",
-    "en-US": "ARE YOU sure?",
-    "de-DE": "Bist du sicher?",
-    "es-ES": "¿Estás seguro?",
-    "fr-FR": "Êtes-vous sûr ?",
-    "it-IT": "Sei sicuro?",
-    "ja-JP": "本当にいいですか？",
-    "pt-PT": "Você tem certeza?",
-    "ru-RU": "Вы уверены?",
-    "tr-TR": "Emin misiniz?",
-    "zh-CN": "你确定吗？"
-  }
-},
-{
-  "Key": "AllProgressLost",
-  "Translations": {
-    "ar": "سيتم فقدان كل التقدم!",
-    "en-US": "All progress will be lost!",
-    "de-DE": "Alle Fortschritte gehen verloren!",
-    "es-ES": "¡Todo el progreso se perderá!",
-    "fr-FR": "Tous les progrès seront perdus !",
-    "it-IT": "Tutti i progressi andranno persi!",
-    "ja-JP": "すべての進行状況が失われます！",
-    "pt-PT": "Todo o progresso será perdido!",
-    "ru-RU": "Весь прогресс будет потерян!",
-    "tr-TR": "Tüm ilerleme kaybolacak!",
-    "zh-CN": "所有进度将丢失！"
-  }
-},
+        {
+          "Key": "AreYouSure",
+          "Translations": {
+            "ar": "هل أنت متأكد؟",
+            "en-US": "ARE YOU sure?",
+            "de-DE": "Bist du sicher?",
+            "es-ES": "¿Estás seguro?",
+            "fr-FR": "Êtes-vous sûr ?",
+            "it-IT": "Sei sicuro?",
+            "ja-JP": "本当にいいですか？",
+            "pt-PT": "Você tem certeza?",
+            "ru-RU": "Вы уверены?",
+            "tr-TR": "Emin misiniz?",
+            "zh-CN": "你确定吗？"
+          }
+        },
+        {
+          "Key": "AllProgressLost",
+          "Translations": {
+            "ar": "سيتم فقدان كل التقدم!",
+            "en-US": "All progress will be lost!",
+            "de-DE": "Alle Fortschritte gehen verloren!",
+            "es-ES": "¡Todo el progreso se perderá!",
+            "fr-FR": "Tous les progrès seront perdus !",
+            "it-IT": "Tutti i progressi andranno persi!",
+            "ja-JP": "すべての進行状況が失われます！",
+            "pt-PT": "Todo o progresso será perdido!",
+            "ru-RU": "Весь прогресс будет потерян!",
+            "tr-TR": "Tüm ilerleme kaybolacak!",
+            "zh-CN": "所有进度将丢失！"
+          }
+        },
         {
           "Key": "AppBeenden",
           "Translations": {
@@ -2065,21 +2081,21 @@
           }
         },
         {
-  "Key": "OhNo",
-  "Translations": {
-    "ar": "أوه لا",
-    "en-US": "Ohh No",
-    "de-DE": "Ohh Nein",
-    "es-ES": "Ohh No",
-    "fr-FR": "Ohh Non",
-    "it-IT": "Ohh No",
-    "ja-JP": "おおっ、いや",
-    "pt-PT": "Ohh Não",
-    "ru-RU": "Ох, нет",
-    "tr-TR": "Ahh Hayır",
-    "zh-CN": "哦，不"
-  }
-},
+          "Key": "OhNo",
+          "Translations": {
+            "ar": "أوه لا",
+            "en-US": "Ohh No",
+            "de-DE": "Ohh Nein",
+            "es-ES": "Ohh No",
+            "fr-FR": "Ohh Non",
+            "it-IT": "Ohh No",
+            "ja-JP": "おおっ、いや",
+            "pt-PT": "Ohh Não",
+            "ru-RU": "Ох, нет",
+            "tr-TR": "Ahh Hayır",
+            "zh-CN": "哦，不"
+          }
+        },
         {
           "Key": "CurrentSprache",
           "Translations": {
@@ -2169,21 +2185,21 @@
           }
         },
         {
-  "Key": "BackToHome",
-  "Translations": {
-    "ar": "العودة إلى الصفحة الرئيسية؟",
-    "en-US": "Back to home?",
-    "de-DE": "Zurück zum Start?",
-    "es-ES": "¿Volver a casa?",
-    "fr-FR": "Retour à l'accueil ?",
-    "it-IT": "Torna alla home?",
-    "ja-JP": "ホームに戻りますか？",
-    "pt-PT": "Voltar para casa?",
-    "ru-RU": "Вернуться домой?",
-    "tr-TR": "Ana sayfaya geri dön?",
-    "zh-CN": "回到主页？"
-  }
-},
+          "Key": "BackToHome",
+          "Translations": {
+            "ar": "العودة إلى الصفحة الرئيسية؟",
+            "en-US": "Back to home?",
+            "de-DE": "Zurück zum Start?",
+            "es-ES": "¿Volver a casa?",
+            "fr-FR": "Retour à l'accueil ?",
+            "it-IT": "Torna alla home?",
+            "ja-JP": "ホームに戻りますか？",
+            "pt-PT": "Voltar para casa?",
+            "ru-RU": "Вернуться домой?",
+            "tr-TR": "Ana sayfaya geri dön?",
+            "zh-CN": "回到主页？"
+          }
+        },
         {
           "Key": "QuestionOpenGPSSettings",
           "Translations": {
@@ -3105,117 +3121,117 @@
           }
         },
         {
-  "Key": "NoLeft",
-  "Translations": {
-    "ar": "لم يعد لديك {0}.",
-    "en-US": "You have no {0} left.",
-    "de-DE": "Du hast kein {0} mehr.",
-    "es-ES": "No te queda {0}.",
-    "fr-FR": "Vous n'avez plus de {0}.",
-    "it-IT": "Non hai più {0}.",
-    "ja-JP": "{0}がありません。",
-    "pt-PT": "Você não tem mais {0}.",
-    "ru-RU": "У вас больше нет {0}.",
-    "tr-TR": "{0} kalmadı.",
-    "zh-CN": "你没有剩下的 {0}。"
-  }
-},
-{
-  "Key": "MaxEnergy",
-  "Translations": {
-    "ar": "الطاقة القصوى",
-    "en-US": "Max Energy",
-    "de-DE": "MaxEnergie",
-    "es-ES": "Energía Máxima",
-    "fr-FR": "Énergie Max",
-    "it-IT": "Energia Massima",
-    "ja-JP": "最大エネルギー",
-    "pt-PT": "Energia Máxima",
-    "ru-RU": "Максимальная энергия",
-    "tr-TR": "Maks Enerji",
-    "zh-CN": "最大能量"
-  }
-},
-{
-  "Key": "TapToEat",
-  "Translations": {
-    "ar": "اضغط لتأكل",
-    "en-US": "Tap to Eat",
-    "de-DE": "Tippe, um zu essen",
-    "es-ES": "Toca para comer",
-    "fr-FR": "Tapez pour manger",
-    "it-IT": "Tocca per mangiare",
-    "ja-JP": "タップして食べる",
-    "pt-PT": "Toque para comer",
-    "ru-RU": "Нажмите, чтобы есть",
-    "tr-TR": "Yemek için dokunun",
-    "zh-CN": "点击吃饭"
-  }
-},
-{
-  "Key": "TimeWith",
-  "Translations": {
-    "ar": "الوقت مع",
-    "en-US": "time with",
-    "de-DE": "Zeit mit",
-    "es-ES": "tiempo con",
-    "fr-FR": "temps avec",
-    "it-IT": "tempo con",
-    "ja-JP": "時間と一緒に",
-    "pt-PT": "tempo com",
-    "ru-RU": "время с",
-    "tr-TR": "ile zaman",
-    "zh-CN": "时间与"
-  }
-},
-{
-  "Key": "AdRewardTitle",
-  "Translations": {
-    "ar": "مكافأة الإعلان",
-    "en-US": "Ad Reward",
-    "de-DE": "Werbebelohnung",
-    "es-ES": "Recompensa publicitaria",
-    "fr-FR": "Récompense publicitaire",
-    "it-IT": "Ricompensa pubblicitaria",
-    "ja-JP": "広告報酬",
-    "pt-PT": "Recompensa do anúncio",
-    "ru-RU": "Рекламная награда",
-    "tr-TR": "Reklam Ödülü",
-    "zh-CN": "广告奖励"
-  }
-},
+          "Key": "NoLeft",
+          "Translations": {
+            "ar": "لم يعد لديك {0}.",
+            "en-US": "You have no {0} left.",
+            "de-DE": "Du hast kein {0} mehr.",
+            "es-ES": "No te queda {0}.",
+            "fr-FR": "Vous n'avez plus de {0}.",
+            "it-IT": "Non hai più {0}.",
+            "ja-JP": "{0}がありません。",
+            "pt-PT": "Você não tem mais {0}.",
+            "ru-RU": "У вас больше нет {0}.",
+            "tr-TR": "{0} kalmadı.",
+            "zh-CN": "你没有剩下的 {0}。"
+          }
+        },
         {
-  "Key": "YourRewardForWaiting",
-  "Translations": {
-    "ar": "لقد جمعت {0} {1} أثناء غيابك.",
-    "en-US": "You have collected {0} {1} while you were away.",
-    "de-DE": "Du hast {0} {1} gesammelt, als du weg warst.",
-    "es-ES": "Has recogido {0} {1} mientras estabas fuera.",
-    "fr-FR": "Vous avez collecté {0} {1} pendant que vous étiez absent.",
-    "it-IT": "Hai raccolto {0} {1} mentre eri via.",
-    "ja-JP": "離れている間に{0} {1}を集めました。",
-    "pt-PT": "Você coletou {0} {1} enquanto estava ausente.",
-    "ru-RU": "Вы собрали {0} {1}, пока вас не было.",
-    "tr-TR": "Uzaktayken {0} {1} topladınız.",
-    "zh-CN": "你不在的时候收集了 {0} {1}。"
-  }
-},
-{
-  "Key": "WatchAdForReward",
-  "Translations": {
-    "ar": "شاهد إعلانًا للحصول على {0}",
-    "en-US": "Watch an ad to receive {0}",
-    "de-DE": "Schau dir eine Werbung an, um {0} zu erhalten",
-    "es-ES": "Mira un anuncio para recibir {0}",
-    "fr-FR": "Regardez une publicité pour recevoir {0}",
-    "it-IT": "Guarda un annuncio per ricevere {0}",
-    "ja-JP": "{0}を受け取るために広告を見る",
-    "pt-PT": "Assista a um anúncio para receber {0}",
-    "ru-RU": "Посмотрите рекламу, чтобы получить {0}",
-    "tr-TR": "{0} almak için bir reklam izle",
-    "zh-CN": "观看广告以获得 {0}"
-  }
-}
+          "Key": "MaxEnergy",
+          "Translations": {
+            "ar": "الطاقة القصوى",
+            "en-US": "Max Energy",
+            "de-DE": "MaxEnergie",
+            "es-ES": "Energía Máxima",
+            "fr-FR": "Énergie Max",
+            "it-IT": "Energia Massima",
+            "ja-JP": "最大エネルギー",
+            "pt-PT": "Energia Máxima",
+            "ru-RU": "Максимальная энергия",
+            "tr-TR": "Maks Enerji",
+            "zh-CN": "最大能量"
+          }
+        },
+        {
+          "Key": "TapToEat",
+          "Translations": {
+            "ar": "اضغط لتأكل",
+            "en-US": "Tap to Eat",
+            "de-DE": "Tippe, um zu essen",
+            "es-ES": "Toca para comer",
+            "fr-FR": "Tapez pour manger",
+            "it-IT": "Tocca per mangiare",
+            "ja-JP": "タップして食べる",
+            "pt-PT": "Toque para comer",
+            "ru-RU": "Нажмите, чтобы есть",
+            "tr-TR": "Yemek için dokunun",
+            "zh-CN": "点击吃饭"
+          }
+        },
+        {
+          "Key": "TimeWith",
+          "Translations": {
+            "ar": "الوقت مع",
+            "en-US": "time with",
+            "de-DE": "Zeit mit",
+            "es-ES": "tiempo con",
+            "fr-FR": "temps avec",
+            "it-IT": "tempo con",
+            "ja-JP": "時間と一緒に",
+            "pt-PT": "tempo com",
+            "ru-RU": "время с",
+            "tr-TR": "ile zaman",
+            "zh-CN": "时间与"
+          }
+        },
+        {
+          "Key": "AdRewardTitle",
+          "Translations": {
+            "ar": "مكافأة الإعلان",
+            "en-US": "Ad Reward",
+            "de-DE": "Werbebelohnung",
+            "es-ES": "Recompensa publicitaria",
+            "fr-FR": "Récompense publicitaire",
+            "it-IT": "Ricompensa pubblicitaria",
+            "ja-JP": "広告報酬",
+            "pt-PT": "Recompensa do anúncio",
+            "ru-RU": "Рекламная награда",
+            "tr-TR": "Reklam Ödülü",
+            "zh-CN": "广告奖励"
+          }
+        },
+        {
+          "Key": "YourRewardForWaiting",
+          "Translations": {
+            "ar": "لقد جمعت {0} {1} أثناء غيابك.",
+            "en-US": "You have collected {0} {1} while you were away.",
+            "de-DE": "Du hast {0} {1} gesammelt, als du weg warst.",
+            "es-ES": "Has recogido {0} {1} mientras estabas fuera.",
+            "fr-FR": "Vous avez collecté {0} {1} pendant que vous étiez absent.",
+            "it-IT": "Hai raccolto {0} {1} mentre eri via.",
+            "ja-JP": "離れている間に{0} {1}を集めました。",
+            "pt-PT": "Você coletou {0} {1} enquanto estava ausente.",
+            "ru-RU": "Вы собрали {0} {1}, пока вас не было.",
+            "tr-TR": "Uzaktayken {0} {1} topladınız.",
+            "zh-CN": "你不在的时候收集了 {0} {1}。"
+          }
+        },
+        {
+          "Key": "WatchAdForReward",
+          "Translations": {
+            "ar": "شاهد إعلانًا للحصول على {0}",
+            "en-US": "Watch an ad to receive {0}",
+            "de-DE": "Schau dir eine Werbung an, um {0} zu erhalten",
+            "es-ES": "Mira un anuncio para recibir {0}",
+            "fr-FR": "Regardez une publicité pour recevoir {0}",
+            "it-IT": "Guarda un annuncio per ricevere {0}",
+            "ja-JP": "{0}を受け取るために広告を見る",
+            "pt-PT": "Assista a um anúncio para receber {0}",
+            "ru-RU": "Посмотрите рекламу, чтобы получить {0}",
+            "tr-TR": "{0} almak için bir reklam izle",
+            "zh-CN": "观看广告以获得 {0}"
+          }
+        }
       ]
     },
     {
