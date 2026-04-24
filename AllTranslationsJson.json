@@ -529,60 +529,6 @@
             "tr-TR": "Hayır, teşekkürler",
             "zh-CN": "不用了，谢谢"
           }
-        },
-        {
-          "Key": "OpenYouTube",
-          "version": 0,
-          "date": null,
-          "Translations": {
-            "ar": "افتح YouTube",
-            "en-US": "Open YouTube",
-            "de-DE": "YouTube öffnen",
-            "es-ES": "Abrir YouTube",
-            "fr-FR": "Ouvrir YouTube",
-            "it-IT": "Apri YouTube",
-            "ja-JP": "YouTubeを開く",
-            "pt-PT": "Abrir YouTube",
-            "ru-RU": "Открыть YouTube",
-            "tr-TR": "YouTube'u aç",
-            "zh-CN": "打开 YouTube"
-          }
-        },
-        {
-          "Key": "Tutorial",
-          "version": 0,
-          "date": null,
-          "Translations": {
-            "ar": null,
-            "en-US": null,
-            "de-DE": null,
-            "es-ES": null,
-            "fr-FR": null,
-            "it-IT": null,
-            "ja-JP": null,
-            "pt-PT": null,
-            "ru-RU": null,
-            "tr-TR": null,
-            "zh-CN": null
-          }
-        },
-        {
-          "Key": "Tutorial",
-          "version": 0,
-          "date": null,
-          "Translations": {
-            "ar": null,
-            "en-US": null,
-            "de-DE": null,
-            "es-ES": null,
-            "fr-FR": null,
-            "it-IT": null,
-            "ja-JP": null,
-            "pt-PT": null,
-            "ru-RU": null,
-            "tr-TR": null,
-            "zh-CN": null
-          }
         }
       ]
     },
@@ -1246,42 +1192,6 @@
             "ru-RU": "Настройки Отображения",
             "tr-TR": "Görüntüleme Ayarları",
             "zh-CN": "显示设置"
-          }
-        },
-        {
-          "Key": "OpenYouTube",
-          "version": 0,
-          "date": null,
-          "Translations": {
-            "ar": "افتح YouTube",
-            "en-US": "Open YouTube",
-            "de-DE": "YouTube öffnen",
-            "es-ES": "Abrir YouTube",
-            "fr-FR": "Ouvrir YouTube",
-            "it-IT": "Apri YouTube",
-            "ja-JP": "YouTubeを開く",
-            "pt-PT": "Abrir YouTube",
-            "ru-RU": "Открыть YouTube",
-            "tr-TR": "YouTube'u aç",
-            "zh-CN": "打开 YouTube"
-          }
-        },
-        {
-          "Key": "OpenYouTube",
-          "version": 0,
-          "date": null,
-          "Translations": {
-            "ar": "افتح YouTube",
-            "en-US": "Open YouTube",
-            "de-DE": "YouTube öffnen",
-            "es-ES": "Abrir YouTube",
-            "fr-FR": "Ouvrir YouTube",
-            "it-IT": "Apri YouTube",
-            "ja-JP": "YouTubeを開く",
-            "pt-PT": "Abrir YouTube",
-            "ru-RU": "Открыть YouTube",
-            "tr-TR": "YouTube'u aç",
-            "zh-CN": "打开 YouTube"
           }
         }
       ]
